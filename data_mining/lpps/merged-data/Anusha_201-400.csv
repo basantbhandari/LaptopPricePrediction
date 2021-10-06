@@ -1,0 +1,200 @@
+msi,MSI GS66 Stealth 10SFS Thin,Core-i7-10750H,,RTX 2070,32,1024,,,,386000
+msi,MSI GE66 Raider 10SF,Core-i7-10750H,,RTX 2070,16,1024,,,,306000
+msi,MSI GE76 Raider 10UG,Core-i7-10870H,,RTX 3070,16,2048,,,,320000
+msi,MSI GE76 Raider 10UH,Core-i7-10870H,,RTX 3070,32,2048,,,,350000
+msi,MSI GP65 Leopard 10SDK,Core-i7-10750H,,GTX 1660 Ti,16,512,,,,205000
+msi,MSI GP66 Leopard 10UE,Core-i7-10870H,,RTX 3060,16,1024,,,,259000
+msi,MSI GP67 Leopard 10UE,Core-i7-10870H,,RTX 3060,16,1024,,,,259000
+msi,MSI GL75 Leopard 10SDR,i7-10750H,144,GTX 1660 Ti,16,512,,,,189000
+msi,MSI GL75 Leopard 10SFK,i7-10750H,144,RTX 2070,8,512,1024,,,250000
+msi,MSI GF63 Thin 10SCXR,i7-10750H,,GTX 1650,8,512,,,,137000
+msi,MSI GF65 Thin 10SDR,i5-10300H,120,GTX 1660 Ti,8,1024,,,,145000
+msi,MSI GF65 10SDR,i7-10750H,144,GTX 1660 Ti,8,1024,,,,175000
+msi,MSI GF65 10UE,i5-10300H,144,RTX 3060,16,512,,,,198000
+msi,MSI GF65 10UE,i7-10750H,144,RTX 3060,16,512,,,,220000
+msi,MSI Bravo 15  A4DDR,Ryzen 7 4800H,,Radeon RX,8,1024,,,,155000
+msi,MSI Creator 15 A10SF,i7-10875H,,RTX 2070,32,512,,,4k,360000
+msi,MSI Creator 15 A10SFS,i7-10875H,,RTX 2070,32,512,,,4k,418000
+msi,MSI Prestige 14 Evo,i5-1135G7,,Iris Xe,16,512,,,fhd,173000
+msi,MSI Prestige 14 Evo,i7-1185G7,,Iris Xe,16,512,,,fhd,193000
+msi,MSI Prestige 15 A11SC,i7-1185G7,,GTX 1650 Ti,16,512,,,fhd,241000
+msi,MSI Modern 15 A10M,i5-10210U,,Intel ,8,512,,15.6,uhd,110000
+msi,MSI Modern 14 B11SB,i5-1135G7,,MX450,8,512,,14,,135000
+msi,MSI Modern 14 B11SB,i7-1165G7,,MX450,8,512,,14,,147000
+msi,MSI Modern 15 A11SB,i5-1135G7,,MX450,8,512,,15.6,,137000
+msi,MSI Modern 15 A11SB,i7-1165G7,,MX450,8,512,,15.6,,148000
+msi,MSI Summit B15 A11M,i5-1135G7,,Iris Xe,8,512,,,fhd,138000
+msi,MSI Summit B15 A11M,i7-1165G7,,Iris Xe,8,512,,,fhd,168000
+msi,MSI Summit E15 A11SCS,i7-1185G7,,GTX 1650 Ti,16,1024,,,fhd,249000
+msi,MSI Summit E15 A11SCS,i7-1185G7,,GTX 1650 Ti,16,1024,,,4k,259000
+microsoft,Microsoft Surface Pro X,,,,8,128,,,,160000
+microsoft,Microsoft Surface Pro 7,Core i3,,,4,128,,,,117000
+microsoft,Microsoft Surface Pro 7,Core i5,,,8,128,,,,142000
+microsoft,Microsoft Surface Pro 7,Core i5,,,8,256,,,,188000
+microsoft,Microsoft Surface Pro 7,Core i7,,,16,256,,,,228000
+microsoft,Microsoft Surface Laptop 3,Core i5,,,8,128,,13.5,,159000
+microsoft,Microsoft Surface Laptop 3,Ryzen 5 3580U,,Radeon Vega 9,8,128,,15,,187000
+razer,Razer Blade Stealth,Core i7-1165G7,120,GTX 1650 Ti,16,512,,,fhd,289000
+razer,Razer Blade 15,Core i7-10750H,144,RTX 2060,16,512,,,fhd,279000
+razer,Razer Blade 15,Core i7-10750H,144,RTX 2070,16,512,,,fhd,310000
+ripple,Pandora,i7-1165G7,,Iris Xe,8,256,,15.6,fhd,75000
+ripple,Artifact,i5-10300H,,GTX 1650 Ti,8,256,,15.6,fhd,120000
+ripple,Artifact Pro,Ryzen 7 4800H,,RTX 2060,8,256,,15.6,fhd,175000
+ripple,Artifact Pro,Ryzen 7 4800H,,RTX 3060,16,256,,15.6,fhd,200000
+ripple,Raze,i5-11400H,,RTX 3050,8,256,,15.6,fhd,150000
+ripple,Raze Pro,i7-11800H,,RTX 3050,8,256,,15.6,fhd,200000
+ripple,Genos,Ryzen 7 3700X,,RTX 2060,8,256,,15.6,fhd,185000
+ripple,Genos Pro,Ryzen 9 3900X,,RTX 2070,8,256,,15.6,fhd,225000
+hp,15CS3079 Pavilion , i5,  ,  ,8,256,  ,15.6, ,86000
+asus ,TUF FX 506LI GAMING LAPTOP, I5-10300H,  ,GTX 1650 TI 4 ,8,256,  ,15.6,fhd ,115000
+hp ,PAVILION POWER 15 GAMING, i5-10300H,  ,GTX1650 4 ,8,256,  ,15.6,fhd ips,112000
+hp ,24-DF0309 ,Core i3-10th gen,  ,  ,12,256,  ,24,fhd,88000
+hp ,15-GW0010 ,AMD Ryzen 3 3250U ,,  ,4,128,1024,15.6,  ,63500
+lenovo , V14 ,Ryzen 5 4500U ,  ,AMD Radeon,8,  ,1024,14,fhd ,78500
+hp ,Hp-14,10th Gen Intel Core i5, , ,8,256, ,14,fhd,84000
+hp ,Hp-14,11th Gen Core i3 Laptop,  , ,8,256, ,14,hd touch,75000
+hp ,Hp-14, AMD Ryzen ,,Radeon Vega 3,4,  ,1024,14,fhd,56000
+hp ,Pavilion 14-CE3065 ,Intel Core i5 (1035G1)10th Gen ,  , ,8,256, ,14,fhd,85000
+lenovo ,Legion 5 15IMH05H ,i7-10750H 6-Core,  ,NVIDIA GTX 1660 Ti,8,512,,,hd,155000
+dell,Inspiron 5391 ,Intel 10th Gen Core i7-10510U, ,Nvidia MX 250,8,512, ,13.3,hd,116000
+lenovo ,Yoga 7 15ITL5,Intel Core i5-1135G7 X4 ,,  ,8,256, ,15.6,touch,107000
+hp ,Hp-15-DY1076 ,Core i5-1035G1 10th gen, , ,8,256, ,15.6,hd,80000
+hp ,Hp-255,Ryzen 5,  ,  ,8, ,1024,15.6, ,74000
+hp, 15-da2180nia ,10th Gen Intel Core i5-10210U,  ,  ,4,  ,1024,15.6, hd,76000
+hp ,Hp- 14,Intel Core i5-1035G4, , ,8,256, ,14,fhd ips,84000
+hp ,Hp-15  ,11th Gen Intel Core i5-1135G7 , , ,8,256,  ,15.6,hd ips,86000
+hp ,Hp-14 ,Core i3 1005G1, , ,8,256, ,14,hd,65000
+dell, Vostro 3591 ,10th Gen Core i7-10210G1, ,Nvidia MX230 2,8,512, ,15.6,fhd,115000
+dell, Vostro 3401,10th gen i3-1005G1  , ,Integrated Graphics,4, ,1024,14,hd,57500
+lenovo ,Ideapad Slim 3i,10th Gen Intel Core i3,  , ,8,256, ,15.6,fhd,63000
+lenovo ,ThinkBook 14-IIL 20SL0016US,Core i5 i5-1035G7 ,  ,AMD Radeon TM 630 Graphic,8, ,1024,14,hd,95000
+lenovo ,IdeaPad S540,10th Gen Intel Core i5, , ,8,256, ,13.3,wqhd ips,95000
+lenovo, IdeaPad 130,Core i3 8th Gen , , ,4, ,1024,15.6, ,56000
+apple ,MacBook Air ,i3 Processor,  , ,8,256, ,13,retina,138000
+apple, MacBook Air ,i5 Processor,  , ,8,512, ,13,retina,195000
+apple, MacBook Air,Apple M1 Chip , , ,8,512, ,13, ,205000
+dell,Inspiron 7490-7842SLV,Intel Core i7-10510U X4 ,, ,8,512,  ,14,fhd ,115000
+acer ,Aspire 5,Intel Core i5-1035G1,  , ,8,512,  ,15.6,hd ips,85000
+acer,Swift 3,Ryzen 5-4500U , , ,8,256, ,14, ,88000
+acer,Swift 3 ,Ryzen 5-4500U Processor , , ,8,512, ,14,fhd,96000
+acer ,Nitro 5 ,AMD Ryzen 5  , ,NVIDIA GeForce GTX 1650 ,8,256, ,15.6,fhd ,108000
+acer ,Nitro 5,Intel Core i5 - 10th Gen ,  ,GTX 1650 Graphics,8,256, ,15.6,fhd ips,112000
+hp ,Envy 13 ,Core i5 11th Generation  , , ,8,256,  ,13.3,fhd ,116000
+lenovo ,Yoga7 ,i7-11th gen(1165G7), , ,12,512, ,14,fhd  touch,132000
+lenovo ,Flex 5 ,AMD Ryzen 7 4700U (8-Core) Processor ,,  ,8,512,  ,14,fhd  touch,115000
+lenovo ,Flex 5 ,AMD Ryzen 3 4300U Processor, , ,8,256, ,14,fhd touch,74000
+lenovo ,Legion 5 15IMH05H ,i7-10750H 6-Core,  ,NVIDIA GTX 1650 Ti,8,512,,15.6,hd,145000
+lenovo , Ideapad Slim 3i,10th Gen Intel Core i3 , , ,8,256, ,15.6,hd,64000
+lenovo ,Yoga C740,10th gen i7-10510U , , ,16,256, ,15.6,fhd touch,165000
+lenovo ,IdeaPad Flex 5,14IIL05 Intel i5-1035G1, , ,16,512, ,14,fhd ips touch,100000
+lenovo ,IdeaPad 3 ,Intel Core i5-1035G1 Quad-Core Processor,  , ,8,512, ,14, ,82000
+lenovo ,Legion 5 15IMH05H ,i7-10750H 6-Core, ,NVIDIA RTX 2060,16,512,,15.6,hd ips,180000
+lenovo , Yoga 7i ,Intel Evo Platform Core i7 11th gen ,  , ,12,512, ,14, fhd touch,132000
+lenovo ,Flex 5 14IIL05 ,10th gen Intel i5-1035G1, , ,8,512,  ,14,fhd,92000
+lenovo ,V14 ,Ryzen 5 4500U ,  ,AMD Radeon,8, ,1024,14,fhd ,78500
+lenovo, V14 ,Intel Celeron N4020 ,  ,Intel hd graphic,4, ,1024,14,hd ,45000
+dell,XPS 13 7390 ,10th Gen Intel Core i7-10710U, ,Intel uhd Graphics,16,512, ,13.4, fhd touch,190000
+dell,Inspiron 7405,AMD Ryzen 5 4500U,  , ,8,256,  ,14,hd Touch,109500
+dell,Inspiron 7306,11th Gen Core i7  , ,Iris Xe Graphics ,16,512,  ,13,uhd ,166000
+dell,G5 5500  ,Intel i7-10750H,  ,NVIDIA GTX 1650Ti 4,8,256,,15.6,fhd,150000
+asus ,Zenbook 14 ,AMD Ryzen,  ,NVIDIA GEFORCE MX350,8,256, ,14,fhd,95000
+asus ,VivoBook 15 F515,Intel Core i3-1005G1 Processor,  ,  ,4,128,,15.6,fhd,60000
+asus ,E410MA ,Intel Celeron N4020, , ,4,256, ,14,hd,48000
+asus ,TUF TUF506IU-ES74 ,AMD Ryzen 7 4800H,144,GeForce GTX 1660 Ti  6,16,512,,15.6,hd ips,155000
+asus, Vivobook Flip 14,Intel Quad-Core Pentium N5000 Processor,  ,  ,4,128,,14,hd Touch,57500
+asus ,VivoBook Flip 14 ,AMD Ryzen 5 4500U, , ,8,512,  ,14,fhd touch ,108000
+asus ,Vivobook Flip TP412FA-DS51T-CA ,Intel Core i5 10th Gen 10210U ,, ,8,512, ,14,fhd,112000
+asus ,VivoBook 512JA ,Intel Core i5-1035G1 ,, ,8,256, ,15.6,fhd touch,86000
+asus , ROG Zephyrus G14,AMD Ryzen 9 ,,NVIDIA GeForce RTX 2060,16,1, ,15.6,fhd,200000
+asus ,TUF FX 506LI ,I5-10300H,,GTX 1650 TI 4 GRAPHIC,8,256, ,15.6,fhd ,115000
+hp , Hp-14,AMD Ryzen 3 ,,Radeon Vega 3 ,4, ,1024,14,hd,59000
+hp ,15-DY1045 ,Core i5-1035G1,, ,8,256,  ,15.6,  ,85000
+hp ,Envy x360 ,Intel Evo Platform 11th Gen Core i7-1165G7,, ,8,512,,13.3,fhd ips touch,138000
+hp, OMEN 15 ,Intel 6-Core i7-10750H ,,NVIDIA GTX 1660 Ti,8,256,1024,15.6,ips fhd,160000
+hp ,15CS3079NR Pavilion ,i5,, ,8,256,  ,15.6,fhd,89000
+hp ,Hp-14,11th Gen i3-1135G4,, ,,256, ,14,fhd touch,75000
+hp ,Pavilion x360, Core i5-10210U ,, ,8,256, ,14,fhd Touch,95000
+hp, Pavilion x360 14M, Intel Core i3-1005G1 10th gen,, ,8,128, ,14,touch,74000
+hp ,15-DY2056 ,Intel Core i5-1135G7 11th Gen Processor,, ,12,256,   ,15.6,touch hd ips,94500
+hp ,Hp-14,AMD Ryzen 3,, ,4, ,1024,14,hd touch,56000
+hp ,Pavilion 14 DV0010,Core i5 11th Generation  ,, ,8,256, ,14,fhd ,92000
+hp ,Hp-14 (2021),11th Gen Core i3  ,, ,8,256,  ,14,touch hd ,75000
+hp ,Hp-14,10th Gen Intel Core i5 Processor i5-1035G1,, ,8,256, ,14,hd,84000
+hp ,Hp-15-GW0010 ,AMD Ryzen 3 3250U,, ,4,128,1024,15.6,fhd,63500
+hp ,24-DF0309 ,Core i3-10th gen,  , ,12,256,  ,24,fhd,88000
+hp ,PAVILION POWER 15 GAMING,i5-10300H, ,GTX1650 4 ,8,256, ,15.6,fhd ips,112000
+hp ,15CS3079 Pavilion,i5,  , ,8,256, ,15.6,fhd ,86000
+asus,TUF Dash FX516PM,i7,,,16,512,,15.6,fhd,209990
+acer,A515,i5,,,8,,1024,15.6,,86990
+acer,A515,Ryzen 3,,,4,128,,15.6,fhd,59990
+acer,Predator,i7,,,16,512,,15.6,fhd,182990
+acer,SF314-57G,i5,,,8,256,,14,fhd,95990
+acer,SF314-57G,i7,,,8,512,,14,fhd,115990
+acer,SF714-52T,i7,,,16,512,,14,fhd,142990
+apple,MacBook Air,i3,,,8,256,,13.3,qhd,139990
+apple,MacBook Air,,,,8,512,,13.3,qhd,189990
+apple,MacBook Pro,i5,,,8,256,,13.3,qhd,189990
+asus,FA506 ,Ryzen 7,,,8,512,,15.6,fhd,157990
+asus,ROG ZEPHYRUS GA401QM,Ryzen 9,,,16,1024,,14,fhd,274990
+asus,Strix G512LI,i7,,,8,512,,15.6,fhd,144990
+asus,TP412UA,i7,,,8,256,,14,fhd Touch,106990
+asus,VivoBook Flip 14 TP412FA,i3,,,4,128,,14,fhd,67990
+asus,VivoBook R564JA,i5,,,8,256,,15.6,fhd,84990
+asus,ZenBook,Ryzen 5,,,8,256,,14,fhd,99990
+dell,3501,i5,,,8,256,,15.6,fhd,94990
+dell,3501,i5,,,8,256,,15.6,fhd,82990
+dell,5505,Ryzen 7,,,8,256,,15.6,fhd,109990
+dell,G5-15,i7,,,8,256,,15.6,fhd,135990
+dell,In 5400,i3,,Intel uhd,4,128,,14,hd,74990
+dell,In 5402,i5,,,8,512,,14,fhd,108990
+dell,In 5406,i5,,,8,256,,14,hd touch,112990
+dell,In 5406,i7,,,8,512,,14,fhd Touch,123990
+dell,In 5502,i7,,,8,256,,15.6,fhd,119990
+dell,In 7490,i7,,,8,512,,14,fhd,114990
+dell,In 7506,i5,,,12,512,,15.6,fhd,119990
+dell,Vostro 3400,i5,,,4,,1024,14,fhd,78990
+dell,Vostro 3400,i5,,,8,256,,14,fhd,82990
+dell,Vostro 3400,i7,,,8,512,,14,fhd,115990
+dell,Vostro 3401,i3,,,4,128,1024,14,hd,62990
+dell,Vostro 3401,i3,,,4,,1024,14,hd,58990
+dell,Vostro 3500,i5,,,4,,1024,15.6,fhd,78990
+dell,Vostro 3500,i7,,,8,512,,15.6,fhd,115990
+dell,Vostro 3501,i3,,,4,,1024,15.6,hd,58990
+hp,14-cf2224nia,i5,,,4,,1024,14,hd,82990
+hp,14-cf2224nia,i5,,,8,128,1024,14,hd,89990
+hp,14-dq1043,i3,,,8,256,,14,fhd,64990
+hp,14-dq1059wm,i5,,,8,256,,14,hd,78990
+hp,15-DW3048NE,i3,,,8,256,,15.6,hd,64990
+hp,15-dy1071wm,i7,,,8,256,,15.6,hd,99990
+hp,15-dy2021nr,i5,,,8,256,,15.6,fhd,84990
+hp,ENVY 13-ba1000,i5,,,8,256,,13.3,fhd,114990
+hp,ENVY-13m-bd0023dx,i7,,,8,512,,13.3,fhd-touch,137990
+hp,OMEN-15,Ryzen 7,,,16,512,,15.6,fhd,181990
+hp,Pav 15-eh0050wm,Ryzen 5,,,8,512,,15.6,fhd,91990
+hp,Pav Gaming 15-ec1073dx,Ryzen 5,,,8,256,,15.6,fhd,102990
+hp,Pav Gaming-15-ec0013dx,Ryzen 5,,,8,256,,15.6,fhd,89990
+hp,14-dk1025wm,Ryzen 3,,,4,,1024,14,hd,58990
+hp,15-dw3047nr,i7,,,8,256,,15.6,fhd,106990
+hp,OMEN-15-dh1019nr,i7,,,32,512,,15.6,fhd,259990
+lenovo,LEGION 5,i7,,,8,512,,15.6,fhd,156990
+lenovo,LEGION 5,Ryzen-5,,,8,256,1024,15.6,fhd,124990
+lenovo,15IIL05,i7,,,12,512,,15.6,fhd,94990
+lenovo,E41-45,AMD,,,4,,1024,14,hd,41990
+lenovo,Flex14IML,i7,,,16,512,,14,fhd,124990
+lenovo,IdeaPad 3,i5,,,8,512,,14,fhd,79990
+lenovo,IdeaPad 3,i7,,,8,,1024,14,hd,99990
+lenovo,S540,i7,,,16,512,,13.3,qhd,129990
+lenovo,S540,i7,,,8,256,,13.3,qhd,119990
+lenovo,slim 7 14IIL05,i7,,,16,512,,14,fhd,134990
+lenovo,V130 Cel,Celeron,,,4,,1024,15.6,hd,46990
+lenovo,V130 Cel,Celeron,,,4,512,,15.6,hd,44990
+lenovo,Yoga 7,i7,,,12,512,,14,fhd,134990
+msi,GL65-9SDK,i7,120,,16,512,,15.6,fhd,164990
+msi,GS66 Stealth,i7,120,,16,512,,15.6,fhd,181990
+acer,NITRO AN515,i5,,,8,256,,15.6,fhd,117990
+acer,NITRO AN515,Ryzen 5,,,8,256,,15.6,fhd,107990
+acer,NITRO AN515,Ryzen 7,,,8,,1024,15.6,fhd,134990
+acer,ASPIRE 7 ,8th gen i7 8750H,60,GTX 1050Ti 4,16,256,1024,15.6,hd,126800
+acer,Nitro 5 ,10th Gen i5-10300H,60,GTX 1050 4,8,256,,15.6,hd,116800
+acer,Nitro 5 ,Intel i7-9750H,144,RTX 2060,16,256,,15.6,fhd,160800
+acer,Nitro 5 ,9th i5 9300H,60,GTX 1650 4,8,512,,15.6,ips hd,108800

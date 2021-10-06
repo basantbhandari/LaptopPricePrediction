@@ -1,0 +1,81 @@
+Brand_name,Model,CPU_core,Clock,GPU,RAM,SSD,HDD,Display_Size,Display_quality,Price
+HP, 15CS3079 Pavilion , i5,  ,  , 8GB RAM, 256GB SSD,  ,15.6, Touch-Screen,86000
+ASUS , TUF FX 506LI GAMING LAPTOP, I5-10300H,  , GTX 1650 TI 4GB GRAPHIC, 8GB RAM,256GB SSD,  ,15.6,FHD DISPLAY ,115000
+HP ,PAVILION POWER 15 GAMING, i5-10300H,  ,GTX1650 4GB GRAPHIC,8GB RAM, 256GB SSD,  ,15.6, FHD IPS DISPLAY,112000
+HP , 24-DF0309 ,Core™ i3-10th gen,  ,  ,12gb RAM, 256gb SSD,  ,24, FHD Display,88000
+HP , 15-GW0010 ,AMD Ryzen™ 3 3250U ,2.6GHz,  ,4GB RAM, 128 GB SSD ,1TB HDD,15.6,  ,63500
+Lenovo , V14 , Ryzen 5 4500U ,  ,AMD Radeon Graphics - Twisted nematic (TN),8 GB RAM ,  , 1TB HDD ,14,FHD 1920 x 1080 ,78500
+HP ,HP-14, 10th Gen Intel Core i5 Processori5-1035G1, , ,8GB v,256GB SSD, ,14,FHD,84000
+HP ,HP-14,11th Gen Core i3 Laptop,  , ,8 GB RAM, 256GB SSD, ,14, touch (35.56 cms) HD Screen,75000
+HP ,HP-14, AMD Ryzen ,3 3.5GHz,Radeon Vega 3, 4GB RAM,  ,1TB HDD,14, FHD,56000
+HP ,Pavilion 14-CE3065 ,Intel Core i5 (1035G1)10th Gen ,  , ,8GB Ram, 256GB SSD, ,14,FHD Display,85000
+Lenovo ,Legion 5 15IMH05H ,i7-10750H 6-Core,  ,NVIDIA GTX 1660 Ti, 8GB RAM, 512GB PCIe SSD, ,15.6, Full HD (1920x1080),155000
+Dell , Inspiron 5391 ,Intel 10th Gen Core i7-10510U, , 2 GB Nvidia MX 250 Graphics,  8 GB RAM, 512GB SSD, ,13.3,Full HD (1920 x 1080),116000
+Lenovo ,Yoga 7 15ITL5,   Intel Core i5-1135G7 X4 ,2.4GHz,  ,8GB RAM, 256GB SSD, ,15.6,Touch ,107000
+HP ,HP-15-DY1076 , Core i5-1035G1 10th gen, , ,8GB RAM, 256GB SSD, ,15.6, HD Display,80000
+HP ,HP-255, g7/RYZEN 5,  ,  ,8GB RAM , ,1TB HDD ,15.6, LED,74000
+HP, 15-da2180nia ,10th Gen Intel Core i5-10210U,  ,  , 4GB RAM,  ,1TB HDD,15.6, HD,76000
+HP ,HP- 14, Intel Core i5-1035G4, , , 8GB DDR4 RAM ,256 GB SSD, ,14,FHD IPS LED 1080p,84000
+HP ,HP-15  ,11th Gen Intel Core i5-1135G7 , , , 8 GB RAM, 256 GB SSD  ,  ,15.6,Full HD IPS Display,86000
+HP ,HP-14 ,Core i3 1005G1, 3.4GHz, , 8GB RAM,256GB SSD, ,14,1080P ,65000
+DELL , Vostro 3591 ,10th Gen Core i7-10210G1, ,2GB Nvidia MX230,8GB RAM,512GB SSD, ,15.6, FHD,115000
+Dell , Vostro 3401,  10th gen i3-1005G1  , ,Integrated Graphics, 4GB RAM, , 1TB  ,14,HD,57500
+Lenovo ,Ideapad Slim 3i, 10th Gen Intel Core i3,  , ,8GB RAM,256GB SSD, , 15.6 inch ,FHD,63000
+Lenovo ,ThinkBook 14-IIL 20SL0016US, Core i5 i5-1035G7 ,  ,AMD Radeon TM 630 Graphics - in-Plane Switching, 8GB RAM , , 1TB HDD,14, 1920 x 1080 ,95000
+Lenovo ,IdeaPad S540, 10th Gen Intel Core i5, , , 8GB RAM, 256GB SSD, ,13.3, WQHD IPS,95000
+Lenovo, IdeaPad 130, Core i3 8th Gen , , ,4GB RAM , ,1TB HDD,15.6, ,56000
+Apple ,MacBook Air , i3 Processor,  , ,8GB RAM, 256GB SSD , ,13,Retina Display,138000
+Apple, MacBook Air , i5 Processor,  , ,8GB RAM, 512GB SSD  , ,13,Retina Display,195000
+Apple, MacBook Air,Apple M1 Chip , , , 8GB RAM, 512GB SSD , ,13, ,205000
+Dell ,Inspiron 7490-7842SLV, Intel Core i7-10510U X4 ,1.8GHz, ,8GB  RAM,512GB SSD,  ,14,FHD ,115000
+Acer ,Aspire 5,  Intel Core i5-1035G1,  , ,8GB DDR4 RAM, 512GB SSD,  ,15.6, Full HD IPS Display,85000
+Acer, Swift 3, Ryzen 5-4500U , , ,8GB RAM,256GB SSD, ,14, ,88000
+Acer, Swift 3 ,Ryzen 5-4500U Processor , , ,8GB RAM,512GB SSD, ,14,FHD,96000
+Acer ,Nitro 5 , AMD Ryzen 5  , ,NVIDIA GeForce GTX 1650 , 8GB RAM,256GB SSD, ,15.6,FHD ,108000
+Acer ,Nitro 5, Intel Core i5 - 10th Gen ,  ,GTX 1650 Graphics, 8GB Ram,256GB SSD, ,15.6 (39.62cms), FHD IPS Display,112000
+Hp , Envy 13 , Core i5 11th Generation  , , ,8GB Ram, 256GB SSD,  ,13.3, FHD Micro Edge Display,116000
+Lenovo ,Yoga7 , i7-11th gen(1165G7), 2.8GHz, , 12Gb Ram, 512GB SSD, ,14, FHD 360 TOUCH SCREEN,132000
+Lenovo ,Flex 5 ,AMD Ryzen 7 4700U (8-Core) Processor , 2.0GHz,  , 8GB DDR4 RAM, 512GB SSD,  ,14, FHD (1920 x 1080) Touch Display,115000
+Lenovo ,Flex 5 , AMD Ryzen 3 4300U Processor, , , 8GB DDR4 RAM, 256GB NVMe SSD, ,14,FHD Touchscreen Display ,74000
+Lenovo ,Legion 5 15IMH05H ,i7-10750H 6-Core,  ,NVIDIA GTX 1650 Ti,8GB RAM, 512GB PCIe SSD, ,15.6, Full HD (1920x1080),145000
+Lenovo , Ideapad Slim 3i, 10th Gen Intel Core i3 , , , 8GB RAM,256GB SSD, ,15.6, HD,64000
+Lenovo ,Yoga C740,  10th gen i7-10510U , , ,16GB RAM, 256GB SSD , ,15.6, FHD Touch ,165000
+Lenovo ,IdeaPad Flex 5, 14IIL05 Intel i5-1035G1, , ,  16GB RAM ,512 GB SSD, ,14, FHD IPS Touchscreen,100000
+Lenovo ,IdeaPad 3 ,Intel Core i5-1035G1 Quad-Core Processor,  , ,8GB RAM ,512GB SSD, ,14, ,82000
+Lenovo ,Legion 5 15IMH05H ,i7-10750H 6-Core, , NVIDIA RTX 2060, 16GB RAM, 512GB PCIe SSD, ,15.6, Full HD (1920x1080) 240 Hz,180000
+Lenovo , Yoga 7i , Intel Evo Platform Core i7 11th gen ,  , , 12GB RAM , 512GB SSD, ,14, FHD Touch Screen,132000
+Lenovo ,Flex 5 14IIL05 ,10th gen Intel i5-1035G1, , , 8GB DDR4 RAM, 512GB PCIe NVMe SSD,  ,14,FHD,92000
+Lenovo ,V14 ,Ryzen 5 4500U ,  , AMD Radeon Graphics - Twisted nematic (TN), 8 GB RAM  , , 1TB HDD,14,FHD ,78500
+Lenovo, V14 ,Intel Celeron N4020 ,  ,intel hd graphic, 4GB ddr4 RAM , ,1TB hdd,14,hd display freedos ,45000
+Dell ,XPS 13 7390 , 10th Gen Intel Core i7-10710U, , UHD Graphics,  16GB RAM,512GB SSD, ,13.4, FHD InfinityEdge Touch,190000
+Dell ,Inspiron 7405, AMD Ryzen 5 4500U,  , ,8GB RAM, 256GB SSD,  ,14, Full HD Touch Screen ,109500
+Dell ,Inspiron 7306, 11th Gen Core i7  , ,Iris Xe Graphics ,16GB RAM,512GB SSD+32 GB Optane,  ,13,UHD ,166000
+Dell ,G5 5500  , Intel i7-10750H,  ,NVIDIA GTX 1650Ti 4gb,8GB DDR4 RAM, 256 GB PCIe SSD, ,15.6, FHD Display,150000
+ASUS ,Zenbook 14 ,AMD Ryzen,  ,NVIDIA GEFORCE MX350,5-8GB RAM ,256GB SSD, ,14,FHD,95000
+ASUS ,VivoBook 15 F515, Intel Core i3-1005G1 Processor,  ,  , 4GB DDR4 RAM, 128GB PCIe SSD,  ,5.6, FHD,60000
+ASUS ,E410MA ,Intel Celeron N4020, , , 4GB RAM, 256GB SSD , ,14, HD,48000
+ASUS ,TUF TUF506IU-ES74 , AMD Ryzen 7 4800H,  ,GeForce GTX 1660 Ti  6gb,16GB DDR4 RAM, 512GB PCIe SSD, ,15.6, 144Hz Full HD IPS-Type,155000
+ASUS, Vivobook Flip 14,   Intel Quad-Core Pentium N5000 Processor,  ,  ,4GB DDR4 RAM, 128GB eMMC Storage,14,  ,HD Touchscreen,57500
+ASUS ,VivoBook Flip 14 , AMD Ryzen 5 4500U, , , 8GB DDR4 RAM, 512GB SSD,  ,14,FHD Touch Display  ,108000
+ASUS ,Vivobook Flip TP412FA-DS51T-CA ,Intel Core i5 10th Gen 10210U ,1.60 GHz, , 8GB DDR4 RAM ,512GB PCIE G3x2 SSD , ,14,FHD,112000
+ASUS ,VivoBook 512JA ,Intel Core i5-1035G1 ,1.0GHz , , 8GB RAM ,256GB PCIe SSD , ,15.6, FHD Touchscreen,86000
+ASUS , ROG Zephyrus G14,  AMD Ryzen 9 ,  , NVIDIA GeForce RTX 2060,16GB RAM , 1TB SSD , ,15.6,FHD,200000
+ASUS ,TUF FX 506LI , I5-10300H,  ,GTX 1650 TI 4GB GRAPHIC,8GB RAM,256GB SSD, ,15.6, FHD DISPLAY ,115000
+HP , HP-14,AMD Ryzen 3 ,3.5GHz,Radeon Vega 3 , 4GB RAM, , 1TB HDD ,14,HD,59000
+HP ,15-DY1045 ,Core™ i5-1035G1, 1.0GHz , ,8GB RAM,256GB SSD,  ,15.6, (1366×768) ,85000
+HP ,Envy x360 ,Intel Evo Platform 11th Gen Core i7-1165G7, , , 8GB RAM, 512GB SSD ,,13.3, FHD IPS Touchscreen ,138000
+HP, OMEN 15 ,  Intel 6-Core i7-10750H ,5.0 GHz, NVIDIA GTX 1660 Ti, 8GB RAM,256 GB SSD, 1TB HDD,15.6,IPS FHD,160000
+HP ,15CS3079NR Pavilion , i5, , , 8GB RAM, 256GB SSD,  ,15.6,FHD,89000
+HP ,HP-14,11th Gen i3-1135G4, , ,8GBRAM,256GB SSD, ,14 (35.56cms), Touch Screen laptop,75000
+HP ,Pavilion x360,  Core i5-10210U , , , 8GB RAM, 256GB SSD + 16GB Optane , ,14,FHD Touch,95000
+HP, Pavilion x360 14M, Intel Core i3-1005G1 10th gen,  , ,8GB SDRAM,  128GB SSD , ,14, 360 touch screen,74000
+HP ,15-DY2056 ,Intel Core i5-1135G7 11th Gen  Processor,  , ,12 GB RAM, 256 GB SSD ,   ,15.6, TOUCH Full HD IPS Display,94500
+HP ,HP-14,AMD Ryzen 3, 3.5GHz, , 4GB RAM, , 1TB HDD  ,14,HD Touch ,56000
+HP ,Pavilion 14 DV0010, Core i5 11th Generation  , , ,8GB Ram, 256GB SSD , ,14,FHD ,92000
+HP ,HP-14 (2021),  11th Gen Core i3  , , , 8 GB RAM, 256GB SSD,  ,14,touch  HD Screen,75000
+HP ,HP-14, 10th Gen Intel Core i5 Processor i5-1035G1, , ,8GB RAM,256GB SSD, ,14,touch (35.56 cms) HD Screen,84000
+HP ,HP-15-GW0010 ,AMD Ryzen™ 3 3250U, 2.6GHz, , 4GB RAM,128 GB SSD ,1TB HDD ,15.6, FHD,63500
+HP ,24-DF0309 ,Core™ i3-10th gen,  , ,12gb RAM, 256gb SSD,  ,24, FHD Display,88000
+HP ,PAVILION POWER 15 GAMING, i5-10300H, , GTX1650 4GB GRAPHIC,  8GB RAM, 256GB SSD, ,15.6, FHD IPS DISPLAY,112000
+HP ,15CS3079 Pavilion,  i5,  , ,8GB RAM, 256GB SSD, ,15.6,  FHD Touch-Screen,86000
+                                                                ,,,,,,,,,,

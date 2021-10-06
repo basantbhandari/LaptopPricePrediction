@@ -1,0 +1,196 @@
+lenovo,Y720 Legion,Intel Core i7 7700HQ,,NVIDIA GTX1060,16,256,,,,159000
+lenovo,Yoga 720-13IKB,Intel Core i5 7200U,,,4,128,,13.3,fhd,75000
+lenovo,Yoga 720-15IKB,Intel Core i7 7700HQ,,NVIDIA GTX1050,8,512,,15.6,,145000
+lenovo,Yoga 910,Intel Core i7 7500U,,,8,256,,13.9,,115000
+macbook,Pro,,,,,,1024,16,,380000
+macbook,Pro,,,,,512,,16,fhd,330000
+microsoft surface,Book SX300001,Intel Core i5 6300U,,NVIDIA GeForce Graphics,8,256,,13.5,fhd,170000
+microsoft surface,Pro 4,Intel Core i7 6650U,,,16,256,,12.3,,195000
+msi,GS65,,,Stealth RTX,,,,,,198800
+msi,GF63 Thin,i7 9th Gen,,,,,,,,134800
+msi,GL63,9th Gen i7 9750H,,NVIDIA GeForce RTX 2060,6,,,,,178800
+msi,GP Leopard,Intel i7 8 Gen,,,,,,,,132800
+msi,GS Series GS75 Stealth,,,RTX 2080,,,,,fhd,304800
+msi,GS43VR 7RE PHANTOM Pro,Intel Core i7 7700HQ,,NVIDIA GTX 1060,16,128,1024,14,,175000
+msi,GS63 Stealth Thin 8RE,,,,,,,,fhd,154800
+msi,GS63VR STEALTH Pro,Intel Core i7 7700HQ,,NVIDIA GTX 1060,16,256,1024,15.6,fhd,175000
+razer blade,Core,Intel Core i7 7700HQ,,NVIDIA GTX1060,16,512,,14,fhd,230000
+razer blade,Pro,Intel Core i7 7700HQ,,NVIDIA GTX1060,16,256,2048,17.3,qhd,280000
+razer blade,Stealth,Intel Core i7 7500U,,,16,512,,12.5,,145000
+samsung,Notebook Odyssey,i7,,,,,1024,,fhd,132800
+acer,Aspire 5,i3 10th Gen,,,4,,1024,15.6,hd,60000
+acer,Aspire 5,i3 10th Gen,,,4,256,,14,fhd,61000
+acer,Swift 3 SF314-57-56QV,i5 10th Gen,,,4,256,,14,fhd,80000
+acer,Aspire 5,i5 10TH GEN,,,8,512,,15.6,fhd,86000
+acer,Swift 3 SF314-57G-53QQ,i510th Gen,,NVIDIA MX350,4,256,,14,fhd,89000
+acer,Swift 3 SF314-57G-560R,i5 10th Gen,,NVIDIA MX350,4,512,,14,fhd,93000
+acer,Swift 3,Ryzen 5 4500U,,AMD VEGA 8,8,256,,14,fhd,95000
+acer,Swift 3 SF314-57G-57ZV,i5 10th Gen,,NVIDIA MX350,8,256,,14,fhd,97000
+acer,Nitro 5,i5 9TH GEN,,GTX 1650,8,128,1024,15.6,fhd,107000
+acer,Nitro 5,i5 10TH GEN,,GTX 1650,8,256,,15.6,fhd,112000
+acer,Swift 3 SF314-57G-74RA,i7 10th Gen,,NVIDIA MX350,8,256,,14,fhd,115000
+acer,Nitro 5,i5 10TH GEN,,GTX 1650ti,8,256,,15.6,fhd touch,118000
+acer,Spin 3,i7 10th Gen,144,,8,512,,14,fhd,120000
+acer,Nitro 5,AMD Ryzen 5 4600H,,GTX 1650Ti,8,256,,15.6,fhd touch,123000
+acer,Nitro 5,Spin i5 8TH GEN,144,GTX 1050,8,,1024,15.6,fhd,125000
+acer,Nitro 5,AMD Ryzen 5 4600H,144,GTX 1650ti,8,512,,15.6,fhd,125000
+acer,Nitro 5,i5 10TH GEN,144,GTX 1650ti,8,512,,15.6,fhd,129000
+acer,Nitro 5,AMD Ryzen 7 4800H,,GTX 1650ti,8,,1024,15.6,fhd touch,137000
+acer,Nitro Spin 5,i7 8TH GEN,144,GTX 1050,8,,1024,15.6,fhd,143000
+acer,Nitro 5,AMD Ryzen 7 4800H,,GTX 1650ti,8,512,,15.6,fhd,144000
+acer,Nitro 5,i7 10TH GEN,,GTX 1650ti,8,256,,15.6,fhd,145000
+acer,Nitro 5,i5 10TH GEN,144,RTX 2060,8,,1024,15.6,fhd,148000
+acer,Predator Helios  300,i5 10th Gen,144,GTX 1660Ti,8,512,,15.6,fhd,149000
+acer,Nitro 5,i7 10TH GEN,,GTX 1650ti,8,512,,15.6,fhd touch,155000
+acer,Nitro Spin 5,i7 8TH GEN,144,GTX 1050,16,256,1024,15.6,fhd,158000
+acer,Nitro 5,i7 9TH GEN,144,RTX 2060,16,256,,15.6,fhd,165000
+acer,Predator Helios 300,i7 10th Gen,144,GTX 1660Ti,16,512,,15.6,fhd,169000
+acer,Predator Helios 300,i7 10th Gen,144,GTX 1660Ti,16,1024,,15.6,fhd,190000
+acer,Predator Helios 300,i7 10TH GEN,120,RTX 2060,16,512,,15.6,fhd,195000
+acer,Predator Triton 300,i7 10TH GEN,144,RTX 2060,16,512,,15.6,fhd,205000
+acer,Predator Triton 300,i7 10TH GEN,144,RTX 2060,16,512,,15.6,fhd,215000
+acer,Predator Helios 300,i7 10th Gen,240,RTX 2070,16,512,,15.6,fhd,235000
+acer,Predator Triton 300,i7 10TH GEN,144,RTX 2070,16,512,,15.6,fhd,235000
+acer,Predator Triton 500,i7 10TH GEN,,RTX 2070,16,512,,15.6,fhd,265000
+asus,VivoBook 15 X515MA,10th Gen Celeron,,,4,256,,15.6,,48000
+asus,VivoBook E410MA,Celeron,,,4,256,,14,fhd touch,48000
+asus,VivoBook Flip 14 TP401MA,8th Gen Celeron,,,4,128,,14,fhd,57700
+asus,VivoBook 14 X415JA,i3 10th Gen,,,4,256,,14,fhd,63000
+asus,VivoBook 14 X413EA,i3 11th Gen,,,4,256,,14,fhd,67000
+asus,VIVOBOOK X409JA,i5 10TH GEN,,,4,256,,14,fhd touch,75000
+asus,VivoBook Flip 14 TP412FA,i3 10th Gen,,,4,256,,14,fhd,83000
+asus,VivoBook 14 X415JA,i5 10th Gen,,,8,256,,14,fhd,83000
+asus,VivoBook 15 M513IA,Ryzen 5 4500U,,,8,256,,15.6,fhd,87000
+asus,VIVOBOOK X509JP,i5 10TH GEN,,NVIDIA MX330,4,,1024,15.6,fhd,87000
+asus,VivoBook 15 X515JA,i5 10th Gen,,,8,512,,15.6,fhd,88000
+asus,VIVOBOOK X515EA,i5 11TH GEN,,,8,256,,15.6,fhd,90000
+asus,VivoBook 14 X413EA,i5 11th Gen,,,8,256,,14,fhd,95000
+asus,VivoBook 15 K513EA,i5 11th Gen,,,8,512,,15.6,fhd,102000
+asus,VIVOBOOK K403FA,i5 10TH GEN,,,8,512,,14,fhd touch,106000
+asus,VivoBook Flip TM420IA,RYZEN 4500U,,,8,512,,14,fhd,108000
+asus,VIVOBOOK X415JA,i7 10TH GEN,,,8,256,,14,fhd,115000
+asus,VIVOBOOK S15 S533FL,i5 10TH GEN,,,8,512,,15.6,fhd touch,116000
+asus,VivoBook Flip 14 TM420UA,Ryzen 5 5500U,,,8,512,,14,fhd,116000
+asus,VivoBook S14 S431,I7 8th Gen,,NVIDIA MX250,8,256,,14,fhd touch,120000
+asus,VivoBook Flip 14 TP470EA,i5 11th Gen,,1135G7,8,512,,14,fhd,120000
+asus,VivoBook 15 X515JP,i7 10th Gen,144,NVIDIA MX330,8,512,,15.6,fhd,122000
+asus,TUF F15 Gaming Laptop,i5 10Th Gen,,GTX 1650,8,512,,15.6,fhd,122000
+asus,ZenBook 13 UX325JA,I5 10 GEN,,,8,512,,13.3,fhd,125000
+asus,ZenBook 14 UX425JA,I5 10 GEN,,,8,512,,14,fhd,125000
+asus,VivoBook 15 X515EP,i7 11th Gen,,NVIDIA MX330,8,512,,15.6,fhd,126000
+asus,ZenBook 13 UX325EA,I5 11 GEN,,,8,512,,13.3,fhd,127000
+asus,ZenBook 14 UX425EA,I5 11 Gen,,,8,512,,14,fhd,127000
+asus,VIVOBOOK K403FA,i7 10TH GEN,144,,16,512,,14,fhd,131000
+asus,TUF F15 Gaming Laptop,i5 10Th Gen,,GTX 1650Ti,16,512,,15.6,fhd touch,132000
+asus,S ZenBook UX463FA,i5 10th Gen,,,8,512,,14,fhd,134000
+asus,TUF A15 Gaming Laptop,Ryzen 5 4600H,,GTX 1650Ti,8,512,,15.6,fhd,135000
+asus,VivoBook 15 K513EQ,i7 11th Gen,144,NVIDIA MX350,8,512,,15.6,fhd,135000
+asus,ROG Strix G531GT,i5 9TH GEN,,GTX 1650,8,512,,15.6,fhd touch,137000
+asus,VivoBook Flip 14 TP470EA,i7 11th Gen,,1135G7,8,512,,14,fhd,138000
+asus,VivoBook S15 S533EA,i7 11th Gen,,,16,512,,15.6,fhd,141000
+asus,VivoBook S15 S533JQ,i7 10th Gen,,Nvidia MX350,16,512,,15.6,fhd,141000
+asus,ZenBook 14 UX434FQ,i5 10th Gen,144,NVIDIA MX350,8,512,,14,fhd,142000
+asus,ROG Strix G15 G512LI,i5 10TH GEN,,GTX 1650TI,16,512,,15.6,fhd touch,143000
+asus,ZenBook Flip 13 UX363EA,i5 11th Gen,144,,16,512,,13.3,fhd,146000
+asus,TUF F15 Gaming Laptop,i7 10Th Gen,,8 Core GTX 1650,8,512,,15.6,fhd,148000
+asus,ZenBook 13 UX325JA,I7 10 GEN,144,,16,512,,13.3,fhd,148000
+asus,TUF A15 FA506II Gaming Laptop,Ryzen 7 4800H,,GTX 1650Ti,16,512,,15.6,fhd touch,152000
+asus,ZenBook 14 UX435EG,i5 11th Gen,,,8,512,,14,fhd,153000
+asus,ZenBook 13 UX325EA,I7 11th Gen,,,16,512,,13.3,fhd,154000
+asus,ZenBook 14 UX425EA,I7 11th Gen,144,,16,512,,13.3,fhd,154000
+asus,TUF A15 FA506IU Gaming Laptop,Ryzen 7 4800H,144,GTX 1660Ti,16,512,,15.6,fhd,161000
+asus,TUF A17 FA706IU Gaming Laptop,Ryzen 7 4800H,,GTX 1660Ti,8,512,,17.3,hd,167000
+dell,Vostro 3501,i3 10th Gen,,,4,,1024,15.6,hd,59000
+dell,Vostro 3401,i3 10th Gen,,,4,,1024,14,hd,59000
+dell,Vostro 3401,i3 10th Gen,,,8,,1024,14,hd,62000
+dell,Latitude 3410,i3 10th Gen,,,4,,1024,14,fhd,65500
+dell,Vostro 3400,i5 11th Gen,,,4,,1024,14,fhd,79000
+dell,Vostro 3500,i5 11th Gen,,,4,,1024,15.6,fhd,79000
+dell,Inspirion 3501,i5 11th Gen,,Nvidia MX330 2GB,8,256,,15.6,fhd,94000
+dell,Inspiron 5391,i5 10th Gen,,,8,256,,13.3,fhd,103000
+dell,G3 G3590,i5 9th Gen,,GTX 1650,8,512,,15.6,fhd,108000
+dell,Vostro 3500,i7 11th Gen,,Nvidia MX330,8,512,,15.6,fhd touch,112000
+dell,Inspiron 7490,i5 10th Gen,,,8,256,,14,fhd,118000
+dell,Inspiron 7391,i5 10th Gen,,,8,256,,13.3,fhd touch,118000
+dell,Inspiron 7300 2-in-1,i5 10th Gen,,,8,512,,13.3,fhd,119000
+dell,Inspiron 7490,i7 10th Gen,,,8,512,,14,fhd touch,120000
+dell,Inspiron 5400 2-in-1,i7 10th Gen,120,,8,512,,14,fhd,121000
+dell,G3 G3500 i5,10th Gen,,NVIDIA GTX 1650TI,8,512,,15.6,fhd,125000
+dell,Inspiron 7490,i5 10th Gen,,NVIDIA MX250,8,512,,14,fhd,125000
+dell,G3 G3500,i5 10th Gen,,NVIDIA GTX 1660TI,16,512,,15.6,fhd touch,135000
+dell,Inspiron 7405 2-in-1,Ryzen 7 4700U,,,16,512,,14,fhd,135000
+dell,XPS 13 7390,i5 10 GEN,,,8,256,,13.3,fhd,140000
+dell,Inspiron 7391,i7 10th Gen,,NVIDIA MX250,8,512,,13.3,fhd,148000
+dell,Inspiron 7591,i7 9th Gen,,GTX 1650 Graphics Card,16,512,,15.6,fhd,155000
+dell,G3 G3590,i7 9th Gen,,NVIDIA GTX 1660Ti,16,256,1024,15.6,fhd,156000
+dell,Inspiron 7490,i7 10th Gen,144,NVIDIA MX250 Graphics,16,512,,14,fhd,156000
+dell,G5 15 SE 2020 Gaming Laptop,Ryzen 7 4800H,,AMD RX 5600M 6144MB,8,512,,15.6,4k touch,158000
+dell,Inspiron 7391 2-in-1,i7 10th Gen,,,16,512,,13.3,fhd,160000
+dell,Vostro 7500,i7 10th Gen,,GTX 1650ti Graphics Card,16,1024,,15.6,fhd,175000
+dell,XPS 13 7390,i7 10th Gen,,,16,512,,13.3,fhd,185000
+dell,XPS 15 7590,i7 9TH GEN,,GTX 1650,16,256,,15.6,4k uhd touch,195000
+dell,XPS 13 7390,i7 10 GEN,,,16,512,,13.3,fhd touch,200000
+dell,XPS 13 7390 2-in-1,i7 10 Gen,300,,16,512,,13.4,fhd,200000
+dell,Alienware M15 R3,i7 10th Gen,,RTX 2070 SUPER,16,512,,15.6,fhd touch,310000
+hp,ProBook 11 G3 EE x360 2-in-1,Celeron Dual-Core,,,4,128,,11.6,hd,47000
+hp,Notebook 14-CF3065TU,i3 10th Gen,,,4,,1024,14,hd,59000
+hp,Notebook 14-DK1025WM,Ryzen 3 3300U,,8GB RAM,,256,,14,hd,60000
+hp,Pavilion X360,i3 10th Gen,,,8,128,,14,hd,72000
+hp,Notebook 14-DQ1059,i5 10th Gen,,,8,256,,14,hd,79000
+hp,Laptop 15-dy2045nr,i5 11th Gen,,,8,256,,15.6,fhd,88000
+hp,Notebook 14-CE3056TX,i5 10th Gen,,NVIDIA MX130,4,,1024,14,fhd,89000
+hp,Pavilion 15-EH0090,Ryzen 5 4500U,,AMD VEGA 8,8,512,,15.6,hd,97000
+hp,Laptop 15s-du2045TX,i7 10th Gen,,NVIDIA MX330 2GB,8,,1024,15.6,fhd,105000
+hp,Pavilion Power 15 2020,Ryzen 5 4600H,,GTX 1650,8,256,,15.6,fhd touch,108000
+hp,Pavilion 15-EF1013,Ryzen 7 4700U,,AMD Vega 8,8,512,,15.6,fhd touch,112000
+hp,Pavilion X360 2020,i5 11th Gen,,,8,512,,14,fhd,115000
+hp,Envy 13 2021,i5 11th Gen,,,8,256,,13.3,fhd touch,120000
+hp,Envy x360 13M,i7 11th Gen,,,8,512,,13.3,fhd touch,140000
+hp,Spectre 13 x360,i5 10th Gen,,,8,256,,13.3,4k uhd touch,142000
+hp,Envy 13 2020,i7 10th Gen,144,,8,512,,13.3,fhd,148000
+hp,Omen 15 2020,Ryzen 7 4800H,144,GTX 1660Ti,8,512,,15.6,fhd,160000
+hp,Omen 15 2020,Ryzen 7 4800H,,GTX 1660Ti,16,1024,,15.6,fhd touch,175000
+hp,Spectre 13,i7 10TH GEN,,,8,512,,13.3,4k,185000
+hp,Spectre 15 x360,i7 10TH GEN,,MX 250,16,512,,15.6,,225000
+msi,Modern 14 A10RB,i5 10th Gen,,MX250,8,512,,15.6,,122000
+msi,Modern 15 A10RAS,i5 10th Gen,144,MX330,8,512,,15.6,fhd,122000
+msi,GF63 9SCSR,i5 9th Gen,,GTX 1650Ti,8,512,,15.6,,135000
+msi,Modern 14 A10RB,i7 10th Gen,,MX250,8,512,,15.6,,135000
+msi,Modern 15 A10RAS,i7 10th Gen,144,MX330,8,512,,15.6,fhd,135000
+msi,GL65 9SCK,i5 9th Gen,,GTX 1650,8,512,,15.6,fhd,145000
+msi,GF75 9SC,i7 9th Gen,,GTX 1650,8,128,1024,17.3,,148000
+msi,GF63 Thin 10SCXR,i7 10th Gen,120,GTX 1650,8,512,,15.6,fhd,152000
+msi,GL65 9SCK,i7 9th Gen,144,GTX 1650,8,512,,15.6,fhd,160000
+msi,GF63 Thin 10SCSR,i7 10th Gen,,GTX 1650Ti,8,512,,15.6,,162000
+msi,GE 63VR Raider,i7 8th Gen,120,GTX 1060,16,256,1024,15.6,fhd,165000
+msi,GF65 10SDR,i5 10th Gen,120,GTX 1660Ti,8,512,,15.6,fhd,168000
+msi,GF65 9SD,i7 9th Gen,,GTX 1660Ti,16,512,,15.6,fhd,170000
+msi,Prestige 14 A10RAS Rose Pink,i7 10th Gen,144,MX330,16,512,,14,fhd,180000
+msi,GF65 10SDR,i7 10th Gen,120,GTX 1660Ti,8,512,,15.6,fhd,183000
+msi,GL65 9SDK,i7 9th Gen,120,GTX 1660Ti,16,256,1024,15.6,fhd,185000
+msi,GF65 10SDR,i7 10th Gen,,GTX 1660Ti,16,512,,15.6,,185000
+msi,Prestige 14 10SC,i7 10th Gen,144,GTX 1650,16,512,,14,fhd,188000
+msi,GF65 10SER,I7 10th Gen,144,RTX 2060,16,512,,15.6,fhd,195000
+msi,GL75 Leopard 10SDR,i7 10th Gen,144,GTX 1660Ti,16,512,,15.6,fhd,205000
+msi,GP65 Leopard 10SDK,i7 10th Gen,120,GTX 1660Ti,16,512,,15.6,fhd,205000
+msi,GL65 Leopard 10SDK,i7 10th Gen,144,GTX 1660Ti,16,256,1024,15.6,fhd,208000
+msi,GL65 Leopard 10SDK,i7 10th Gen,144,GTX 1660Ti,16,256,1024,15.6,fhd,215000
+msi,GL65 Leopard 10SEK,i7 10th Gen,144,RTX 2060,16,256,1024,15.6,fhd,227000
+msi,GS65 Stealth Thin 9SD,i7 9th Gen,144,GTX 1660Ti,16,512,,15.6,fhd,230000
+msi,PS65 Creator 9SD,i7 9th Gen,,GTX 1660Ti,32,1024,,15.6,4k,240000
+msi,Prestige 15 A10SC,i7 10th Gen,144,GTX 1650,16,1024,,15.6,fhd,240000
+msi,GP65 Leopard 10SFK,i7 10th Gen,240,RTX 2070,16,512,1024,15.6,fhd,255000
+msi,GE65 Raider 9SE,i7 9th Gen,144,RTX 2060,16,1024,,15.6,fhd,260000
+msi,PS65 Creator 9SE,i7 9th Gen,144,RTX 2060,32,1024,,15.6,fhd,260000
+msi,GP65 Leopard 10SFK,i7 10th Gen,144,RTX 2070,32,,,,fhd,270000
+msi,GP65 Leopard 10SFK,i7 10th Gen,144,RTX 2070,32,512,1024,15.6,fhd,280000
+msi,GS65 Stealth,i7 9th Gen,144,GTX RTX 2070,16,1024,,17.3,fhd,280000
+msi,GS66 Stealth 10SD Thin,i7 10th Gen,240,GTX 1660Ti,16,512,,15.6,fhd,295000
+msi,GE66 Raider 10SF,i7 10th Gen,240,RTX 2070,16,1024,,15.6,fhd,306000
+msi,GS65 Stealth Thin 9SF,i7 9th Gen,240,GTX 2070,16,1024,1024,15.6,fhd,310000
+msi,GS65 Raider 9SF,i7 9th Gen,144,GTX 2070,16,1024,,15.6,fhd,310000
+msi,GE75 Raider,i7 9th Gen,240,RTX 2080,32,512,,17.3,fhd,350000
+msi,GE66 Raider 10SFS,i7 10th Gen,240,RTX 2070 SUPER,16,2048,,15.6,fhd,370000
+msi,GE66 Raider 10SFS,i9 10th Gen,300,RTX 2070 SUPER,16,1024,,15.6,fhd,370000
+msi,GS66 Stealth 10SFS Thin,i7 10th Gen,,RTX 2070,32,1024,,15.6,4k uhd,395000
+msi,Creator 15 A10SFS,i7 10th Gen,,RTX 2070 SUPER MAX-Q,32,1024,,15.6,4k uhd,450000

@@ -1,0 +1,242 @@
+acer, Nitro 5 ,9th i5 9300H,60, GTX 1650 4,8,512,,15.6,ips,108800
+acer, Predator Helios 300 ,10 Gen i7-10750H,144, RTX 2060 6,16,512,,15.6,fhd,180800
+acer, Predator Helios 300 2019 ,9th gen i7 9750H,144, GTX 1660Ti 6,16,256,,15.6,,150800
+acer, Predator Triton 300 Gaming Laptop, 10th Gen Intel Core i7-10750H ,144, NVIDIA RTX 2070,16,512,,15.6,fhd,214800
+acer, Predator Triton 500 ,i7-9750H,144,RTX 2060 6,16,512,,15.6,  ,196800
+acer, Swift 7 ,Intel Core i7-7Y75,,,8,51,,13.3,fhd,120800
+alienware, AREA-51M ,9th gen i7 9900K,144, RTX 2070 8,32,256,1024,17.3,,432800
+apple, Macbook Air  2019 ,i5   ID,,,8,128,,13.3,retina,146800
+apple, Macbook Air  2019, i5  ID,,,8,256,,13.3,retina,174800
+apple, MacBook Air M1 chip with 8-core CPU, 8-core GPU,,,8,,512,13,retina ,194800
+apple, MacBook Air M1 Chip with 8-core CPU,8Core CPU ,,7Core GPU ,,256,,13,retina ,146800
+apple, MacBook Pro 16, i7 2.6GHz 6-Core Processor,, AMD Radeon Pro 5300M 4,16,,512,,,320800
+apple, MacBook Pro 16, i9 2.3GHz 8-Core Processor,, AMD Radeon Pro 5500M 4,16,1024,,,,384800
+asus, ROG ,9th Gen I7 9750H,, GTX 1650 4,8,512,,15.6,fhd,130800
+asus, ROG Strix G15 Gaming Laptop, Intel i7-10870H 8 cores 16 Threads 16MB Cache,240, RTX 2060 6,16,512,,15.6,ips,196800
+asus, ROG Strix G15 ,i7-10750H,144, GTX 1650Ti 4,8,512,,15.6,fhd,148800
+asus, ROG Strix SCAR ,8th gen i7-8750H,144, GTX 1070 8,16,512,,15.6,fhd,172800
+asus, ROG Strix Scar II ,i7 8750H,144, RTX 2070 8,16,512,,15.6,,236800
+asus, ROG Zephyrus G ,AMD Ryzen 7 3750H,120, GTX 1660Ti 6,16,512,,15.6,,156800
+asus, ROG Zephyrus G14 ,AMD Ryzen 9 4900HS,120, RTX 2060 6,16,1024,,14,fhd,196800
+asus, ROG Zephyrus ,G14 Ryzen 7 4800HS,144, GTX 1650 4,8,512,,15.6,fhd,168800
+asus, ROG Zephyrus G15,AMD Ryzen 7 4800HS,, GTX 1660Ti 6G,16,1024,,,,179800
+asus, ROG Zephyrus M15 ,i7-10750H ,240,RTX 2070 Max-Q 8 ,16,1024,,15.6,fhd,228800
+asus, ROG Zephyrus S Ultra Slim, 8th Gen i7-8750H,, GTX 1070 8,16,512,,,,205000
+asus, TUF Dash F15 ,11th Generation i7-11370H,144, RTX 3060 6,16,512,,15.6,fhd,196800
+asus, TUF Gaming A15 Gaming Laptop, AMD Ryzen 5 4600H,, GTX 1650ti 4,8,512,,15.6,ips,130800
+asus, TUF Gaming A15, Ryzen 7 4800H,144, GTX 1660 Ti 6,16,512,1024,15.6,fhd,164800
+asus, TUF i5 ,10th i5-10300H,, GTX 1650 Ti,8,256,,15.6,fhd,110800
+asus, VivoBook 15 , AMD R7-3700U,, RX Vega 10 Graphics,8,512,,15.6,fhd,102800
+asus, ZenBook 15 ,8th gen i7 8750H,, GTX 1050 Max-Q 2,16,512,,15.6,fhd,140800
+asus, ZENBOOK FLIP,i7 8th Gen ,,,16,512,,14,fhd,134800
+bigbyte ,,10th Gen i7-10875H,144, RTX 2070 8,32,1024,,15.6,ips,218800
+bigbyte, Dominant BBDMT30 ,10th Gen i7-10870H,144, RTX 3060 6,16,1024,,15.6,ips,199800
+bigbyte, Dominant powerful lightweight Laptop, Intel 10th gen i7 ,144, RTX 3060 6,32,1024,,15.6,fhd,210800
+bigbyte, RT20601T ,10th Gen i7-10750H,144, RTX 2060 6,16,1024,,15.6,fhd,168800
+bigbyte, Workstation Laptop , i7 10th Gen ,144, 16 MB Cache RTX 3060 6,64,1024,,15.6,,238800
+bigbyte, Workstation Laptop , Intel 10th gen i7-10870H  16MB Cache,144, RTX 3060 6,64,2048,,15.6,fhd,258800
+dell, alienware 15 R4 ,i7 8750h,60, GTX 1060 6 GDDR5,16,256,1024,15.6,fhd,160800
+dell, alienware 17 R5, i9-8950HK,120, GTX 1070 8 DDR5 OC,16,256,1024,17.3,Qhd,270800
+dell, alienware 17R5, i7 8750H,60, GTX 1070 8,16,256,1024,17.3,fhd,225800
+dell, alienware M17 ,9th Gen i7 9750h,, RTX 2070 8,16,512,1024,17.3,4k,318800
+dell, G3 15 3590, 9th Gen i5-9300H,60, GTX 1660 Ti 6,8,512,,15.6,fhd,120800
+dell, G5 15 SE Gaming Laptop ,Ryzen 7 4800H ,144, AMD RX 5600M 6,16,512,,15.6,fhd,158800
+dell, G5 15 SE Gaming Laptop ,Ryzen 7 4800H ,144, AMD RX 5600M 6,8,512,,15.6,fhd,152800
+dell, G7 15 7590 ,8th gen Intel i7-8750H,60, RTX 2060 6 ,16,128,1024,15.6,fhd,180800
+dell, G7 17 7700 Gaming Laptop , i7-10750H,144, RTX 2070 SUPER 8,32,1024,,17.3,fhd,280800
+dell, Inspiron 15 5575 ,AMD Ryzen 7 2700U 4-Core,, AMD RX Vega 10,16,512,,15.6,fhd,114800
+dell, inspiron 3593 ,10th Gen i5-1035G1,,,12,512,,15.6,touch,88800
+dell, inspiron 7370 ,8th gen i5 8250U,,,8,256,,13.3,fhd,94800
+dell, Inspiron 7380,,,,,8,256,13.3,fhd,114800
+dell, Inspiron 7490- ,10th gen i7-10510U ,, Intel Uhd Graphics,8,512,,14,ips,128800
+dell, Inspiron 7586 ,8th gen i5 i5-8250U,,,8,256,,15.6,touch,96800
+dell, Precision 5540 ,8th gen i7-9850H,,T1000 4 Qudro,32,512,,15.6,4k touch,238800
+dell, Precision 7550 Workstation ,Intel Core Processor i5-10400H,, NVIDIA Quadro RTX 4000 w/8 GDDR6,64,1024,,15.6,fhd,298800
+dell, XPS 13 7390 ,10th Gen i5-1021U,,,8,256,,13.3,fhd,144800
+dell, XPS 13 7390,,,,,16,512,13.3,fhd,210800
+dell, XPS 13 9300 ,Intel Core i7-1065G7 10th Gen,,,16,512,,13.4,4k touch,210800
+dell, XPS 13 9360 , 8th Gen i7-85550U,, ,16,512,,13.3,touch,174800
+dell, XPS 13 9365, 8th gen i5-8200Y,, ,8,256,,13.3,touch,134800
+dell, XPS 13 9365, 8th Gen i7-8500Y,, ,8,512,,13.3,touch,158800
+dell, XPS 13 9380 ,8th Gen i7-8565U,, ,16,512,,13.3,fhd,170800
+dell, XPS 13 9380, Core i5-8265U,,,8,256,,13.3,fhd,134800
+dell, XPS 15 7590 ,9th gen i7-9750H,, GTX 1650,16,512,,15.6,fhd,210800
+dell, XPS 15 7590 ,9th Gen i7-9750H,, GTX 1650 4,16,512,,15.6,,230800
+dell, XPS 15 9500 , Intel Core i5-10300H 10th Gen,, Intel hd Graphics ,8,512,,,,174800
+dell, XPS 15 9500 , i7-10750H 10th Gen,, GTX 1650 Ti 4 GDDR6,16,512,,15.6,fhd,234800
+dell, XPS 15 9500 , 10th Gen- I7-10750H (6-CORE),, GTX 1650 Ti 4 ,16,512,,15.6, ,258800
+dell, XPS 15 9500 , 10th Gen-i7 10875H 8 core 16 Threads 16 MB Cache,, GTX 1650 Ti 4 ,16,512,,15.6, ,268800
+dell, XPS 15 9500 , 10th Gen-i7 10875H 8 core,, GTX 1650 Ti 4 GDDR6,32,512,,15.6, ,295800
+dell, XPS 15 9575, 8th Gen i7-8705G,, RX Vega M 4,16,1024,,15.6,4k touch,290800
+dell, XPS 9570 ,8th Gen i7-8750H,, GTX 1050Ti 4,16,512,,15.6,fhd,196800
+dell, XPS 9575 ,8th Gen i5-8305G,,RX VegaM 4,8,256,,15.6,touch,154800
+dreammachines, RX2070-17NA32 Laptop, Intel i9 10900K,144, RTX 2070 8,32,1024,,17.3,,378800
+dreammachines, G1650 ,10th Gen i5 10300H,144, GTX 1650 4,16,1024,,15.6,fhd,130800
+dreammachines, G1650 ,10th Gen i5 10300H,, GTX 1650 4,16,1024,,15.6,fhd,120800
+dreammachines, G1650, 10th Gen i7-10750H,144, GTX 1650 4,16,1024,,15.6,fhd,149800
+dreammachines, G1650 ,10th Gen i7-10750H,, GTX 1650 4,16,1024,,15.6,fhd,140800
+dreammachines, RG2060 ,10th Gen i7-10750H,144, RTX 2060 6,16,1024,,15.6,fhd,170800
+dreammachines, RT2070-15NA53 Laptop, Ryzen 5 3600,144, RTX 2070 8,16,1024,,15.6,fhd,190800
+dreammachines, RT2070-15NA54 Laptop ,Ryzen 7 3700X,144, RTX 2070 8,16,1024,,15.6,fhd,216800
+dreammachines, T1660Ti Laptop ,Ryzen 7 3700X,144, GTX 1660Ti 6,16,1024,,15.6,fhd,190800
+hp, Envy Core 13 10th Gen i7 10510U,,, MX250 2  Graphics,16,512,,13.3,touch,170800
+hp, OMEN 15 GAMING AMD Ryzen 7 4800H,,144, GTX 1660Ti 6,16,1024,,15.6,,176800
+hp, OMEN 15, 9th gen i7-9750H,144, GTX 1660 Ti,16,256,,15.6,fhd,150800
+hp, OMEN 17 8th gen i7-8750H,,120, GTX 1070 8,16,256,1024,17.3,fhd,170800
+hp, Pavilion 14 Laptop, Intel 11th Gen Core i5-1135G7,,,8,256,,14,ips,88800
+hp, Pavilion 15 GAMING ,AMD Ryze 5 4600H,, NVIDIA GTX 1650 4,8,256,,6,fhd,106800
+hp, Pavilion 15 Gaming Laptop ,Ryzen 5-4600H,144, NVIDIA GTX 1650ti 4,16,512,,15.6,fhd,134800
+hp, Pavilion , Core i7-10750H ,, NVIDIA GeForce GTX 1650Ti ,8,512,,16.1,,146800
+hp, Pavilion Gaming Laptop ,I5 10th gen 10300H,144, GTX 1660Ti 6,8,512,,15.6,fhd,134800
+hp, ProBook 430G5, 8th Gen i5 8250U,,,8,256,,13.3,fhd,84800
+hp, ProBook 440 G5, 8th Gen Core i5 8250U,,,8,,500,14,,82800
+hp, Spectre x360 2-in-1 ,10th Gen i7-1065G7,, ,8,512,,13.3,touch,168800
+hp, ZBook 15 G4 ,i7-7820HQ,, Quadro M620 2,32,256,1024,15.6,fhd,230800
+hp, ZBook 15u G5, 8th gen i7-8550U,, Radeon Pro WX 3100 2,16,512,,15.6,fhd,230800
+lenevo, Ideapad 3, AMD Ryzen 5 4500U,, ,8,512,,15.6,fhd,79800
+lenevo, IdeaPad 3 ,Intel i5-1035G1 ,, Intel Uhd Graphics,8,512,,14,fhd,86800
+lenevo, IdeaPad 5 ,i5-1035G1,,,8,512,,15.6,,88800
+lenevo, Ideapad 730S ,8th gen i5 8265U,, ,8,256,,13.3,ips,82800
+lenevo, IdeaPad L340 , i5 9th gen 9300H,60, GTX 1650 4,8,512,,15.6,,108800
+lenevo, IdeaPad Slim 5i ,11th Gen i5  ,,,8,512,,15.6,ips,90800
+lenevo, Legion 5 ,AMD Ryzen 5 4600H,120, RTX 2060 6,8,512,,15.6,,154800
+lenevo, Legion 5, AMD Ryzen 5 4600H ,120, RTX 2060 6,16,512,,15.6,,160800
+lenevo, Legion 5, AMD Ryzen 7 4800H,144, RTX 2060 6,16,512,,15.6,,190800
+lenevo, LEGION 5 ,AMD Ryzen 7 4800H,144, GTX 1660Ti 6 ,16,512,,15.6,,170800
+lenevo, LEGION 5i ,10th Gen i7-10750H,144, RTX 2060,16,256,1024,15.6,fhd,184800
+lenevo, LEGION 5i, 10th Gen i7-10750H,240, RTX 2060,16,512,,15.6,fhd,196800
+lenevo, LEGION 5i ,10th Gen i7-10750H,120, GTX 1650Ti ,8,512,,15.6,fhd,142800
+lenevo, LEGION 5i ,10th Gen i7-10750H,120, GTX 1660Ti 6,8,512,,15.6,fhd,154800
+lenevo, Legion 7i Gaming Laptop, i7-10750H,144, RTX 2070 Super Max-Q 8,16,1024,,15.6,fhd,242800
+lenevo, Legion Y540 ,9th gen i7 9750H,144, GTX 1660Ti 6,16,512,,15.6,fhd,156800
+lenevo, Legion Y540 ,9th gen i7 9750H,60, ,16,512,1024,15.6,fhd,140800
+lenevo, Legion Y730 ,8th gen i5 8300H 8 ,, GTX 1050Ti 4,,128,1024,15.6,,110800
+lenevo, Legion Y740, Intel i7-8750H,144, RTX 2070,16,256,1024,15,fhd,230800
+lenevo, Legion Y740, Intel i7-9750H,144, RTX 2060,16,1024,,15,fhd,215800
+lenevo, kPad 13 L390 ,8th Gen i5 8365U,,,8,256,,13.3,touch,116800
+lenevo, kpad E14, Intel Core i5 10th Gen ,,,8,,1024,14,ips,108800
+lenevo, kpad E14 ,Intel Core i7 10th Gen ,,,8,256,,14,ips,138800
+lenevo, kPad X1 Carbon, 8th gen i7-8665U,,,16,512,,14,fhd,205800
+lenevo, kPad X1 Carbon, 10th gen i5-10210U,,,8,256,,14,,172800
+lenevo, kPad X1 Carbon, 10th/i7-10710U,,,16,1024,,14,fhd,262800
+lenevo, kPad X1 Extreme ,i7 8th Gen 8850H,, GTX 1050Ti 4,16,512,,15.6,fhd,240800
+lenevo, kPad X395 , AMD Ryzen 7 Pro 3700U,, Vega 10 Graphics,16,512,,13.3,touch,148800
+lenevo, Yoga 920, 8th Gen i7 8550U,, ,16,1024,,13.3,4k touch,178800
+lenevo, Yoga 920 ,8th Gen i7 8550U,, ,8,256,,13.3,touch,128800
+lenevo, Yoga Duet 7i 2-in-1 ,Core i7-10510U,, ,8,512,,13,touch,154800
+apple,Macbook Pro 13 2020 , 10th-gen i5,, ,16,512,,13,retina,262800
+apple,Macbook pro 13 apple M1 Chip , 8-Core CPU ,, 8-Core GPU,,256,,,,194800
+apple,Macbook Pro 13  ,i5 quad-core 8th-gen,,,8,256,,13,retina,199800
+apple,Macbook Pro 2020 , i5 8t Gen,,,8,512,,13,retina,228800
+microsoft, Surface Book 2 2-IN-1, 8th gen i7-8650U,, GTX 1050 2,8,256,,13.5,touch,258800
+microsoft, Surface Pro 6 ,8th gen i5,,,8,256,,12.3,touch,168800
+microsoft, Surface Pro 6 ,8th gen i7,,,16,512,,12.3,touch,248800
+microsoft, Surface Pro 7 ,10 gen i5-1035G4,,,8,128,,12.3,touch,154800
+microsoft, Surface Pro 7 ,10 gen i5-1035G4,,,8,256,,12.3,touch,178800
+microsoft, Surface Pro 7 ,10 gen i7-1065G7,,,16,256,,12.3,touch,262800
+microsoft, Surface Pro ,i5 7th Gen,,,8,256,,12.3,touch,152800
+msi, Alpha 15, Ryzen 7-3750H,144, Radeon RX5500 4,16,512,,15.6,,140800
+msi, GE63 Raider ,8th gen i7 8750H ,144, RTX 2070 8 ,16,512,1024,15.6,,205800
+msi, GE63 Raider ,8th gen i7 8750H,120, GTX 1060 6,16,256,1024,15.6,fhd,154800
+msi, GE63 Raider ,9th Gen i7 9750H,144, RTX 2060 6,16,1024,,15.6,fhd,196800
+msi, GF63 , i5 9th gen 9300H,60, GTX 1650 4,8,512,,15.6,fhd,102800
+msi, GF63 , i7 10th gen 10750H,120, GTX 1660Ti 6,8,512,,15.6,fhd,158800
+msi, GL63 ,9th gen i7 9750H,, GTX 1660Ti 6,16,512,,15.6,fhd,154800
+msi, GL63 ,9th gen i7 9750H,144, RTX 2060 6,16,512,,15.6,fhd,184800
+msi, GL63 ,i5 8th gen 8300H,60, GTX 1050 2,8,128,1024,15.6,fhd,84800
+msi, P65 Creator, 8th gen i7 8750H ,, GTX 1050TI 4,16,256,,15.6,fhd,148800
+msi, P65 Creator ,8th gen i7 8750H,144,GTX 1060 6,16,512,,15.6,fhd,154800
+msi, PS42 Modern, 8th gen i7 8550U,, GTX 1050 2,16,256,,14,fhd,148800
+msi, GS65-Stealth ,9th gen i7 9750H,144, GTX 1660Ti 6,16,512,,15.6,fhd,165800
+msi, GS65-Stealth, 9th gen i7 9750H,240, RTX 2060 6,32,512,,15.6,fhd,205800
+razer, Blade 15 ,9th Gen i7-9750H,144, GTX 1660 Ti 6,16,256,,15.6,fhd,192800
+razer, Blade 15 GAMING ,10 gen i7-10750H,144, RTX 2060 6,16,512,,15.6,,248800
+samsung, Odyssey ,i7 ,, GTX 1060 6,16,128,1024,15.6,fhd,120800
+acer,ASPIRE E5-576,,,,,,,,,56500
+acer,ASPIRE E5-576G,,,,,,,,,75500
+acer,Aspire A515-51G-731M,Intel Core i7 7500U,,NVIDIA GeForce 940MX,12,256,,15.6,fhd,90000
+acer,ASPIRE E5-476G,,,,,,,,,102000
+acer,ASPIRE E5-575-33BM,Intel Core i3 7100U,,,4,,,15.6,fhd,48000
+acer,Aspire E5-576,,,,,,,,,71500
+acer,Aspire V 15 Nitro 7-593G-76SS,Intel Core i77700HQ,,NVIDIA GTX1060,16,,1024,15.6,fhd,135000
+acer,Predator G9-593-73N6, Intel Core i7 7700HQ,,NVIDIA GTX1060,16,256,1024,15.6,fhd,170000
+acer,Predator Helios 300, Intel Core i7 7700HQ,,NVIDIA GTX1060,16,512,,15.6,fhd,145000
+acer,Predator Helios 315,,,,,,,,,206250
+acer,Predator Triton 500,,,,16,,,15.6,hd,186800
+acer,R5,Intel Core i5 7200HQ,,NVIDIA 940MX ,8,,,15.6,fhd,77000
+acer,R5-571TG-78G8,Intel Core I7 7500U,,NVIDIA GeForce 940MX,12,,1024,15.6,fhd ,90000
+acer,SPIN 5,,,,,,,,,125000
+acer,SWIFT 3 -GOLD,,,,,,,,,100625
+acer,Swift 3 SF3 SILVER,,,,,,,,,105000
+acer,TRAVEL MATE TMP2510 G2-MG,,,,,,,,,105000
+acer,Travelmate TMP 2410-G2-M,,,,,,,,,71500
+alienware,AREA-51M,,,RTX 2070,,,,17.3,fhd,432800
+apple, Mac Mini ,Quad Core i3,,,8,256,,,,158000
+apple, MacBook Air, Intel Dual Core i5,,,8,128,,13,hd,115000
+apple, MacBook Air,Intel Dual Core i5,,,8,256,,13,hd,138000
+apple, MacBook Air,,,,,128,,,,158000
+apple, MacBook Air,,,,,128,,,,158000
+apple, MacBook Air,,,,,256,,,,186000
+apple, MacBook Pro,Intel Dual Core i5,,,8,256,,13,,212000
+apple, MacBook Pro,Intel Dual Core i5,,,8,512,,13,,245000
+apple, MacBook Pro,Intel Dual Core i5,,,8,128,,13,,158000
+apple, MacBook Pro,Intel Dual Core i5,,,8,256,,13,,185000
+asus, ROG G531GT-BI7N6,Core i7-9750H,,GTX 1650 ,8,512,,13,,140000
+asus, ROG G752VS-US74K,Intel Core i7-7820HK,,NVIDIA GeForce GTX 1070,8,512,1024,17.3,fhd,280000
+asus, ROG GL502VS-DS71,Intel Core i7 7700HQ,,NVIDIA GTX1070,16,128,1024,15.6,fhd,195000
+asus, ROG GL503VD-DB74, Intel i7 7700HQ,,GTX1050,6,256,1024,15.6,fhd,140000
+asus, ROG GL503VM-DB74, Intel i7 7700HQ,,GTX1060,16,256,1024,15.6,fhd,170000
+asus, ROG GL504GM-ES152T Hero 2,Core i7-8750H,,GTX 1060,16,512,,,,175000
+asus, ROG GL553VE-FY169,Intel Core i7 7700HQ,,NVIDIA GTX1050,16,,1024,,,128000
+asus, ROG GL753VE-IS74,Intel Core i7 7700HQ,,NVIDIA GTX1050Ti,16,128,1024,15.6,fhd,135000
+asus, ROG ZEPHYRUS S GX531GS-AH76,Core i7-8750H,,GTX 1070,16,,,,,210000
+asus, TUF  fhd -Type,,,AMD Ryzen 7 3550H,8,,1024,15.6,,110000
+asus, TUF AMD Ryzen 7 R7-3750H,,,GeForce GTX 1660 Ti,16,256,1024,,,149999
+asus, VivoBook S15 S510UN-MS52,Core i5-8250U,,,8,256,,15.6,,89000
+asus, ZenBook UX430UN-IH74,Intel Core i7-8550U,,NVIDIA GeForce MX150,16,512,,14,fhd,140000
+dell, 3580 Latitude Laptop,i5-7200U,,,4,,1024,15,,66500
+dell, alienware 15 R4 ,i5-8th generation,,,,,,15.6,,190800
+dell, alienware 15R4,i7-8570H,,,16,256,1024,,,190800
+dell, alienware 17R5, i7 8750H,,,,,,17.3,,225800
+dell, alienware M15,,,,,,,,,178800
+dell, alienware M17-7219SLV,i7-8570H Processor,,,16,512,,,,290000
+dell, G3 3579 Core ,i7 8th generation,,,16,256,1024,15.6,fhd,160000
+dell, G3 3590,i5 9300H 9th Gen,,,8,,,15.6,hd,124800
+dell, G5, i7 9th Gen,,,,,,15.6,fhd,164800
+dell, G7 15 ,i7-7590H 8th Gen- Intel Core,,,,,,,,210800
+dell, Inspiron -5575,,,,,,2024,,,114800
+dell, Inspiron 14 7460,Intel Core i7 7500U,,,8,,,14,fhd,79990
+dell, Inspiron 15 3552,Pentium Laptop,,,4,,500,15,,34000
+dell, Inspiron 3573 Intel,Pentium Laptop,,,4,,500,15.6,,29999
+dell, Inspiron 3580,i7-8565U Laptop,,,8,,1024,15.6,fhd,78898
+dell, Inspiron 3581,i3-7020U Laptop,,,4,,1024,15.6,fhd,42995
+dell, Inspiron 5565,AMD A12-9700P,,,8,,1024,15.6,fhd,65000
+dell, Inspiron 5570 ,I7 Laptop 8th Gen ,,,8,,1024,15.6,,98500
+dell, Inspiron 5570 Laptop,8th Generation I5 Processor,,,4,,1024,15.6,hd,65500
+dell, Inspiron 7370,Intel Core i5 8250U,,,8,256,,13.3,fhd,85000
+dell, Inspiron 7567,Intel Core i7 7700HQ,,NVIDIA GTX1050Ti,16,128,1024,15.6,fhd,127000
+dell, Inspiron 7567,Intel Core i5 7300HQ,,NVIDIA GTX1050Ti,8,256,,15.6,fhd,100000
+dell, Inspiron 7570,Intel Core I7-8550U,,NVIDIA 940MX,16,512,,15.6,,135000
+dell, Inspiron 7573-7019BLK ,Core i7-8550U,,Nvidia MX130 ,16,256,,,,135000
+dell, Inspiron 7577,Intel Core Core i7 7700HQ,,NVIDIA GTX1060,16,128,1024,15.6, fhd ,146000
+dell, Latitude 3480 Laptop,Core i3 6th gen,,,4,,1024,,,42951
+dell, XPS 9570,i9 -8950HK,,,,,,15.6,,330800
+gigabyte,AERO 15X,i7-8750H,,,,,,,,312800
+hp, 15-DA0326TU,Core i3 7th gen,,,4,,1024,,,45600
+hp, Envy,8th Gen Intel Core i7 8550U,,,8,360,,13.3,,115000
+hp, ENVY 15T x360,8th Gen Intel Core i5 8250U,,,8,,,15.6,fhd,80000
+hp, OMEN 15-DC0020CA, Core i7-8750H GTX 1060,,,16,128,1024,,,155000
+hp, OMEN 17,i7 8th Gen,,,,,,,,225800
+hp, Pavilion - 14-bf116tx,Intel Core i5 8250U,,NVIDIA GeForce 940MX ,8,,1024,14,fhd,77000
+hp, Pavilion 15 CK063TX,Intel Core i5 8250U,,NVIDIA MX150,8,,1024,15.6,fhd,76000
+hp, Pavilion 15 Power,Intel Core i5 7300HQ,,NVIDIA GTX1050,8,,1024,15.6,fhd,88000
+hp, Pavilion 15-Ck013ca,Intel Core i7 8550U,,NIVIDIA GeForce MX150,12,256,1024,15.6,fhd,95000
+hp, Pavilion 15-CK075,Intel Core i5 8250U,,,8,,,15.6, hd,75000
+hp, ProBook 440 G4,Intel Core i5 7200U,,, ,,500,14,fhd,65000
+hp, Spectre 15-BL112 x360,Intel Core I7 8250U,,NVIDIA MX150,16,512,,15.6,fhd,185000
+hp, Spectre x360 8th gen hp, 8th Gen Int Core I7 8550U,,,16,512,,13,,175000
+lenevo, Ideapad 330 81DC00TGIN,Intel Core i3 Laptop 6th Generation,,,4,,1024,15.6, hd,39975
+lenevo, Legion Y520, i7-7th Gen,,,,,,,,130800
+lenevo, Legion Y545,9th Gen-i7,,,,,,15,,170800
+lenevo, LEGION Y730,i7-8570H Processor,,GTX 1050 Ti,16,128,1024,15,,110800
+lenevo, V110 80THA00TIH Laptop,Core i5 Processor 7th Generation,,,4,500,,,,53500

@@ -1,0 +1,32 @@
+collect the dataset
+	web source = https://www.gadgetbytenepal.com/category/laptop-price-in-nepal/
+				 https://bigbyte.com.np/laptops/?product-page=1
+				 
+
+
+analyses the dataset
+interpret the result
+prepare the dataset
+split the dataset
+apply the regression model on the dataset
+save the model
+apply the model to predict the price
+measure the different accuracy
+plot the graph
+interpret the model
+deploy the model (streamlit)
+
+====================================================
+csv dataset title:
+============================
+brandname:
+model:
+cpucore:
+clock:
+gpu:
+ram:
+ssd:
+rom:
+display:
+displayquality:
+price:
