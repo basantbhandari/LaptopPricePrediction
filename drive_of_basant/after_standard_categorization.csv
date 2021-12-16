@@ -1,0 +1,796 @@
+,brandname,model,cpucore,refreshrate,gpu,ram,ssd,rom,display,displayquality,price
+0,acer,Aspire 5,I5,144,inteluhd,16,256,0,16,fhd,84000
+1,acer,Aspire 5,I5,60,inteluhd,8,512,0,16,hd,90000
+2,acer,Swift 3,I5,144,nvidiageforcemx350,8,256,0,14,fhd,89000
+3,acer,Swift 3,I5,144,nvidiageforcemx350,8,512,0,14,fhd,93000
+4,acer,Swift 3,I7,144,nvidiageforcemx350,8,512,0,14,fhd,115990
+5,acer,Swift 3,ry,144,amdradeonvega8,8,256,0,14,fhd,95000
+6,acer,Nitro 5,I5,144,nvidiageforcegtx1650,8,0,1024,16,fhd,115000
+7,acer,Nitro 5,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd,118000
+8,acer,Nitro 5,I5,144,nvidiageforcegtx1650,8,512,0,16,fhd,125000
+9,acer,Nitro 5,I5,144,nvidiageforcertx2060,8,0,1024,16,fhd,140000
+10,acer,Nitro 5,I7,144,nvidiageforcegtx1650,8,256,0,16,fhd,145000
+11,acer,Nitro 5,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd,155000
+12,acer,Nitro 5,ry,144,nvidiageforcegtx1650,8,0,1024,16,fhd,126000
+13,acer,Nitro 5,ry,144,nvidiageforcegtx1650,8,256,0,16,fhd,123000
+14,acer,Nitro 5,ry,144,nvidiageforcegtx1650,8,0,1024,16,fhd,137000
+15,acer,Nitro 5,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd,144000
+16,acer,Predator,I5,144,nvidiageforcegtx1660,8,512,0,16,fhd,149000
+17,acer,Predator,I5,144,nvidiageforcegtx1660,8,512,0,16,fhd,169000
+18,acer,Predator,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,190000
+19,acer,Predator,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,182000
+20,acer,Predator,I7,144,nvidiageforcertx2070,16,512,0,16,fhd,235000
+21,acer,Predator,I7,144,nvidiageforcertx2070,16,512,0,16,fhd,214000
+22,acer,Predator,I7,144,nvidiageforcertx2070,16,512,0,16,fhd,265000
+23,asus,VivoBook,ce,60,inteluhd,4,256,0,14,hd,48000
+24,asus,VivoBook,I5,144,inteluhd,8,256,0,14,fhd,83000
+25,asus,VivoBook,ce,144,inteluhd,4,256,0,16,fhd,48000
+26,asus,VivoBook,ry,144,amdradeon,8,256,0,16,fhd,87000
+27,asus,VivoBook,I5,144,inteluhd,8,512,0,16,fhd,88000
+28,asus,VivoBook,I7,144,nvidiageforcemx330,8,1024,0,16,fhd,116000
+29,asus,VivoBook,I5,144,inteluhd,8,512,0,14,fhd,106000
+30,asus,VivoBook,I5,144,inteluhd,8,512,0,14,fhd,106666
+31,asus,VivoBook,I7,144,inteluhd,16,512,0,14,fhd,131111
+32,asus,VivoBook,I3,144,inteluhd,4,256,0,14,fhd,83000
+33,asus,VivoBook,ry,144,amdradeon,8,512,0,14,fhd,108000
+34,asus,VivoBook,ry,144,amdradeon,8,512,0,14,fhd,116000
+35,asus,VivoBook,I7,144,nvidiageforcemx250,8,512,0,16,fhd,128888
+36,asus,VivoBook,I7,144,nvidiageforcemx350,16,512,0,16,fhd,141111
+37,asus,ZenBook ,I5,144,inteluhd,8,512,0,13,fhd,125000
+38,asus,ZenBook ,I7,144,inteliris,16,512,0,13,fhd,148000
+39,asus,ZenBook ,I5,144,inteliris,8,512,0,13,fhd,133000
+40,asus,ZenBook ,I7,144,inteliris,16,512,0,13,fhd,154000
+41,asus,ZenBook ,I5,144,inteluhd,8,512,0,14,fhd,142000
+42,asus,ZenBook ,I5,144,inteluhd,8,512,0,14,fhd,125000
+43,asus,ZenBook ,I5,144,inteliris,8,512,0,14,fhd,133000
+44,asus,ZenBook ,I5,144,nvidiageforcemx,8,512,0,14,fhd,153000
+45,asus,ZenBook ,I7,144,nvidiageforcemx,16,512,0,14,fhd,176000
+46,asus,ZenBook ,I7,144,inteliris,16,512,0,14,fhd,154000
+47,asus,ZenBook ,I7,144,nvidiageforcegtx,16,1024,0,16,fhd,207000
+48,asus,ZenBook ,I5,144,inteluhd,8,512,0,14,fhd,134000
+49,asus,ZenBook ,I5,144,inteliris,8,512,0,13,fhd,128000
+50,asus,ZenBook ,I7,144,inteliris,16,512,0,13,fhd,176000
+51,asus,ZenBook ,I7,144,nvidiageforcemx,16,1024,0,14,fhd,215000
+52,asus,TUF F15 ,I5,144,nvidiageforcegtx1650,8,512,0,16,fhd,120000
+53,asus,TUF F15 ,I5,144,nvidiageforcegtx1650,16,512,0,16,fhd,125000
+54,asus,TUF F15 ,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,183333
+55,asus,TUF F15 ,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd,148000
+56,asus,TUF F15 ,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd,157777
+57,asus,TUF Dash,I5,144,nvidiageforcertx3060,8,512,0,16,fhd,183000
+58,asus,TUF Dash,I7,144,nvidiageforcertx3060,8,512,0,16,fhd,215000
+59,asus,TUF Dash,I7,240,nvidiageforcertx3070,16,1024,0,16,fhd,183000
+60,asus,TUF A15 ,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd,152000
+61,asus,TUF A15 ,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,161000
+62,asus,ROG Stri,I5,144,nvidiageforcegtx1650,16,512,0,16,fhd,148000
+63,asus,ROG Stri,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd,168800
+64,asus,ROG Stri,ry,300,nvidiageforcertx3080,16,1024,0,16,fhd,410000
+65,asus,Zephyrus,I7,120,nvidiageforcegtx1660,16,512,0,14,fhd,200000
+66,dell,Inspiron,I3,60,inteluhd,4,0,1024,16,hd,58750
+67,dell,Inspiron,I5,144,nvidiageforcemx330,4,0,1024,16,fhd,86235
+68,dell,Inspiron,I5,144,inteluhd,8,256,0,13,fhd,102000
+69,dell,Inspiron,I5,144,inteluhd,8,256,0,13,fhd,103000
+70,dell,Inspiron,I5,144,nvidiageforcemx350,8,512,0,13,fhd,126270
+71,dell,Inspiron,I7,144,nvidiageforcemx350,8,512,0,13,fhd,140490
+72,dell,Inspiron,I5,144,intelirisxe,8,512,0,14,fhd,126380
+73,dell,Inspiron,I5,144,nvidiageforcemx230,8,512,0,14,fhd,135835
+74,dell,Inspiron,I7,144,nvidiageforcemx230,8,512,0,14,fhd,154455
+75,dell,Inspiron,I7,144,inteluhd,8,256,0,16,fhd,120000
+76,dell,Inspiron,I7,144,amdradeon,8,512,0,16,fhd,113905
+77,dell,Inspiron,I5,144,nvidiageforcemx230,8,512,0,16,fhd,95000
+78,dell,Inspiron,I5,144,inteliris,8,512,0,13,fhd,161405
+79,dell,Inspiron,I7,144,inteliris,16,512,0,13,4k,189905
+80,dell,Inspiron,I5,144,inteliris,8,256,0,13,fhd,118000
+81,dell,Inspiron,I5,144,inteliris,8,512,0,13,4k,120000
+82,dell,Inspiron,I7,144,inteliris,8,256,0,13,fhd,148000
+83,dell,Inspiron,I7,144,inteliris,16,512,0,13,4k,157000
+84,dell,Inspiron,I5,144,inteliris,8,256,0,14,fhd,118000
+85,dell,Inspiron,I7,144,inteliris,8,512,0,14,fhd,120000
+86,dell,Inspiron,I7,144,inteliris,8,256,0,14,fhd,125000
+87,dell,Inspiron,I5,144,inteliris,8,512,0,14,fhd,125000
+88,dell,Inspiron,I7,144,inteliris,16,512,0,14,fhd,156000
+89,dell,Inspiron,I7,144,inteliris,16,1024,0,16,fhd,175000
+90,dell,G3 G3500,I5,144,nvidiageforcegtx1650,8,512,0,16,fhd,125000
+91,dell,G3 G3500,I5,144,nvidiageforcegtx1660,16,512,0,16,fhd,135000
+92,dell,G5 15 55,I7,144,nvidiageforcertx2070,8,512,0,16,fhd,205105
+93,dell,G5 15 55,I7,144,nvidiageforcertx2070,16,1024,0,16,fhd,242250
+94,dell,G5 15 SE,I7,144,amdradeonrx,8,512,0,16,fhd,152800
+95,dell,G5 15 SE,I7,144,amdradeonrx,8,512,0,16,fhd,158000
+96,dell,G5 15 SE,I7,144,amdradeonrx,16,512,0,16,fhd,158800
+97,dell,G7 7500,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,237500
+98,dell,Alienwar,I7,300,nvidiageforcertx2070,16,512,0,16,fhd,310000
+99,dell,Vostro 1,I3,60,inteluhd,4,0,1024,14,hd,60000
+100,dell,Vostro 1,I5,144,inteliris,4,0,1024,14,fhd,77500
+101,dell,Vostro 1,I3,60,inteluhd,4,0,1024,14,hd,57500
+102,dell,Vostro 1,I3,144,inteluhd,4,0,1024,14,fhd,60040
+103,dell,Vostro 1,I7,144,nvidiageforcemx330,8,512,0,16,fhd,112000
+104,dell,Vostro 1,I5,144,inteliris,4,0,1024,16,fhd,77501
+105,dell,Vostro 1,I5,60,inteliris,8,256,0,14,hd,85000
+106,dell,Vostro 1,I5,60,nvidia,8,256,0,14,hd,90000
+107,dell,Vostro 1,I3,60,inteluhd,4,0,1024,14,hd,57500
+108,dell,Latitude,I5,60,inteluhd,4,0,1024,14,hd,82500
+109,dell,XPS 13 7,I5,144,inteluhd,8,256,0,13,fhd,140000
+110,dell,XPS 13 7,I5,144,inteluhd,8,256,0,13,fhd,144800
+111,dell,XPS 13 7,I7,144,inteluhd,16,512,0,13,fhd,200000
+112,dell,XPS 13 9,I5,144,intelirisxe,8,512,0,13,fhd,214740
+113,dell,XPS 13 9,I5,144,intelirisxe,8,256,0,13,fhd,228050
+114,dell,XPS 13 9,I5,144,intelirisxe,16,512,0,13,fhd,308850
+115,dell,XPS 13 9,I7,144,intelirisxe,16,512,0,13,4k,210800
+116,dell,XPS 15 9,I5,144,inteluhd,8,512,0,16,fhd,174800
+117,dell,XPS 15 9,I7,144,nvidiageforcegtx1650,16,512,0,16,4k,258800
+118,dell,XPS 15 9,I7,144,nvidiageforcegtx1650,16,512,0,16,4k,268800
+119,hp,hp Lapto,I3,144,inteluhd,8,0,0,14,fhd,61990
+120,hp,hp Lapto,I5,60,inteluhd,8,0,0,14,hd,78990
+121,hp,hp Lapto,I3,60,inteluhd,8,0,0,16,hd,64990
+122,hp,hp Lapto,I3,60,inteluhd,8,0,0,14,hd,64800
+123,hp,hp Lapto,I5,60,amdradeon,4,0,0,14,hd,79990
+124,hp,hp Lapto,I5,60,amdradeon,8,128,1024,14,hd,86990
+125,hp,hp Lapto,I7,60,inteliris,8,256,0,16,hd,99990
+126,hp,Notebook,I3,144,inteluhd,8,256,0,14,fhd,63000
+127,hp,Notebook,I3,144,inteluhd,4,512,0,14,fhd,68500
+128,hp,Notebook,I5,144,nvidiageforcemx130,4,0,1024,14,fhd,89000
+129,hp,Pavilion,I5,144,inteluhd,8,256,0,14,fhd,110000
+130,hp,Pavilion,I5,144,intelirisxe,8,512,0,14,fhd,115000
+131,hp,Pavilion,ry,144,amdradeon,8,512,0,16,fhd,99990
+132,hp,Pavilion,ry,144,nvidiageforcegtx1650,8,256,0,16,fhd,108000
+133,hp,Pavilion,ry,144,nvidiageforcegtx1650,4,256,0,16,fhd,106800
+134,hp,Pavilion,I5,144,nvidiageforcegtx1660,8,512,0,16,fhd,134800
+135,hp,Pavilion,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd,146800
+136,hp,Envy 13,I5,144,intelirisxe,8,256,0,13,fhd,114990
+137,hp,Envy 13,I5,144,intelirisxe,8,256,0,13,fhd,120000
+138,hp,Envy 13,I7,144,intelirisplus,8,512,0,13,4k,148000
+139,hp,Envy x36,I7,144,intelirisxe,8,512,0,13,fhd,140000
+140,hp,hp Omen ,I7,144,nvidiageforcegtx1660,8,512,0,16,fhd,160000
+141,hp,hp Omen ,I7,144,nvidiageforcegtx1660,16,1024,0,16,fhd,175000
+142,hp,hp Spect,I5,144,intelirisplus,8,256,0,13,fhd,142000
+143,hp,hp Spect,I7,144,intelirisplus,8,512,0,13,fhd,185000
+144,hp,hp Spect,I7,144,nvidiageforcemx250,16,512,0,16,4k,225000
+145,lenovo,V14-IIL ,I5,60,inteluhd,4,0,1024,14,hd,82000
+146,lenovo,IdeaPad ,I3,60,inteluhd,4,0,1024,14,hd,59800
+147,lenovo,IdeaPad ,I7,60,inteluhd,8,256,0,13,hd,119990
+148,lenovo,IdeaPad ,I7,60,inteluhd,16,512,0,13,hd,129990
+149,lenovo,IdeaPad ,I5,144,inteluhd,8,512,0,14,fhd,75990
+150,lenovo,IdeaPad ,I5,144,inteluhd,8,256,0,14,fhd,85000
+151,lenovo,IdeaPad ,ry,144,amdradeon,4,256,0,14,fhd,74000
+152,lenovo,IdeaPad ,I7,144,nvidiageforcemx350,16,512,0,14,fhd,134990
+153,lenovo,IdeaPad ,I7,144,nvidiageforcegtx1650,8,256,1024,16,fhd,139000
+154,lenovo,IdeaPad ,I7,144,nvidiageforcegtx1650,16,256,1024,16,fhd,152000
+155,lenovo,Flex 5,ry,144,amdradeon,16,256,0,14,fhd,110000
+156,lenovo,Flex 14x,I7,144,inteluhd,8,512,0,14,fhd,124990
+157,lenovo,Flex 14 ,ry,144,amdradeon,16,256,0,14,fhd,118000
+158,lenovo,Yoga C74,I5,144,inteluhd,8,256,0,14,fhd,105000
+159,lenovo,Yoga C94,I7,144,intelirisplus,8,512,0,13,fhd,169000
+160,lenovo,Yoga 7i,I5,144,intelirisxe,8,256,0,16,fhd,115000
+161,lenovo,Yoga Due,I5,60,inteluhd,8,512,0,13,hd,145000
+162,lenovo,Yoga 7i,I5,144,intelirisxe,8,256,0,16,fhd,115000
+163,lenovo,Yoga 7 2,I7,144,intelirisxe,12,512,0,14,fhd,135000
+164,lenovo,Yoga Sli,I7,144,intelirisxe,16,1024,0,13,WQXGA,185000
+165,lenovo,Yoga 9 2,I7,144,intelirisxe,16,512,0,14,fhd_touch,198000
+166,lenovo,ThinkPad,I5,144,inteluhd,8,0,1024,14,fhd,108800
+167,lenovo,ThinkPad,I7,144,inteluhd,8,256,0,14,fhd,138800
+168,lenovo,ThinkPad,I5,144,inteluhd,8,256,0,13,fhd,135000
+169,lenovo,ThinkPad,I5,144,inteluhd,8,256,0,14,fhd,144000
+170,lenovo,ThinkPad,I5,144,inteluhd,8,256,0,14,fhd,145000
+171,lenovo,Thinkpad,ry,144,amdradeon,16,256,0,13,fhd,143000
+172,lenovo,TinkPad ,I5,144,inteluhd,8,256,0,13,fhd,159000
+173,lenovo,ThinkPad,I5,144,inteluhd,8,256,0,13,fhd,179000
+174,lenovo,ThinkPad,I5,144,inteluhd,16,512,0,13,fhd,198000
+175,lenovo,Legion 5,ry,120,nvidiageforcertx2060,8,512,0,16,fhd,154800
+176,lenovo,Legion 5,ry,120,nvidiageforcertx2060,16,512,0,16,fhd,160800
+177,lenovo,Legion 5,I7,120,nvidiageforcegtx1650,8,256,0,16,fhd,150000
+178,lenovo,Legion 5,I7,120,nvidiageforcegtx1660,16,512,0,16,fhd,170800
+179,lenovo,Legion 5,I7,120,nvidiageforcertx2060,16,512,0,16,fhd,190800
+180,lenovo,Legion 5,I7,120,nvidiageforcegtx1650,8,512,0,16,fhd,142800
+181,lenovo,Legion 5,I7,120,nvidiageforcegtx1660,8,512,1024,16,fhd,154800
+182,lenovo,Legion 5,I7,144,nvidiageforcertx2060,16,256,0,16,fhd,184800
+183,lenovo,Legion 5,I7,240,nvidiageforcertx2060,16,512,0,16,fhd,195000
+184,lenovo,Legion 7,I7,144,nvidiageforcertx2070,16,1024,0,16,fhd,238800
+185,apple,MacBook ,m1,144,inteliris,8,256,0,13,fhd,159500
+186,apple,MacBook ,m1,144,inteliris,8,512,0,13,fhd,203000
+187,apple,MacBook ,m1,144,inteliris,8,256,0,13,fhd,205000
+188,apple,MacBook ,m1,144,inteliris,8,512,0,13,fhd,240000
+189,apple,MacBook ,m1,144,inteliris,16,256,0,13,fhd,240000
+190,apple,MacBook ,m1,144,inteliris,16,512,0,13,fhd,275000
+191,msi,msi Stea,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,229000
+192,msi,msi Stea,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,239000
+193,msi,msi GS66,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,265000
+194,msi,msi GS66,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,255000
+195,msi,msi GS66,I7,144,nvidiageforcertx2070,32,1024,0,16,fhd,386000
+196,msi,msi GE66,I7,144,nvidiageforcertx2070,16,1024,0,16,fhd,306000
+197,msi,msi GE76,I7,144,nvidiageforcertx3070,16,2048,0,16,fhd,320000
+198,msi,msi GE76,I7,144,nvidiageforcertx3070,32,2048,0,16,fhd,350000
+199,msi,msi GP65,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,205000
+200,msi,msi GP66,I7,144,nvidiageforcertx3060,16,1024,0,16,fhd,259000
+201,msi,msi GP67,I7,144,nvidiageforcertx3060,16,1024,0,16,fhd,259000
+202,msi,msi GL75,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,189000
+203,msi,msi GL75,I7,144,nvidiageforcertx2070,8,512,1024,16,fhd,250000
+204,msi,msi GF63,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd,137000
+205,msi,msi GF65,I5,120,nvidiageforcegtx1660,8,1024,0,16,fhd,145000
+206,msi,msi GF65,I7,144,nvidiageforcegtx1660,8,1024,0,16,fhd,175000
+207,msi,msi GF65,I5,144,nvidiageforcertx3060,16,512,0,16,fhd,198000
+208,msi,msi GF65,I7,144,nvidiageforcertx3060,16,512,0,16,fhd,220000
+209,msi,msi Brav,I7,144,inteliris,8,1024,0,16,fhd,155000
+210,msi,msi Crea,I7,144,nvidiageforcertx2070,32,512,0,16,4k,360000
+211,msi,msi Pres,I5,144,intelirisxe,16,512,0,16,fhd,173000
+212,msi,msi Pres,I7,144,intelirisxe,16,512,0,16,fhd,193000
+213,msi,msi Pres,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd,241000
+214,msi,msi Mode,I5,144,inteliris,8,512,0,16,uhd,110000
+215,msi,msi Mode,I5,144,amdradeonrx,8,512,0,14,fhd,135000
+216,msi,msi Mode,I7,144,amdradeonrx,8,512,0,14,fhd,147000
+217,msi,msi Mode,I5,144,amdradeonrx,8,512,0,16,fhd,137000
+218,msi,msi Mode,I7,144,amdradeonrx,8,512,0,16,fhd,148000
+219,msi,msi Summ,I5,144,intelirisxe,8,512,0,16,fhd,138000
+220,msi,msi Summ,I7,144,intelirisxe,8,512,0,16,fhd,168000
+221,msi,msi Summ,I7,144,nvidiageforcegtx1650,16,1024,0,16,fhd,249000
+222,msi,msi Summ,I7,144,nvidiageforcegtx1650,16,1024,0,16,4k,259000
+223,microsoft,Microsof,I3,144,inteliris,4,128,0,12,fhd,117000
+224,microsoft,Microsof,I5,144,inteliris,8,128,0,12,fhd,142000
+225,microsoft,Microsof,I5,144,inteliris,8,256,0,12,fhd,188000
+226,microsoft,Microsof,I7,144,inteliris,16,256,0,12,fhd,228000
+227,microsoft,Microsof,I5,144,inteliris,8,128,0,14,fhd,159000
+228,microsoft,Microsof,ry,144,amdradeonvega8,8,128,0,15,fhd,187000
+229,razer,Razer Bl,I7,120,nvidiageforcegtx1650,16,512,0,16,fhd,289000
+230,razer,Razer Bl,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,279000
+231,razer,Razer Bl,I7,144,nvidiageforcertx2070,16,512,0,16,fhd,310000
+232,ripple,Pandora,I7,144,intelirisxe,8,256,0,16,fhd,75000
+233,ripple,Artifact,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd,120000
+234,ripple,Artifact,I7,144,nvidiageforcertx2060,8,256,0,16,fhd,175000
+235,ripple,Artifact,I7,144,nvidiageforcertx3060,16,256,0,16,fhd,200000
+236,ripple,Raze,I5,144,nvidiageforcertx3050,8,256,0,16,fhd,150000
+237,ripple,Raze Pro,I7,144,nvidiageforcertx3050,8,256,0,16,fhd,200000
+238,ripple,Genos,ry,144,nvidiageforcertx2060,8,256,0,16,fhd,185000
+239,ripple,Genos Pr,ry,144,nvidiageforcertx2070,8,256,0,16,fhd,225000
+240,hp,15CS3079,I5,144,inteliris,8,256,0,16,fhd,86000
+241,asus,TUF FX 5,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd,115000
+242,hp,PAVILION,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd,112000
+243,hp,24-DF030,I3,144,inteliris,12,256,0,24,fhd,88000
+244,hp,15-GW001,ry,144,inteliris,4,128,1024,16,fhd,63500
+245,lenovo,V14,ry,144,amdradeon,8,0,1024,14,fhd,78500
+246,hp,Hp-14,I5,144,inteliris,8,256,0,14,fhd,84000
+247,hp,Hp-14,ry,144,amdradeonvega8,4,0,1024,14,fhd,56000
+248,hp,Pavilion,I5,144,inteliris,8,256,0,14,fhd,85000
+249,lenovo,Legion 5,I7,60,nvidiageforcegtx,8,512,0,14,hd,155000
+250,dell,Inspiron,I7,60,Nvidia MX ,8,512,0,13,hd,116000
+251,lenovo,Yoga 7 1,I5,144,inteliris,8,256,0,16,fhd_touch,107000
+252,hp,Hp-15-DY,I5,60,inteliris,8,256,0,16,hd,80000
+253,hp,Hp-255,ry,144,inteliris,8,0,1024,16,fhd,74000
+254,hp,15-da218,I5,60,inteliris,4,0,1024,16,hd,76000
+255,hp,Hp- 14,I5,144,inteliris,8,256,0,14,fhd,84000
+256,hp,Hp-15,I5,60,inteliris,8,256,0,16,hd,86000
+257,hp,Hp-14,I3,60,inteliris,8,256,0,14,hd,65000
+258,dell,Vostro 3,I7,144,nvidiageforcemx,8,512,0,16,fhd,115000
+259,dell,Vostro 3,I3,60,inteliris,4,0,1024,14,hd,57500
+260,lenovo,Ideapad ,I3,144,inteliris,8,256,0,16,fhd,63000
+261,lenovo,ThinkBoo,I5,60,amdradeon,8,0,1024,14,hd,95000
+262,lenovo,IdeaPad ,I5,144,inteliris,8,256,0,13,qhd,95000
+263,lenovo,IdeaPad ,I3,144,inteliris,4,0,1024,16,fhd,56000
+264,apple,MacBook ,I3,144,inteliris,8,256,0,13,retina,138000
+265,apple,MacBook ,I5,144,inteliris,8,512,0,13,retina,195000
+266,apple,MacBook ,m1,144,inteliris,8,512,0,13,fhd,205000
+267,dell,Inspiron,I7,144,inteliris,8,512,0,14,fhd,115000
+268,acer,Aspire 5,I5,60,inteliris,8,512,0,16,hd,85000
+269,acer,Swift 3,ry,144,inteliris,8,256,0,14,fhd,88000
+270,acer,Swift 3,ry,144,inteliris,8,512,0,14,fhd,96000
+271,acer,Nitro 5,ry,144,nvidiageforce,8,256,0,16,fhd,108000
+272,acer,Nitro 5,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd,112000
+273,hp,Envy 13,I5,144,inteliris,8,256,0,13,fhd,116000
+274,lenovo,Yoga7,I7,144,inteliris,12,512,0,14,fhd_touch,132000
+275,lenovo,Flex 5,I7,144,inteliris,8,512,0,14,fhd_touch,115000
+276,lenovo,Flex 5,ry,144,inteliris,8,256,0,14,fhd_touch,74000
+277,lenovo,Legion 5,I7,60,nvidiageforcegtx,8,512,0,16,hd,145000
+278,lenovo,Ideapad ,I3,60,inteliris,8,256,0,16,hd,64000
+279,lenovo,Yoga C74,I7,144,inteliris,16,256,0,16,fhd_touch,165000
+280,lenovo,IdeaPad ,I5,144,inteliris,16,512,0,14,fhd_touch,100000
+281,lenovo,IdeaPad ,I5,144,inteliris,8,512,0,14,fhd,82000
+282,lenovo,Legion 5,I7,60,inteliris,16,512,0,16,hd,180000
+283,lenovo,Yoga 7i,I7,144,inteliris,12,512,0,14,fhd_touch,132000
+284,lenovo,Flex 5 1,I5,144,inteliris,8,512,0,14,fhd,92000
+285,lenovo,V14,ry,144,amdradeon,8,0,1024,14,fhd,78500
+286,lenovo,V14,ce,60,nvidiageforcertx2060,4,0,1024,14,hd,45000
+287,dell,XPS 13 7,I7,144,Intel uhd ,16,512,0,13,fhd_touch,190000
+288,dell,Inspiron,ry,60,inteliris,8,256,0,14,hd,109500
+289,dell,Inspiron,I7,144,inteliris,16,512,0,13,uhd,166000
+290,dell,G5 5500,I7,144,nvidiageforcegtx,8,256,0,16,fhd,150000
+291,asus,Zenbook ,ry,144,nvidiageforce,8,256,0,14,fhd,95000
+292,asus,VivoBook,I3,144,inteliris,4,128,0,16,fhd,60000
+293,asus,E410MA,ce,60,inteliris,4,256,0,14,hd,48000
+294,asus,TUF TUF5,I7,144,nvidiageforcegtx,16,512,0,16,hd,155000
+295,asus,Vivobook,pe,60,inteliris,4,128,0,14,hd,57500
+296,asus,VivoBook,ry,144,inteliris,8,512,0,14,fhd_touch,108000
+297,asus,Vivobook,I5,144,inteliris,8,512,0,14,fhd,112000
+298,asus,VivoBook,I5,144,inteliris,8,256,0,16,fhd_touch,86000
+299,asus,ROG Zeph,ry,144,nvidiageforce,16,1,0,16,fhd,200000
+300,asus,TUF FX 5,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd,115000
+301,hp,Hp-14,ry,60,amdradeonvega8,4,0,1024,14,hd,59000
+302,hp,15-DY104,I5,144,inteliris,8,256,0,16,fhd,85000
+303,hp,Envy x36,I7,144,inteliris,8,512,0,13,fhd_touch,138000
+304,hp,OMEN 15,I7,144,nvidiageforcegtx,8,256,1024,16,fhd,160000
+305,hp,15CS3079,I5,144,inteliris,8,256,0,16,fhd,89000
+306,hp,Hp-14,I3,144,inteliris,8,256,0,14,fhd_touch,75000
+307,hp,Pavilion,I5,144,inteliris,8,256,0,14,fhd,95000
+308,hp,Pavilion,I3,144,inteliris,8,128,0,14,fhd_touch,74000
+309,hp,15-DY205,I5,60,inteliris,12,256,0,16,hd,94500
+310,hp,Hp-14,ry,60,inteliris,4,0,1024,14,hd,56000
+311,hp,Pavilion,I5,144,inteliris,8,256,0,14,fhd,92000
+312,hp,Hp-14 (2,I3,60,inteliris,8,256,0,14,hd,75000
+313,hp,Hp-14,I5,60,inteliris,8,256,0,14,hd,84000
+314,hp,Hp-15-GW,ry,144,inteliris,4,128,1024,16,fhd,63500
+315,hp,24-DF030,I3,144,inteliris,12,256,0,24,fhd,88000
+316,hp,PAVILION,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd,112000
+317,hp,15CS3079,I5,144,inteliris,8,256,0,16,fhd,86000
+318,asus,TUF Dash,I7,144,inteliris,16,512,0,16,fhd,209990
+319,acer,A515,I5,144,inteliris,8,0,1024,16,fhd,86990
+320,acer,A515,ry,144,inteliris,4,128,0,16,fhd,59990
+321,acer,Predator,I7,144,inteliris,16,512,0,16,fhd,182990
+322,acer,SF314-57,I5,144,inteliris,8,256,0,14,fhd,95990
+323,acer,SF314-57,I7,144,inteliris,8,512,0,14,fhd,115990
+324,acer,SF714-52,I7,144,inteliris,16,512,0,14,fhd,142990
+325,apple,MacBook ,I3,144,inteliris,8,256,0,13,qhd,139990
+326,apple,MacBook ,I7,144,inteliris,8,512,0,13,qhd,189990
+327,apple,MacBook ,I5,144,inteliris,8,256,0,13,qhd,189990
+328,asus,FA506,I7,144,inteliris,8,512,0,16,fhd,157990
+329,asus,ROG ZEPH,ry,144,inteliris,16,1024,0,14,fhd,274990
+330,asus,Strix G5,I7,144,inteliris,8,512,0,16,fhd,144990
+331,asus,TP412UA,I7,144,inteliris,8,256,0,14,fhd,106990
+332,asus,VivoBook,I3,144,inteliris,4,128,0,14,fhd,67990
+333,asus,VivoBook,I5,144,inteliris,8,256,0,16,fhd,84990
+334,asus,ZenBook,ry,144,inteliris,8,256,0,14,fhd,99990
+335,dell,3501,I5,144,inteliris,8,256,0,16,fhd,94990
+336,dell,3501,I5,144,inteliris,8,256,0,16,fhd,82990
+337,dell,5505,I7,144,inteliris,8,256,0,16,fhd,109990
+338,dell,G5-15,I7,144,inteliris,8,256,0,16,fhd,135990
+339,dell,In 5400,I3,60,inteluhd,4,128,0,14,hd,74990
+340,dell,In 5402,I5,144,inteliris,8,512,0,14,fhd,108990
+341,dell,In 5406,I5,60,inteliris,8,256,0,14,hd,112990
+342,dell,In 5406,I7,144,inteliris,8,512,0,14,fhd,123990
+343,dell,In 5502,I7,144,inteliris,8,256,0,16,fhd,119990
+344,dell,In 7490,I7,144,inteliris,8,512,0,14,fhd,114990
+345,dell,In 7506,I5,144,inteliris,12,512,0,16,fhd,119990
+346,dell,Vostro 3,I5,144,inteliris,4,0,1024,14,fhd,78990
+347,dell,Vostro 3,I5,144,inteliris,8,256,0,14,fhd,82990
+348,dell,Vostro 3,I7,144,inteliris,8,512,0,14,fhd,115990
+349,dell,Vostro 3,I3,60,inteliris,4,128,1024,14,hd,62990
+350,dell,Vostro 3,I3,60,inteliris,4,0,1024,14,hd,58990
+351,dell,Vostro 3,I5,144,inteliris,4,0,1024,16,fhd,78990
+352,dell,Vostro 3,I7,144,inteliris,8,512,0,16,fhd,115990
+353,dell,Vostro 3,I3,60,inteliris,4,0,1024,16,hd,58990
+354,hp,14-cf222,I5,60,inteliris,4,0,1024,14,hd,82990
+355,hp,14-cf222,I5,60,inteliris,8,128,1024,14,hd,89990
+356,hp,14-dq104,I3,144,inteliris,8,256,0,14,fhd,64990
+357,hp,14-dq105,I5,60,inteliris,8,256,0,14,hd,78990
+358,hp,15-DW304,I3,60,inteliris,8,256,0,16,hd,64990
+359,hp,15-dy107,I7,60,inteliris,8,256,0,16,hd,99990
+360,hp,15-dy202,I5,144,inteliris,8,256,0,16,fhd,84990
+361,hp,ENVY 13-,I5,144,inteliris,8,256,0,13,fhd,114990
+362,hp,ENVY-13m,I7,144,inteliris,8,512,0,13,fhd_touch,137990
+363,hp,OMEN-15,I7,144,inteliris,16,512,0,16,fhd,181990
+364,hp,Pav 15-e,ry,144,inteliris,8,512,0,16,fhd,91990
+365,hp,Pav Gami,ry,144,inteliris,8,256,0,16,fhd,102990
+366,hp,Pav Gami,ry,144,inteliris,8,256,0,16,fhd,89990
+367,hp,14-dk102,ry,60,inteliris,4,0,1024,14,hd,58990
+368,hp,15-dw304,I7,144,inteliris,8,256,0,16,fhd,106990
+369,hp,OMEN-15-,I7,144,inteliris,32,512,0,16,fhd,259990
+370,lenovo,LEGION 5,I7,144,inteliris,8,512,0,16,fhd,156990
+371,lenovo,LEGION 5,ry,144,inteliris,8,256,1024,16,fhd,124990
+372,lenovo,15IIL05,I7,144,inteliris,12,512,0,16,fhd,94990
+373,lenovo,E41-45,I7,60,inteliris,4,0,1024,14,hd,41990
+374,lenovo,Flex14IM,I7,144,inteliris,16,512,0,14,fhd,124990
+375,lenovo,IdeaPad ,I5,144,inteliris,8,512,0,14,fhd,79990
+376,lenovo,IdeaPad ,I7,60,inteliris,8,0,1024,14,hd,99990
+377,lenovo,S540,I7,144,inteliris,16,512,0,13,qhd,129990
+378,lenovo,S540,I7,144,inteliris,8,256,0,13,qhd,119990
+379,lenovo,slim 7 1,I7,144,inteliris,16,512,0,14,fhd,134990
+380,lenovo,V130 Cel,ce,60,inteliris,4,0,1024,16,hd,46990
+381,lenovo,V130 Cel,ce,60,inteliris,4,512,0,16,hd,44990
+382,lenovo,Yoga 7,I7,144,inteliris,12,512,0,14,fhd,134990
+383,msi,GL65-9SD,I7,120,inteliris,16,512,0,16,fhd,164990
+384,msi,GS66 Ste,I7,120,inteliris,16,512,0,16,fhd,181990
+385,acer,NITRO AN,I5,144,inteliris,8,256,0,16,fhd,117990
+386,acer,NITRO AN,ry,144,inteliris,8,256,0,16,fhd,107990
+387,acer,NITRO AN,I7,144,inteliris,8,0,1024,16,fhd,134990
+388,acer,ASPIRE 7,I7,60,nvidiageforcegtx,16,256,1024,16,hd,126800
+389,acer,Nitro 5,I5,60,nvidiageforcegtx,8,256,0,16,hd,116800
+390,acer,Nitro 5,I7,144,nvidiageforcertx2060,16,256,0,16,fhd,160800
+391,acer,Nitro 5,I5,60,nvidiageforcegtx,8,512,0,16,hd,108800
+392,acer,Predator,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,180800
+393,acer,Predator,I7,144,nvidiageforcegtx1660,16,256,0,16,fhd,150800
+394,acer,Predator,I7,144,inteliris,16,512,0,16,fhd,214800
+395,acer,Predator,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,196800
+396,acer,Swift 7,I7,144,inteliris,8,51,0,13,fhd,120800
+397,apple,Macbook ,I5,144,inteliris,8,128,0,13,retina,146800
+398,apple,Macbook ,I5,144,inteliris,8,256,0,13,retina,174800
+399,apple,MacBook ,I7,144,inteliris,8,0,512,13,retina,194800
+400,apple,MacBook ,I7,144,inteliris,8,256,0,13,retina,146800
+401,apple,MacBook ,I7,144,amdradeon,16,0,512,13,fhd,320800
+402,apple,MacBook ,I9,144,amdradeon,16,1024,0,13,fhd,384800
+403,asus,ROG,I7,144,nvidiageforcegtx,8,512,0,16,fhd,130800
+404,asus,ROG Stri,I7,240,nvidiageforcertx2060,16,512,0,16,ips,196800
+405,asus,ROG Stri,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd,148800
+406,asus,ROG Stri,I7,144,nvidiageforcegtx,16,512,0,16,fhd,172800
+407,asus,ROG Stri,I7,144,nvidiageforcertx2070,16,512,0,16,fhd,236800
+408,asus,ROG Zeph,ry,120,nvidiageforcegtx1660,16,512,0,16,fhd,156800
+409,asus,ROG Zeph,ry,120,nvidiageforcertx2060,16,1024,0,14,fhd,196800
+410,asus,ROG Zeph,I7,144,nvidiageforcegtx,8,512,0,16,fhd,168800
+411,asus,ROG Zeph,I7,144,nvidiageforcegtx1660,16,1024,0,16,fhd,179800
+412,asus,ROG Zeph,I7,240,nvidiageforcertx2070,16,1024,0,16,fhd,228800
+413,asus,ROG Zeph,I7,144,nvidiageforcegtx,16,512,0,16,fhd,205000
+414,asus,TUF Dash,I7,144,nvidiageforcertx3060,16,512,0,16,fhd,196800
+415,asus,TUF Gami,ry,192,nvidiageforcegtx1650,8,512,0,16,ips,130800
+416,asus,TUF Gami,I7,144,nvidiageforcegtx1660,16,512,1024,16,fhd,164800
+417,asus,TUF i5,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd,110800
+418,asus,VivoBook,I7,144,amdradeonvega10,8,512,0,16,fhd,102800
+419,asus,ZenBook ,I7,144,nvidiageforcegtx,16,512,0,16,fhd,140800
+420,asus,ZENBOOK ,I7,144,inteliris,16,512,0,14,fhd,134800
+421,bigbyte,Dominant,I7,144,nvidiageforcertx3060,16,1024,0,16,ips,199800
+422,bigbyte,Dominant,I7,144,nvidiageforcertx3060,32,1024,0,16,fhd,210800
+423,bigbyte,RT20601T,I7,144,nvidiageforcertx2060,16,1024,0,16,fhd,168800
+424,bigbyte,Workstat,I7,144,inteliris,64,1024,0,16,fhd,238800
+425,bigbyte,Workstat,I7,144,nvidiageforcertx3060,64,2048,0,16,fhd,258800
+426,dell,alienwar,I7,60,nvidiageforcegtx,16,256,1024,16,fhd,160800
+427,dell,alienwar,I9,120,nvidiageforcegtx,16,256,1024,17,hd,270800
+428,dell,alienwar,I7,60,nvidiageforcegtx,16,256,1024,17,fhd,225800
+429,dell,alienwar,I7,144,nvidiageforcertx2070,16,512,1024,17,4k,318800
+430,dell,G3 15 35,I5,60,nvidiageforcegtx1660,8,512,0,16,fhd,120800
+431,dell,G5 15 SE,I7,144,amdradeonrx,16,512,0,16,fhd,158800
+432,dell,G5 15 SE,I7,144,amdradeonrx,8,512,0,16,fhd,152800
+433,dell,G7 15 75,I7,60,nvidiageforcertx2060,16,128,1024,16,fhd,180800
+434,dell,G7 17 77,I7,144,nvidiageforcertx2070,32,1024,0,17,fhd,280800
+435,dell,Inspiron,I7,144,amdradeonvega8,16,512,0,16,fhd,114800
+436,dell,inspiron,I5,144,inteliris,12,512,0,16,fhd_touch,88800
+437,dell,inspiron,I5,144,inteliris,8,256,0,13,fhd,94800
+438,dell,Inspiron,I7,144,inteliris,8,8,256,13,fhd,114800
+439,dell,Inspiron,I7,192,Intel Uhd ,8,512,0,14,ips,128800
+440,dell,Inspiron,I5,144,inteliris,8,256,0,16,fhd_touch,96800
+441,dell,Precisio,I7,144,nvidiaquadrot1000,32,512,0,16,4k_touch,238800
+442,dell,Precisio,I5,144,nvidiaquadro,64,1024,0,16,fhd,298800
+443,dell,XPS 13 7,I5,144,inteliris,8,256,0,13,fhd,144800
+444,dell,XPS 13 7,I7,144,inteliris,8,16,512,13,fhd,210800
+445,dell,XPS 13 9,I7,144,inteliris,16,512,0,13,4k_touch,210800
+446,dell,XPS 13 9,I7,144,inteliris,16,512,0,13,fhd_touch,174800
+447,dell,XPS 13 9,I5,144,inteliris,8,256,0,13,fhd_touch,134800
+448,dell,XPS 13 9,I7,144,inteliris,8,512,0,13,fhd_touch,158800
+449,dell,XPS 13 9,I7,144,inteliris,16,512,0,13,fhd,170800
+450,dell,XPS 13 9,I5,144,inteliris,8,256,0,13,fhd,134800
+451,dell,XPS 15 7,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd,210800
+452,dell,XPS 15 7,I7,144,nvidiageforcegtx,16,512,0,16,fhd,230800
+453,dell,XPS 15 9,I5,144,intelhd,8,512,0,15,fhd,174800
+454,dell,XPS 15 9,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd,234800
+455,dell,XPS 15 9,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd,258800
+456,dell,XPS 15 9,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd,268800
+457,dell,XPS 15 9,I7,144,nvidiageforcegtx1650,32,512,0,16,fhd,295800
+458,dell,XPS 15 9,I7,144,RX Vega M ,16,1024,0,16,4k_touch,290800
+459,dell,XPS 9570,I7,144,nvidiageforcegtx,16,512,0,16,fhd,196800
+460,dell,XPS 9575,I5,144,amdradeonvega8,8,256,0,16,fhd_touch,154800
+461,dreammachines,RX2070-1,I9,144,nvidiageforcertx2070,32,1024,0,17,fhd,378800
+462,dreammachines,G1650,I5,144,nvidiageforcegtx,16,1024,0,16,fhd,130800
+463,dreammachines,G1650,I5,144,nvidiageforcegtx,16,1024,0,16,fhd,120800
+464,dreammachines,G1650,I7,144,nvidiageforcegtx,16,1024,0,16,fhd,149800
+465,dreammachines,G1650,I7,144,nvidiageforcegtx,16,1024,0,16,fhd,140800
+466,dreammachines,RG2060,I7,144,nvidiageforcertx2060,16,1024,0,16,fhd,170800
+467,dreammachines,RT2070-1,ry,144,nvidiageforcertx2070,16,1024,0,16,fhd,190800
+468,dreammachines,RT2070-1,ry,144,nvidiageforcertx2070,16,1024,0,16,fhd,216800
+469,dreammachines,T1660Ti ,ry,144,nvidiageforcegtx1660,16,1024,0,16,fhd,190800
+470,hp,Envy Cor,I7,144,nvidiageforcemx250,16,512,0,13,fhd_touch,170800
+471,hp,OMEN 15 ,I7,144,nvidiageforcegtx1660,16,1024,0,16,fhd,176800
+472,hp,OMEN 15,I7,144,nvidiageforcegtx1660,16,256,0,16,fhd,150800
+473,hp,OMEN 17 ,I7,120,nvidiageforcegtx,16,256,1024,17,fhd,170800
+474,hp,Pavilion,I5,192,inteliris,8,256,0,14,ips,88800
+475,hp,Pavilion,I7,144,nvidiageforcegtx,8,256,0,6,fhd,106800
+476,hp,Pavilion,ry,144,nvidiageforcegtx,16,512,0,16,fhd,134800
+477,hp,Pavilion,I7,144,nvidiageforcegtx,8,512,0,16,fhd,146800
+478,hp,Pavilion,I5,144,nvidiageforcegtx1660,8,512,0,16,fhd,134800
+479,hp,ProBook ,I5,144,inteliris,8,256,0,13,fhd,84800
+480,hp,ProBook ,I5,144,inteliris,8,0,500,14,fhd,82800
+481,hp,Spectre ,I7,144,inteliris,8,512,0,13,fhd_touch,168800
+482,hp,ZBook 15,I7,144,nvidiaquadrom620,32,256,1024,16,fhd,230800
+483,hp,ZBook 15,I7,144,amdradeon,16,512,0,16,fhd,230800
+484,lenevo,Ideapad ,ry,144,inteliris,8,512,0,16,fhd,79800
+485,lenevo,IdeaPad ,I5,144,Intel Uhd ,8,512,0,14,fhd,86800
+486,lenevo,IdeaPad ,I5,144,inteliris,8,512,0,16,fhd,88800
+487,lenevo,Ideapad ,I5,192,inteliris,8,256,0,13,ips,82800
+488,lenevo,IdeaPad ,I5,60,nvidiageforcegtx,8,512,0,16,fhd,108800
+489,lenevo,IdeaPad ,I5,192,inteliris,8,512,0,16,ips,90800
+490,lenevo,Legion 5,ry,120,nvidiageforcertx2060,8,512,0,16,fhd,154800
+491,lenevo,Legion 5,ry,120,nvidiageforcertx2060,16,512,0,16,fhd,160800
+492,lenevo,Legion 5,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,190800
+493,lenevo,LEGION 5,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,170800
+494,lenevo,LEGION 5,I7,144,nvidiageforcertx2060,16,256,0,16,fhd,184800
+495,lenevo,LEGION 5,I7,240,nvidiageforcertx2060,16,512,0,16,fhd,196800
+496,lenevo,LEGION 5,I7,120,nvidiageforcegtx1650,8,512,0,16,fhd,142800
+497,lenevo,LEGION 5,I7,120,nvidiageforcegtx1660,8,512,0,16,fhd,154800
+498,lenevo,Legion 7,I7,144,nvidiageforcertx2070,16,1024,0,16,fhd,242800
+499,lenevo,Legion Y,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,156800
+500,lenevo,Legion Y,I7,60,inteliris,16,512,1024,16,fhd,140800
+501,lenevo,Legion Y,I5,144,nvidiageforcegtx,8,128,1024,16,fhd,110800
+502,lenevo,Legion Y,I7,144,nvidiageforcertx2070,16,256,1024,15,fhd,230800
+503,lenevo,Legion Y,I7,144,nvidiageforcertx2060,16,1024,0,15,fhd,215800
+504,lenevo,kPad 13 ,I5,144,inteliris,8,256,0,13,fhd_touch,116800
+505,lenevo,kpad E14,I5,192,inteliris,8,0,1024,14,ips,108800
+506,lenevo,kpad E14,I7,192,inteliris,8,256,0,14,ips,138800
+507,lenevo,kPad X1 ,I7,144,inteliris,16,512,0,14,fhd,205800
+508,lenevo,kPad X1 ,I5,144,inteliris,8,256,0,14,fhd,172800
+509,lenevo,kPad X1 ,I7,144,inteliris,16,1024,0,14,fhd,262800
+510,lenevo,kPad X1 ,I7,144,nvidiageforcegtx,16,512,0,16,fhd,240800
+511,lenevo,kPad X39,ry,144,amdradeonvega10,16,512,0,13,fhd_touch,148800
+512,lenevo,Yoga 920,I7,144,inteliris,16,1024,0,13,4k_touch,178800
+513,lenevo,Yoga 920,I7,144,inteliris,8,256,0,13,fhd_touch,128800
+514,lenevo,Yoga Due,I7,144,inteliris,8,512,0,13,fhd_touch,154800
+515,apple,Macbook ,I5,144,inteliris,16,512,0,13,retina,262800
+516,apple,Macbook ,I5,144,inteliris,8,256,0,13,retina,199800
+517,apple,Macbook ,I5,144,inteliris,8,512,0,13,retina,228800
+518,microsoft,Surface ,I7,144,nvidiageforcegtx,8,256,0,14,fhd_touch,258800
+519,microsoft,Surface ,I5,144,inteliris,8,256,0,12,fhd_touch,168800
+520,microsoft,Surface ,I7,144,inteliris,16,512,0,12,fhd_touch,248800
+521,microsoft,Surface ,I5,144,inteliris,8,128,0,12,fhd_touch,154800
+522,microsoft,Surface ,I5,144,inteliris,8,256,0,12,fhd_touch,178800
+523,microsoft,Surface ,I7,144,inteliris,16,256,0,12,fhd_touch,262800
+524,microsoft,Surface ,I5,144,inteliris,8,256,0,12,fhd_touch,152800
+525,msi,Alpha 15,ry,144,amdradeonrx5,16,512,0,16,fhd,140800
+526,msi,GE63 Rai,I7,144,nvidiageforcertx2070,16,512,1024,16,fhd,205800
+527,msi,GE63 Rai,I7,120,nvidiageforcegtx,16,256,1024,16,fhd,154800
+528,msi,GE63 Rai,I7,144,nvidiageforcertx2060,16,1024,0,16,fhd,196800
+529,msi,GF63,I5,60,nvidiageforcegtx,8,512,0,16,fhd,102800
+530,msi,GF63,I7,120,nvidiageforcegtx1660,8,512,0,16,fhd,158800
+531,msi,GL63,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,154800
+532,msi,GL63,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,184800
+533,msi,GL63,I5,60,nvidiageforcegtx,8,128,1024,16,fhd,84800
+534,msi,P65 Crea,I7,144,nvidiageforcegtx,16,256,0,16,fhd,148800
+535,msi,P65 Crea,I7,144,nvidiageforcegtx,16,512,0,16,fhd,154800
+536,msi,PS42 Mod,I7,144,nvidiageforcegtx,16,256,0,14,fhd,148800
+537,msi,GS65-Ste,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,165800
+538,msi,GS65-Ste,I7,240,nvidiageforcertx2060,32,512,0,16,fhd,205800
+539,razer,Blade 15,I7,144,nvidiageforcegtx1660,16,256,0,16,fhd,192800
+540,razer,Blade 15,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,248800
+541,samsung,Odyssey,I7,144,nvidiageforcegtx,16,128,1024,16,fhd,120800
+542,acer,Aspire A,I7,144,nvidiageforce,12,256,0,16,fhd,90000
+543,acer,ASPIRE E,I3,144,inteliris,4,0,0,16,fhd,48000
+544,acer,Aspire V,I7,144,nvidiageforcegtx,16,0,1024,16,fhd,135000
+545,acer,Predator,I7,144,nvidiageforcegtx,16,256,1024,16,fhd,170000
+546,acer,Predator,I7,144,nvidiageforcegtx,16,512,0,16,fhd,145000
+547,acer,Predator,I7,60,inteliris,16,0,0,16,hd,186800
+548,acer,R5,I5,144,nvidiageforcemx,8,0,0,16,fhd,77000
+549,acer,R5-571TG,I7,144,nvidiageforce,12,0,1024,16,fhd,90000
+550,apple,Mac Mini,I3,144,inteliris,8,256,0,13,fhd,158000
+551,apple,MacBook ,I5,60,inteliris,8,128,0,13,hd,115000
+552,apple,MacBook ,I5,60,inteliris,8,256,0,13,hd,138000
+553,apple,MacBook ,I5,144,inteliris,8,256,0,13,fhd,212000
+554,apple,MacBook ,I5,144,inteliris,8,512,0,13,fhd,245000
+555,apple,MacBook ,I5,144,inteliris,8,128,0,13,fhd,158000
+556,apple,MacBook ,I5,144,inteliris,8,256,0,13,fhd,185000
+557,asus,ROG G531,I7,144,nvidiageforcegtx1650,8,512,0,13,fhd,140000
+558,asus,ROG G752,I7,144,nvidiageforce,8,512,1024,17,fhd,280000
+559,asus,ROG GL50,I7,144,nvidiageforcegtx,16,128,1024,16,fhd,195000
+560,asus,ROG GL50,I7,144,nvidiageforcegtx,6,256,1024,16,fhd,140000
+561,asus,ROG GL50,I7,144,nvidiageforcegtx,16,256,1024,16,fhd,170000
+562,asus,ROG GL50,I7,144,nvidiageforcegtx,16,512,0,16,fhd,175000
+563,asus,ROG GL55,I7,144,nvidiageforcegtx,16,0,1024,16,fhd,128000
+564,asus,ROG GL75,I7,144,nvidiageforcegtx,16,128,1024,16,fhd,135000
+565,asus,ROG ZEPH,I7,144,nvidiageforcegtx,16,0,0,16,fhd,210000
+566,asus,TUF  fhd,I7,144,AMD Ryzen ,8,0,1024,16,fhd,110000
+567,asus,TUF AMD ,I7,144,nvidiageforcegtx,16,256,1024,16,fhd,149999
+568,asus,VivoBook,I5,144,inteliris,8,256,0,16,fhd,89000
+569,asus,ZenBook ,I7,144,nvidiageforce,16,512,0,14,fhd,140000
+570,dell,3580 Lat,I5,144,inteliris,4,0,1024,15,fhd,66500
+571,dell,alienwar,I7,144,inteliris,16,256,1024,15,fhd,190800
+572,dell,alienwar,I7,144,inteliris,16,512,0,15,fhd,290000
+573,dell,G3 3579 ,I7,144,inteliris,16,256,1024,16,fhd,160000
+574,dell,G3 3590,I5,60,inteliris,8,0,0,16,hd,124800
+575,dell,G5,I7,144,inteliris,8,0,0,16,fhd,164800
+576,dell,Inspiron,I7,144,inteliris,8,0,0,14,fhd,79990
+577,dell,Inspiron,pe,144,inteliris,4,0,500,15,fhd,34000
+578,dell,Inspiron,pe,144,inteliris,4,0,500,16,fhd,29999
+579,dell,Inspiron,I7,144,inteliris,8,0,1024,16,fhd,78898
+580,dell,Inspiron,I3,144,inteliris,4,0,1024,16,fhd,42995
+581,dell,Inspiron,I7,144,inteliris,8,0,1024,16,fhd,65000
+582,dell,Inspiron,I7,144,inteliris,8,0,1024,16,fhd,98500
+583,dell,Inspiron,I5,60,inteliris,4,0,1024,16,hd,65500
+584,dell,Inspiron,I5,144,inteliris,8,256,0,13,fhd,85000
+585,dell,Inspiron,I7,144,nvidiageforcegtx,16,128,1024,16,fhd,127000
+586,dell,Inspiron,I5,144,nvidiageforcegtx,8,256,0,16,fhd,100000
+587,dell,Inspiron,I7,144,nvidiageforcemx,16,512,0,16,fhd,135000
+588,dell,Inspiron,I7,144,nvidiageforcemx,16,256,0,15,fhd,135000
+589,dell,Inspiron,I7,144,nvidiageforcegtx,16,128,1024,16,fhd,146000
+590,dell,Latitude,I3,144,inteliris,4,0,1024,15,fhd,42951
+591,hp,15-DA032,I3,144,inteliris,4,0,1024,14,fhd,45600
+592,hp,Envy,I7,144,inteliris,8,360,0,13,fhd,115000
+593,hp,ENVY 15T,I5,144,inteliris,8,0,0,16,fhd,80000
+594,hp,OMEN 15-,I7,144,inteliris,16,128,1024,14,fhd,155000
+595,hp,Pavilion,I5,144,nvidiageforce,8,0,1024,14,fhd,77000
+596,hp,Pavilion,I5,144,nvidiageforcemx,8,0,1024,16,fhd,76000
+597,hp,Pavilion,I5,144,nvidiageforcegtx,8,0,1024,16,fhd,88000
+598,hp,Pavilion,I7,144,nvidiageforce,12,256,1024,16,fhd,95000
+599,hp,Pavilion,I5,60,inteliris,8,0,0,16,hd,75000
+600,hp,ProBook ,I5,144,inteliris,8,0,500,14,fhd,65000
+601,hp,Spectre ,I7,144,nvidiageforcemx,16,512,0,16,fhd,185000
+602,hp,Spectre ,I7,144,inteliris,16,512,0,13,fhd,175000
+603,lenevo,Ideapad ,I3,60,inteliris,4,0,1024,16,hd,39975
+604,lenevo,LEGION Y,I7,144,nvidiageforcegtx,16,128,1024,15,fhd,110800
+605,lenevo,V110 80T,I5,144,inteliris,4,500,0,16,fhd,53500
+606,lenovo,Y720 Leg,I7,144,nvidiageforcegtx,16,256,0,14,fhd,159000
+607,lenovo,Yoga 720,I5,144,inteliris,4,128,0,13,fhd,75000
+608,lenovo,Yoga 720,I7,144,nvidiageforcegtx,8,512,0,16,fhd,145000
+609,lenovo,Yoga 910,I7,144,inteliris,8,256,0,14,fhd,115000
+610,macbook,Pro,I7,144,inteliris,8,512,0,16,fhd,330000
+611,microsoft surface,Book SX3,I5,144,nvidiageforce,8,256,0,14,fhd,170000
+612,microsoft surface,Pro 4,I7,144,inteliris,16,256,0,12,fhd,195000
+613,msi,GL63,I7,144,nvidiageforce,6,0,0,16,fhd,178800
+614,msi,GS43VR 7,I7,144,nvidiageforcegtx,16,128,1024,14,fhd,175000
+615,msi,GS63VR S,I7,144,nvidiageforcegtx,16,256,1024,16,fhd,175000
+616,razer blade,Core,I7,144,nvidiageforcegtx,16,512,0,14,fhd,230000
+617,razer blade,Pro,I7,144,nvidiageforcegtx,16,256,2048,17,qhd,280000
+618,razer blade,Stealth,I7,144,inteliris,16,512,0,13,fhd,145000
+619,samsung,Notebook,I7,144,inteliris,8,0,1024,16,fhd,132800
+620,acer,Aspire 5,I3,60,inteliris,4,0,1024,16,hd,60000
+621,acer,Aspire 5,I3,144,inteliris,4,256,0,14,fhd,61000
+622,acer,Swift 3 ,I5,144,inteliris,4,256,0,14,fhd,80000
+623,acer,Aspire 5,I5,144,inteliris,8,512,0,16,fhd,86000
+624,acer,Swift 3 ,I5,144,nvidiageforcemx,4,256,0,14,fhd,89000
+625,acer,Swift 3 ,I5,144,nvidiageforcemx,4,512,0,14,fhd,93000
+626,acer,Swift 3,ry,144,amdradeonvega8,8,256,0,14,fhd,95000
+627,acer,Swift 3 ,I5,144,nvidiageforcemx,8,256,0,14,fhd,97000
+628,acer,Nitro 5,I5,144,nvidiageforcegtx1650,8,128,1024,16,fhd,107000
+629,acer,Nitro 5,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd,112000
+630,acer,Swift 3 ,I7,144,nvidiageforcemx,8,256,0,14,fhd,115000
+631,acer,Nitro 5,I5,144,nvidiageforcegtx1650,8,256,0,16,fhd_touch,118000
+632,acer,Spin 3,I7,144,inteliris,8,512,0,14,fhd,120000
+633,acer,Nitro 5,ry,144,nvidiageforcegtx1650,8,256,0,16,fhd_touch,123000
+634,acer,Nitro 5,I5,144,nvidiageforcegtx,8,0,1024,16,fhd,125000
+635,acer,Nitro 5,ry,144,nvidiageforcegtx1650,8,512,0,16,fhd,125000
+636,acer,Nitro 5,I5,144,nvidiageforcegtx1650,8,512,0,16,fhd,129000
+637,acer,Nitro 5,I7,144,nvidiageforcegtx1650,8,0,1024,16,fhd_touch,137000
+638,acer,Nitro Sp,I7,144,nvidiageforcegtx,8,0,1024,16,fhd,143000
+639,acer,Nitro 5,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd,144000
+640,acer,Nitro 5,I7,144,nvidiageforcegtx1650,8,256,0,16,fhd,145000
+641,acer,Nitro 5,I5,144,nvidiageforcertx2060,8,0,1024,16,fhd,148000
+642,acer,Predator,I5,144,nvidiageforcegtx1660,8,512,0,16,fhd,149000
+643,acer,Nitro 5,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd_touch,155000
+644,acer,Nitro Sp,I7,144,nvidiageforcegtx,16,256,1024,16,fhd,158000
+645,acer,Nitro 5,I7,144,nvidiageforcertx2060,16,256,0,16,fhd,165000
+646,acer,Predator,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,169000
+647,acer,Predator,I7,144,nvidiageforcegtx1660,16,1024,0,16,fhd,190000
+648,acer,Predator,I7,120,nvidiageforcertx2060,16,512,0,16,fhd,195000
+649,acer,Predator,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,205000
+650,acer,Predator,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,215000
+651,acer,Predator,I7,240,nvidiageforcertx2070,16,512,0,16,fhd,235000
+652,acer,Predator,I7,144,nvidiageforcertx2070,16,512,0,16,fhd,235000
+653,acer,Predator,I7,144,nvidiageforcertx2070,16,512,0,16,fhd,265000
+654,asus,VivoBook,ce,144,inteliris,4,256,0,16,fhd,48000
+655,asus,VivoBook,ce,144,inteliris,4,256,0,14,fhd_touch,48000
+656,asus,VivoBook,ce,144,inteliris,4,128,0,14,fhd,57700
+657,asus,VivoBook,I3,144,inteliris,4,256,0,14,fhd,63000
+658,asus,VivoBook,I3,144,inteliris,4,256,0,14,fhd,67000
+659,asus,vivoBook,I5,144,inteliris,4,256,0,14,fhd_touch,75000
+660,asus,VivoBook,I3,144,inteliris,4,256,0,14,fhd,83000
+661,asus,VivoBook,I5,144,inteliris,8,256,0,14,fhd,83000
+662,asus,VivoBook,ry,144,inteliris,8,256,0,16,fhd,87000
+663,asus,vivoBook,I5,144,nvidiageforcemx,4,0,1024,16,fhd,87000
+664,asus,VivoBook,I5,144,inteliris,8,512,0,16,fhd,88000
+665,asus,VivoBook,I5,144,inteliris,8,256,0,16,fhd,90000
+666,asus,VivoBook,I5,144,inteliris,8,256,0,14,fhd,95000
+667,asus,VivoBook,I5,144,inteliris,8,512,0,16,fhd,102000
+668,asus,VivoBook,I5,144,inteliris,8,512,0,14,fhd_touch,106000
+669,asus,VivoBook,I7,144,inteliris,8,512,0,14,fhd,108000
+670,asus,VivoBook,I7,144,inteliris,8,256,0,14,fhd,115000
+671,asus,VivoBook,I5,144,inteliris,8,512,0,16,fhd_touch,116000
+672,asus,VivoBook,ry,144,inteliris,8,512,0,14,fhd,116000
+673,asus,VivoBook,I7,144,nvidiageforcemx,8,256,0,14,fhd_touch,120000
+674,asus,VivoBook,I5,144,inteliris,8,512,0,14,fhd,120000
+675,asus,VivoBook,I7,144,nvidiageforcemx,8,512,0,16,fhd,122000
+676,asus,TUF F15 ,I5,144,nvidiageforcegtx1650,8,512,0,16,fhd,122000
+677,asus,ZenBook ,I5,144,inteliris,8,512,0,13,fhd,125000
+678,asus,ZenBook ,I5,144,inteliris,8,512,0,14,fhd,125000
+679,asus,VivoBook,I7,144,nvidiageforcemx,8,512,0,16,fhd,126000
+680,asus,ZenBook ,I5,144,inteliris,8,512,0,13,fhd,127000
+681,asus,ZenBook ,I5,144,inteliris,8,512,0,14,fhd,127000
+682,asus,VivoBook,I7,144,inteliris,16,512,0,14,fhd,131000
+683,asus,TUF F15 ,I5,144,nvidiageforcegtx1650,16,512,0,16,fhd_touch,132000
+684,asus,S ZenBoo,I5,144,inteliris,8,512,0,14,fhd,134000
+685,asus,TUF A15 ,ry,144,nvidiageforcegtx1650,8,512,0,16,fhd,135000
+686,asus,VivoBook,I7,144,nvidiageforcemx,8,512,0,16,fhd,135000
+687,asus,ROG Stri,I5,144,nvidiageforcegtx1650,8,512,0,16,fhd_touch,137000
+688,asus,VivoBook,I7,144,inteliris,8,512,0,14,fhd,138000
+689,asus,VivoBook,I7,144,inteliris,16,512,0,16,fhd,141000
+690,asus,VivoBook,I7,144,nvidiageforcemx,16,512,0,16,fhd,141000
+691,asus,ZenBook ,I5,144,nvidiageforcemx,8,512,0,14,fhd,142000
+692,asus,ROG Stri,I5,144,nvidiageforcegtx1650,16,512,0,16,fhd_touch,143000
+693,asus,ZenBook ,I5,144,inteliris,16,512,0,13,fhd,146000
+694,asus,TUF F15 ,I7,144,nvidiageforcegtx,8,512,0,16,fhd,148000
+695,asus,ZenBook ,I7,144,inteliris,16,512,0,13,fhd,148000
+696,asus,TUF A15 ,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd_touch,152000
+697,asus,ZenBook ,I5,144,inteliris,8,512,0,14,fhd,153000
+698,asus,ZenBook ,I7,144,inteliris,16,512,0,13,fhd,154000
+699,asus,ZenBook ,I7,144,inteliris,16,512,0,13,fhd,154000
+700,asus,TUF A15 ,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,161000
+701,asus,TUF A17 ,I7,120,nvidiageforcegtx1660,8,512,0,17,hd,167000
+702,dell,Vostro 3,I3,60,inteliris,4,0,1024,16,hd,59000
+703,dell,Vostro 3,I3,60,inteliris,4,0,1024,14,hd,59000
+704,dell,Vostro 3,I3,60,inteliris,8,0,1024,14,hd,62000
+705,dell,Latitude,I3,144,inteliris,4,0,1024,14,fhd,65500
+706,dell,Vostro 3,I5,144,inteliris,4,0,1024,14,fhd,79000
+707,dell,Vostro 3,I5,144,inteliris,4,0,1024,16,fhd,79000
+708,dell,Inspirio,I5,144,nvidiageforcemx,8,256,0,16,fhd,94000
+709,dell,Inspiron,I5,144,inteliris,8,256,0,13,fhd,103000
+710,dell,G3 G3590,I5,144,nvidiageforcegtx1650,8,512,0,16,fhd,108000
+711,dell,Vostro 3,I7,144,nvidiageforcemx,8,512,0,16,fhd_touch,112000
+712,dell,Inspiron,I5,144,inteliris,8,256,0,14,fhd,118000
+713,dell,Inspiron,I5,144,inteliris,8,256,0,13,fhd_touch,118000
+714,dell,Inspiron,I5,144,inteliris,8,512,0,13,fhd,119000
+715,dell,Inspiron,I7,144,inteliris,8,512,0,14,fhd_touch,120000
+716,dell,Inspiron,I7,120,inteliris,8,512,0,14,fhd,121000
+717,dell,G3 G3500,I7,144,nvidiageforcegtx,8,512,0,16,fhd,125000
+718,dell,Inspiron,I5,144,nvidiageforcemx,8,512,0,14,fhd,125000
+719,dell,G3 G3500,I5,144,nvidiageforcegtx,16,512,0,16,fhd_touch,135000
+720,dell,Inspiron,I7,144,inteliris,16,512,0,14,fhd,135000
+721,dell,XPS 13 7,I5,144,inteliris,8,256,0,13,fhd,140000
+722,dell,Inspiron,I7,144,nvidiageforcemx,8,512,0,13,fhd,148000
+723,dell,Inspiron,I7,144,nvidiageforcegtx1650,16,512,0,16,fhd,155000
+724,dell,G3 G3590,I7,144,nvidiageforcegtx,16,256,1024,16,fhd,156000
+725,dell,Inspiron,I7,144,nvidiageforcemx,16,512,0,14,fhd,156000
+726,dell,G5 15 SE,I7,144,amdradeonrx,8,512,0,16,4k_touch,158000
+727,dell,Inspiron,I7,144,inteliris,16,512,0,13,fhd,160000
+728,dell,Vostro 7,I7,144,nvidiageforcegtx1650,16,1024,0,16,fhd,175000
+729,dell,XPS 13 7,I7,144,inteliris,16,512,0,13,fhd,185000
+730,dell,XPS 15 7,I7,144,nvidiageforcegtx1650,16,256,0,16,4k_touch,195000
+731,dell,XPS 13 7,I7,144,inteliris,16,512,0,13,fhd_touch,200000
+732,dell,XPS 13 7,I7,300,inteliris,16,512,0,13,fhd,200000
+733,dell,Alienwar,I7,144,nvidiageforcertx2070,16,512,0,16,fhd_touch,310000
+734,hp,ProBook ,ce,60,inteliris,4,128,0,12,hd,47000
+735,hp,Notebook,I3,60,inteliris,4,0,1024,14,hd,59000
+736,hp,Notebook,ry,60,inteliris,8,256,0,14,hd,60000
+737,hp,Pavilion,I3,60,inteliris,8,128,0,14,hd,72000
+738,hp,Notebook,I5,60,inteliris,8,256,0,14,hd,79000
+739,hp,Laptop 1,I5,144,inteliris,8,256,0,16,fhd,88000
+740,hp,Notebook,I5,144,nvidiageforcemx,4,0,1024,14,fhd,89000
+741,hp,Pavilion,ry,60,amdradeonvega8,8,512,0,16,hd,97000
+742,hp,Laptop 1,I7,144,nvidiageforcemx,8,0,1024,16,fhd,105000
+743,hp,Pavilion,ry,144,nvidiageforcegtx1650,8,256,0,16,fhd_touch,108000
+744,hp,Pavilion,I7,144,amdradeonvega8,8,512,0,16,fhd_touch,112000
+745,hp,Pavilion,I5,144,inteliris,8,512,0,14,fhd,115000
+746,hp,Envy 13 ,I5,144,inteliris,8,256,0,13,fhd_touch,120000
+747,hp,Envy x36,I7,144,inteliris,8,512,0,13,fhd_touch,140000
+748,hp,Spectre ,I5,144,inteliris,8,256,0,13,4k_touch,142000
+749,hp,Envy 13 ,I7,144,inteliris,8,512,0,13,fhd,148000
+750,hp,Omen 15 ,I7,144,nvidiageforcegtx1660,8,512,0,16,fhd,160000
+751,hp,Omen 15 ,I7,144,nvidiageforcegtx1660,16,1024,0,16,fhd_touch,175000
+752,hp,Spectre ,I7,144,inteliris,8,512,0,13,4k,185000
+753,hp,Spectre ,I7,144,nvidiageforcemx,16,512,0,16,fhd,225000
+754,msi,Modern 1,I5,144,nvidiageforcemx250,8,512,0,16,fhd,122000
+755,msi,Modern 1,I5,144,nvidiageforcemx330,8,512,0,16,fhd,122000
+756,msi,GF63 9SC,I5,144,nvidiageforcegtx1650,8,512,0,16,fhd,135000
+757,msi,Modern 1,I7,144,nvidiageforcemx250,8,512,0,16,fhd,135000
+758,msi,Modern 1,I7,144,nvidiageforcemx330,8,512,0,16,fhd,135000
+759,msi,GL65 9SC,I5,144,nvidiageforcegtx1650,8,512,0,16,fhd,145000
+760,msi,GF75 9SC,I7,144,nvidiageforcegtx1650,8,128,1024,17,fhd,148000
+761,msi,GF63 Thi,I7,120,nvidiageforcegtx1650,8,512,0,16,fhd,152000
+762,msi,GL65 9SC,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd,160000
+763,msi,GF63 Thi,I7,144,nvidiageforcegtx1650,8,512,0,16,fhd,162000
+764,msi,GE 63VR ,I7,120,nvidiageforcegtx,16,256,1024,16,fhd,165000
+765,msi,GF65 10S,I5,120,nvidiageforcegtx1660,8,512,0,16,fhd,168000
+766,msi,GF65 9SD,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,170000
+767,msi,Prestige,I7,144,nvidiageforcemx330,16,512,0,14,fhd,180000
+768,msi,GF65 10S,I7,120,nvidiageforcegtx1660,8,512,0,16,fhd,183000
+769,msi,GL65 9SD,I7,120,nvidiageforcegtx1660,16,256,1024,16,fhd,185000
+770,msi,GF65 10S,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,185000
+771,msi,Prestige,I7,144,nvidiageforcegtx1650,16,512,0,14,fhd,188000
+772,msi,GF65 10S,I7,144,nvidiageforcertx2060,16,512,0,16,fhd,195000
+773,msi,GL75 Leo,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,205000
+774,msi,GP65 Leo,I7,120,nvidiageforcegtx1660,16,512,0,16,fhd,205000
+775,msi,GL65 Leo,I7,144,nvidiageforcegtx1660,16,256,1024,16,fhd,208000
+776,msi,GL65 Leo,I7,144,nvidiageforcegtx1660,16,256,1024,16,fhd,215000
+777,msi,GL65 Leo,I7,144,nvidiageforcertx2060,16,256,1024,16,fhd,227000
+778,msi,GS65 Ste,I7,144,nvidiageforcegtx1660,16,512,0,16,fhd,230000
+779,msi,PS65 Cre,I7,144,nvidiageforcegtx1660,32,1024,0,16,4k,240000
+780,msi,Prestige,I7,144,nvidiageforcegtx1650,16,1024,0,16,fhd,240000
+781,msi,GP65 Leo,I7,240,nvidiageforcertx2070,16,512,1024,16,fhd,255000
+782,msi,GE65 Rai,I7,144,nvidiageforcertx2060,16,1024,0,16,fhd,260000
+783,msi,PS65 Cre,I7,144,nvidiageforcertx2060,32,1024,0,16,fhd,260000
+784,msi,GP65 Leo,I7,144,nvidiageforcertx2070,32,0,0,16,fhd,270000
+785,msi,GP65 Leo,I7,144,nvidiageforcertx2070,32,512,1024,16,fhd,280000
+786,msi,GS65 Ste,I7,144,nvidiageforcertx2060,16,1024,0,17,fhd,280000
+787,msi,GS66 Ste,I7,240,nvidiageforcegtx1660,16,512,0,16,fhd,295000
+788,msi,GE66 Rai,I7,240,nvidiageforcertx2070,16,1024,0,16,fhd,306000
+789,msi,GS65 Ste,I7,240,nvidiageforcertx2070,16,1024,1024,16,fhd,310000
+790,msi,GS65 Rai,I7,144,nvidiageforcertx2070,16,1024,0,16,fhd,310000
+791,msi,GE75 Rai,I7,240,nvidiageforcertx2070,32,512,0,17,fhd,350000
+792,msi,GE66 Rai,I7,240,nvidiageforcertx2070,16,2048,0,16,fhd,370000
+793,msi,GE66 Rai,I9,300,nvidiageforcertx2070,16,1024,0,16,fhd,370000
+794,msi,GS66 Ste,I7,144,nvidiageforcertx2070,32,1024,0,16,4k,395000

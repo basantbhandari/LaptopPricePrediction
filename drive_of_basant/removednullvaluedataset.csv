@@ -1,0 +1,800 @@
+brandname,model,cpucore,refreshrate,gpu,ram,ssd,rom,display,displayquality,price
+acer,Aspire 5,I5G10,144.0,Intel UHD,16.0,256.0,0.0,16.0,fhd,84000
+acer,Aspire 5,I5G10,60.0,Intel UHD,8.0,512.0,0.0,16.0,hd,90000
+acer,Swift 3,I5G10,144.0,MX350,8.0,256.0,0.0,14.0,fhd,89000
+acer,Swift 3,I5G10,144.0,MX350,8.0,512.0,0.0,14.0,fhd,93000
+acer,Swift 3,I7G10,144.0,MX350,8.0,512.0,0.0,14.0,fhd,115990
+acer,Swift 3,ryzen5,144.0,Vega 8,8.0,256.0,0.0,14.0,fhd,95000
+acer,Nitro 5,I5G10,144.0,GTX 1650 Ti,8.0,0.0,1024.0,16.0,fhd,115000
+acer,Nitro 5,I5G10,144.0,GTX 1650 Ti,8.0,256.0,0.0,16.0,fhd,118000
+acer,Nitro 5,I5G10,144.0,GTX 1650 Ti,8.0,512.0,0.0,16.0,fhd,125000
+acer,Nitro 5,I5G10,144.0,RTX 2060,8.0,0.0,1024.0,16.0,fhd,140000
+acer,Nitro 5,I7G10,144.0,GTX 1650 Ti,8.0,256.0,0.0,16.0,fhd,145000
+acer,Nitro 5,I7G10,144.0,GTX 1650 Ti,8.0,512.0,0.0,16.0,fhd,155000
+acer,Nitro 5,ryzen5,144.0,GTX 1650 Ti,8.0,0.0,1024.0,16.0,fhd,126000
+acer,Nitro 5,ryzen5,144.0,GTX 1650 Ti,8.0,256.0,0.0,16.0,fhd,123000
+acer,Nitro 5,ryzen,144.0,GTX 1650 Ti,8.0,0.0,1024.0,16.0,fhd,137000
+acer,Nitro 5,I7,144.0,GTX 1650 Ti,8.0,512.0,0.0,16.0,fhd,144000
+acer,Predator Helios,I5G10,144.0,GTX 1660 Ti,8.0,512.0,0.0,16.0,fhd,149000
+acer,Predator Helios,I5G10,144.0,GTX 1660 Ti,8.0,512.0,0.0,16.0,fhd,169000
+acer,Predator Helios,I7G10,144.0,GTX 1660 Ti,16.0,512.0,0.0,16.0,fhd,190000
+acer,Predator Helios,I7G10,144.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,182000
+acer,Predator Helios,I7G10,144.0,RTX 2070,16.0,512.0,0.0,16.0,fhd,235000
+acer,Predator Triton,I7G10,144.0,RTX 2070,16.0,512.0,0.0,16.0,fhd,214000
+acer,Predator Triton,I7G10,144.0,RTX 2070,16.0,512.0,0.0,16.0,fhd,265000
+asus,VivoBook 14,celeron,60.0,Intel UHD,4.0,256.0,0.0,14.0,hd,48000
+asus,VivoBook 14,I5G10,144.0,Intel UHD,8.0,256.0,0.0,14.0,fhd,83000
+asus,VivoBook 15,celeron,144.0,Intel UHD,4.0,256.0,0.0,16.0,fhd,48000
+asus,VivoBook 15,ryzen5,144.0,Radeon graphics,8.0,256.0,0.0,16.0,fhd,87000
+asus,VivoBook 15,I5G10,144.0,Intel UHD,8.0,512.0,0.0,16.0,fhd,88000
+asus,VivoBook 15,I7G10,144.0,MX330,8.0,1024.0,0.0,16.0,fhd,116000
+asus,VivoBook K403FA,I5G10,144.0,Intel UHD,8.0,512.0,0.0,14.0,fhd,106000
+asus,VivoBook K403JA,I5G10,144.0,Intel UHD,8.0,512.0,0.0,14.0,fhd,106666
+asus,VivoBook K403JA,I7G10,144.0,Intel UHD,16.0,512.0,0.0,14.0,fhd,131111
+asus,VivoBook Flip,I3G10,144.0,Intel UHD,4.0,256.0,0.0,14.0,fhd,83000
+asus,VivoBook Flip,ryzen5,144.0,Radeon Graphics,8.0,512.0,0.0,14.0,fhd,108000
+asus,VivoBook Flip,ryzen5,144.0,Radeon Graphics,8.0,512.0,0.0,14.0,fhd,116000
+asus,VivoBook S15,I7G10,144.0,MX250,8.0,512.0,0.0,16.0,fhd,128888
+asus,VivoBook S15,I7G10,144.0,MX350,16.0,512.0,0.0,16.0,fhd,141111
+asus,ZenBook 13 UX325JA,I5G10,144.0,Intel UHD,8.0,512.0,0.0,13.0,fhd,125000
+asus,ZenBook 13 UX325JA,I7G10,144.0,Intel Iris Plus,16.0,512.0,0.0,13.0,fhd,148000
+asus,ZenBook 13 UX325EA,I5G11,144.0,Intel Iris Xe,8.0,512.0,0.0,13.0,fhd,133000
+asus,ZenBook 13 UX325EA,I7G11,144.0,Intel Iris Plus,16.0,512.0,0.0,13.0,fhd,154000
+asus,ZenBook 14 UX434FQ,I5G10,144.0,Intel UHD,8.0,512.0,0.0,14.0,fhd,142000
+asus,ZenBook 14 UX425JA,I5G10,144.0,Intel UHD,8.0,512.0,0.0,14.0,fhd,125000
+asus,ZenBook 14 UX425EA,I5G11,144.0,Intel Iris Xe,8.0,512.0,0.0,14.0,fhd,133000
+asus,ZenBook 14 UX435EG,I5G11,144.0,GeForce MX450,8.0,512.0,0.0,14.0,fhd,153000
+asus,ZenBook 14 UX435EG,I7G11,144.0,GeForce MX450,16.0,512.0,0.0,14.0,fhd,176000
+asus,ZenBook 14 UX425EA,I7G11,144.0,Intel Iris Plus,16.0,512.0,0.0,14.0,fhd,154000
+asus,ZenBook 15 UX534FTC,I7G10,144.0,GeForce GTX 1650,16.0,1024.0,0.0,16.0,fhd,207000
+asus,ZenBook Flip 14 UX463FA,I5G10,144.0,Intel UHD,8.0,512.0,0.0,14.0,fhd,134000
+asus,ZenBook Flip 13 UX363FA,I5G10,144.0,Intel Iris Plus,8.0,512.0,0.0,13.0,fhd,128000
+asus,ZenBook Flip 13 UX363EA,I7G10,144.0,Intel Iris Plus,16.0,512.0,0.0,13.0,fhd,176000
+asus,ZenBook Duo UX481,I7G10,144.0,GeForce MX250,16.0,1024.0,0.0,14.0,fhd,215000
+asus,TUF F15 FX506LI,I5G10,144.0,GTX 1650 Ti,8.0,512.0,0.0,16.0,fhd,120000
+asus,TUF F15 FX506LI,I5G10,144.0,GTX 1650 Ti,16.0,512.0,0.0,16.0,fhd,125000
+asus,TUF F15 FX506LU,I7G10,144.0,GTX 1660 Ti,16.0,512.0,0.0,16.0,fhd,183333
+asus,TUF F15 FX506LH,I7G10,144.0,GTX 1650,8.0,512.0,0.0,16.0,fhd,148000
+asus,TUF F15 FX506LH,I7G10,144.0,GTX 1650 Ti,16.0,512.0,0.0,16.0,fhd,157777
+asus,TUF Dash F15 2021,I5G11,144.0,RTX 3060,8.0,512.0,0.0,16.0,fhd,183000
+asus,TUF Dash F15 2021,I7G11,144.0,RTX 3060,8.0,512.0,0.0,16.0,fhd,215000
+asus,TUF Dash F15 2021,I7G11,240.0,RTX 3070,16.0,1024.0,0.0,16.0,fhd,183000
+asus,TUF A15 FA506II,I7,144.0,GTX 1650 Ti,16.0,512.0,0.0,16.0,fhd,152000
+asus,TUF A15 FA506IU,I7,144.0,GTX 1660 Ti,16.0,512.0,0.0,16.0,fhd,161000
+asus,ROG Strix G15 G512LI,I5G10,144.0,GTX 1650 Ti,16.0,512.0,0.0,16.0,fhd,148000
+asus,ROG Strix G15 G512LI,I7G10,144.0,GTX 1650 Ti,16.0,512.0,0.0,16.0,fhd,168800
+asus,ROG Strix Scar 15 G533WS,ryzen5,300.0,RTX 3080,16.0,1024.0,0.0,16.0,fhd,410000
+asus,Zephyrus G14 GA401IU,I7,120.0,GTX 1660 Ti,16.0,512.0,0.0,14.0,fhd,200000
+dell,Inspiron 15 3501,I3G10,60.0,Intel UHD,4.0,0.0,1024.0,16.0,hd,58750
+dell,Inspiron 15 3501,I5G11,144.0,MX330,4.0,0.0,1024.0,16.0,fhd,86235
+dell,Inspiron 13 5391,I5G10,144.0,Intel UHD,8.0,256.0,0.0,13.0,fhd,102000
+dell,Inspiron 13 5391,I5G10,144.0,Intel UHD,8.0,256.0,0.0,13.0,fhd,103000
+dell,Inspiron 14 5301,I5G11,144.0,MX350,8.0,512.0,0.0,13.0,fhd,126270
+dell,Inspiron 14 5301,I7G11,144.0,MX350,8.0,512.0,0.0,13.0,fhd,140490
+dell,Inspiron 14 5406,I5G11,144.0,Iris Xe,8.0,512.0,0.0,14.0,fhd,126380
+dell,Inspiron 14 5406,I5G11,144.0,MX230,8.0,512.0,0.0,14.0,fhd,135835
+dell,Inspiron 14 5406,I7G11,144.0,MX230,8.0,512.0,0.0,14.0,fhd,154455
+dell,Inspiron 15 5502,I7G11,144.0,Intel UHD,8.0,256.0,0.0,16.0,fhd,120000
+dell,Inspiron 15 5505,I7,144.0,Radeon,8.0,512.0,0.0,16.0,fhd,113905
+dell,Inspiron 15 5593,I5G10,144.0,MX230,8.0,512.0,0.0,16.0,fhd,95000
+dell,Inspiron 13 7306,I5G11,144.0,Intel Iris Xe,8.0,512.0,0.0,13.0,fhd,161405
+dell,Inspiron 13 7306,I7G11,144.0,Intel Iris Xe,16.0,512.0,0.0,13.0,4k,189905
+dell,Inspiron 13 7391,I5G10,144.0,Intel Iris Xe,8.0,256.0,0.0,13.0,fhd,118000
+dell,Inspiron 13 7391,I5G10,144.0,Intel Iris Xe,8.0,512.0,0.0,13.0,4k,120000
+dell,Inspiron 13 7391,I7G10,144.0,Intel Iris Xe,8.0,256.0,0.0,13.0,fhd,148000
+dell,Inspiron 13 7391,I7G10,144.0,Intel Iris Xe,16.0,512.0,0.0,13.0,4k,157000
+dell,Inspiron 14 7490,I5G10,144.0,Intel Iris Xe,8.0,256.0,0.0,14.0,fhd,118000
+dell,Inspiron 14 7490,I7G10,144.0,Intel Iris Xe,8.0,512.0,0.0,14.0,fhd,120000
+dell,Inspiron 14 7490,I7G10,144.0,Intel Iris Xe,8.0,256.0,0.0,14.0,fhd,125000
+dell,Inspiron 14 7490,I5G10,144.0,Intel Iris Xe,8.0,512.0,0.0,14.0,fhd,125000
+dell,Inspiron 14 7490,I7G10,144.0,Intel Iris Xe,16.0,512.0,0.0,14.0,fhd,156000
+dell,Inspiron 15 7500,I7G10,144.0,Intel Iris Xe,16.0,1024.0,0.0,16.0,fhd,175000
+dell,G3 G3500,I5G10,144.0,GTX 1650 Ti,8.0,512.0,0.0,16.0,fhd,125000
+dell,G3 G3500,I5G10,144.0,GTX 1660 Ti,16.0,512.0,0.0,16.0,fhd,135000
+dell,G5 15 5500,I7G10,144.0,RTX 2070,8.0,512.0,0.0,16.0,fhd,205105
+dell,G5 15 5500,I7G10,144.0,RTX 2070,16.0,1024.0,0.0,16.0,fhd,242250
+dell,G5 15 SE,I7,144.0,RX 5600M,8.0,512.0,0.0,16.0,fhd,152800
+dell,G5 15 SE,I7,144.0,RX 5600M,8.0,512.0,0.0,16.0,fhd,158000
+dell,G5 15 SE,I7,144.0,RX 5600M,16.0,512.0,0.0,16.0,fhd,158800
+dell,G7 7500,I7G10,144.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,237500
+dell,Alienware m15 R3,I7G10,300.0,RTX 2070 SUPER,16.0,512.0,0.0,16.0,fhd,310000
+dell,Vostro 14 3400,I3G11,60.0,Intel UHD,4.0,0.0,1024.0,14.0,hd,60000
+dell,Vostro 14 3400,I5G11,144.0,Intel Iris Xe,4.0,0.0,1024.0,14.0,fhd,77500
+dell,Vostro 14 3401,I3G10,60.0,Intel UHD,4.0,0.0,1024.0,14.0,hd,57500
+dell,Vostro 14 3401,I3G10,144.0,Intel UHD,4.0,0.0,1024.0,14.0,fhd,60040
+dell,Vostro 15 3500,I7G11,144.0,MX330,8.0,512.0,0.0,16.0,fhd,112000
+dell,Vostro 15 3500,I5G11,144.0,Intel Iris Xe,4.0,0.0,1024.0,16.0,fhd,77501
+dell,Vostro 15 3500,I5G11,60.0,Intel ,8.0,256.0,0.0,14.0,hd,85000
+dell,Vostro 15 3500,I5G11,60.0,NVIDIA 2GB,8.0,256.0,0.0,14.0,hd,90000
+dell,Vostro 15 3501,I3G10,60.0,Intel UHD,4.0,0.0,1024.0,14.0,hd,57500
+dell,Latitude 14 3410,I5G10,60.0,Intel UHD,4.0,0.0,1024.0,14.0,hd,82500
+dell,XPS 13 7390,I5G10,144.0,Intel UHD,8.0,256.0,0.0,13.0,fhd,140000
+dell,XPS 13 7390,I5G10,144.0,Intel UHD,8.0,256.0,0.0,13.0,fhd,144800
+dell,XPS 13 7390,I7G10,144.0,Intel UHD,16.0,512.0,0.0,13.0,fhd,200000
+dell,XPS 13 9310,I5G11,144.0,Iris Xe,8.0,512.0,0.0,13.0,fhd,214740
+dell,XPS 13 9310,I5G11,144.0,Iris Xe,8.0,256.0,0.0,13.0,fhd,228050
+dell,XPS 13 9310,I5G11,144.0,Iris Xe,16.0,512.0,0.0,13.0,fhd,308850
+dell,XPS 13 9300,I7G10,144.0,Iris Xe,16.0,512.0,0.0,13.0,4k,210800
+dell,XPS 15 9500,I5G10,144.0,Intel UHD,8.0,512.0,0.0,16.0,fhd,174800
+dell,XPS 15 9500,I7G10,144.0,GTX 1650 Ti,16.0,512.0,0.0,16.0,4k,258800
+dell,XPS 15 9500,I7G10,144.0,GTX 1650 Ti,16.0,512.0,0.0,16.0,4k,268800
+hp,hp Laptop 14,I3G10,144.0,Intel UHD,8.0,0.0,0.0,14.0,fhd,61990
+hp,hp Laptop 14,I5G10,60.0,Intel UHD,8.0,0.0,0.0,14.0,hd,78990
+hp,hp Laptop 15,I3G11,60.0,Intel UHD,8.0,0.0,0.0,16.0,hd,64990
+hp,hp Laptop 14,I3G10,60.0,Intel UHD,8.0,0.0,0.0,14.0,hd,64800
+hp,hp Laptop 14,I5G10,60.0,Radeon 530,4.0,0.0,0.0,14.0,hd,79990
+hp,hp Laptop 15,I5G10,60.0,Radeon 531,8.0,128.0,1024.0,14.0,hd,86990
+hp,hp Laptop 15,I7G10,60.0,Intel Iris,8.0,256.0,0.0,16.0,hd,99990
+hp,Notebook 14s,I3G10,144.0,Intel UHD,8.0,256.0,0.0,14.0,fhd,63000
+hp,Notebook 14s,I3G10,144.0,Intel UHD,4.0,512.0,0.0,14.0,fhd,68500
+hp,Notebook 14s,I5G10,144.0,MX130,4.0,0.0,1024.0,14.0,fhd,89000
+hp,Pavilion 14 c360m,I5G11,144.0,Intel UHD,8.0,256.0,0.0,14.0,fhd,110000
+hp,Pavilion X360 2020,I5G11,144.0,Iris Xe,8.0,512.0,0.0,14.0,fhd,115000
+hp,Pavilion 15,ryzen5,144.0,Radeon,8.0,512.0,0.0,16.0,fhd,99990
+hp,Pavilion Power 15 2020,ryzen5,144.0,GTX 1650,8.0,256.0,0.0,16.0,fhd,108000
+hp,Pavilion 15 Gaming,ryzen5,144.0,GTX 1650,4.0,256.0,0.0,16.0,fhd,106800
+hp,Pavilion 15 Gaming,I5G10,144.0,GTX 1660 Ti,8.0,512.0,0.0,16.0,fhd,134800
+hp,Pavilion 16 Gaming,I7G10,144.0,GTX 1650 Ti,8.0,512.0,0.0,16.0,fhd,146800
+hp,Envy 13,I5G11,144.0,Iris Xe,8.0,256.0,0.0,13.0,fhd,114990
+hp,Envy 13,I5G11,144.0,Iris Xe,8.0,256.0,0.0,13.0,fhd,120000
+hp,Envy 13,I7G11,144.0,Iris Plus,8.0,512.0,0.0,13.0,4k,148000
+hp,Envy x360 2020,I7G11,144.0,Iris Xe,8.0,512.0,0.0,13.0,fhd,140000
+hp,hp Omen 15,I7,144.0,GTX 1660 Ti,8.0,512.0,0.0,16.0,fhd,160000
+hp,hp Omen 15,I7,144.0,GTX 1660 Ti,16.0,1024.0,0.0,16.0,fhd,175000
+hp,hp Spectre 13 x360,I5G10,144.0,Iris Plus,8.0,256.0,0.0,13.0,fhd,142000
+hp,hp Spectre 13 x360,I7G10,144.0,Iris Plus,8.0,512.0,0.0,13.0,fhd,185000
+hp,hp Spectre 15 x360,I7G10,144.0,MX250,16.0,512.0,0.0,16.0,4k,225000
+lenovo,V14-IIL 8C24,I5G10,60.0,Intel UHD,4.0,0.0,1024.0,14.0,hd,82000
+lenovo,IdeaPad S145,I3G10,60.0,Intel UHD,4.0,0.0,1024.0,14.0,hd,59800
+lenovo,IdeaPad S540,I7G10,60.0,Intel UHD,8.0,256.0,0.0,13.0,hd,119990
+lenovo,IdeaPad S540,I7G10,60.0,Intel UHD,16.0,512.0,0.0,13.0,hd,129990
+lenovo,IdeaPad 3,I5G10,144.0,Intel UHD,8.0,512.0,0.0,14.0,fhd,75990
+lenovo,IdeaPad 5 2020,I5G10,144.0,Intel UHD,8.0,256.0,0.0,14.0,fhd,85000
+lenovo,IdeaPad Flex 5,ryzen3,144.0,Radeon,4.0,256.0,0.0,14.0,fhd,74000
+lenovo,IdeaPad Slim 7,I7G10,144.0,MX350,16.0,512.0,0.0,14.0,fhd,134990
+lenovo,IdeaPad Gaming 3,I7,144.0,GTX 1650 Ti,8.0,256.0,1024.0,16.0,fhd,139000
+lenovo,IdeaPad Gaming 3,I7G10,144.0,GTX 1650 Ti,16.0,256.0,1024.0,16.0,fhd,152000
+lenovo,Flex 5,ryzen5,144.0,Radeon,16.0,256.0,0.0,14.0,fhd,110000
+lenovo,Flex 14x 360,I7G10,144.0,Intel UHD,8.0,512.0,0.0,14.0,fhd,124990
+lenovo,Flex 14 2021,ryzen5,144.0,Radeon graphics,16.0,256.0,0.0,14.0,fhd,118000
+lenovo,Yoga C740,I5G10,144.0,Intel UHD,8.0,256.0,0.0,14.0,fhd,105000
+lenovo,Yoga C940,I7G11,144.0,Iris Plus,8.0,512.0,0.0,13.0,fhd,169000
+lenovo,Yoga 7i,I5G11,144.0,Iris Xe,8.0,256.0,0.0,16.0,fhd,115000
+lenovo,Yoga Duet 7i,I5G10,60.0,Intel UHD,8.0,512.0,0.0,13.0,hd,145000
+lenovo,Yoga 7i,I5G11,144.0,Iris Xe,8.0,256.0,0.0,16.0,fhd,115000
+lenovo,Yoga 7 2021,I7G11,144.0,Iris Xe,12.0,512.0,0.0,14.0,fhd,135000
+lenovo,Yoga Slim 7i Carbon i7,I7G11,144.0,Iris Xe,16.0,1024.0,0.0,13.0,WQXGA,185000
+lenovo,Yoga 9 2021,I7G11,144.0,Iris Xe,16.0,512.0,0.0,14.0,Touch,198000
+lenovo,ThinkPad E14,I5G10,144.0,Intel UHD,8.0,0.0,1024.0,14.0,fhd,108800
+lenovo,ThinkPad E14,I7G10,144.0,Intel UHD,8.0,256.0,0.0,14.0,fhd,138800
+lenovo,ThinkPad L13 Yoga,I5G10,144.0,Intel UHD,8.0,256.0,0.0,13.0,fhd,135000
+lenovo,ThinkPad T14,I5G10,144.0,Intel UHD,8.0,256.0,0.0,14.0,fhd,144000
+lenovo,ThinkPad T490,I5G10,144.0,Intel UHD,8.0,256.0,0.0,14.0,fhd,145000
+lenovo,Thinkpad X13,ryzen5,144.0,Radeon,16.0,256.0,0.0,13.0,fhd,143000
+lenovo,TinkPad X390,I5G10,144.0,Intel UHD,8.0,256.0,0.0,13.0,fhd,159000
+lenovo,ThinkPad X1 Carbon 2020,I5G10,144.0,Intel UHD,8.0,256.0,0.0,13.0,fhd,179000
+lenovo,ThinkPad X1 Carbon 2020,I5G10,144.0,Intel UHD,16.0,512.0,0.0,13.0,fhd,198000
+lenovo,Legion 5,ryzen5,120.0,RTX 2060,8.0,512.0,0.0,16.0,fhd,154800
+lenovo,Legion 5,ryzen5,120.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,160800
+lenovo,Legion 5,I7,120.0,GTX 1650,8.0,256.0,0.0,16.0,fhd,150000
+lenovo,Legion 5,I7,120.0,GTX 1660 Ti,16.0,512.0,0.0,16.0,fhd,170800
+lenovo,Legion 5,I7,120.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,190800
+lenovo,Legion 5i,I7G10,120.0,GTX 1650 Ti,8.0,512.0,0.0,16.0,fhd,142800
+lenovo,Legion 5i,I7G10,120.0,GTX 1660 Ti,8.0,512.0,1024.0,16.0,fhd,154800
+lenovo,Legion 5i,I7G10,144.0,RTX 2060,16.0,256.0,0.0,16.0,fhd,184800
+lenovo,Legion 5i,I7G10,240.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,195000
+lenovo,Legion 7i,I7G10,144.0,RTX 2070 Super Max-Q,16.0,1024.0,0.0,16.0,fhd,238800
+apple,MacBook Air,m1,144.0,Intel,8.0,256.0,0.0,13.0,fhd,159500
+apple,MacBook Air,m1,144.0,Intel,8.0,512.0,0.0,13.0,fhd,203000
+apple,MacBook Pro 13,m1,144.0,Intel,8.0,256.0,0.0,13.0,fhd,205000
+apple,MacBook Pro 13,m1,144.0,Intel,8.0,512.0,0.0,13.0,fhd,240000
+apple,MacBook Pro 13,m1,144.0,Intel,16.0,256.0,0.0,13.0,fhd,240000
+apple,MacBook Pro 13,m1,144.0,Intel,16.0,512.0,0.0,13.0,fhd,275000
+msi,msi Stealth 15M,I7G11,144.0,GTX 1660 Ti,16.0,512.0,0.0,16.0,fhd,229000
+msi,msi Stealth 15M,I7G11,144.0,RTX 2060 Max Q,16.0,512.0,0.0,16.0,fhd,239000
+msi,msi GS66 Stealth 10SE Thin,I7G10,144.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,265000
+msi,msi GS66 Stealth 10SD Thin,I7G10,144.0,GTX 1660 Ti,16.0,512.0,0.0,16.0,fhd,255000
+msi,msi GS66 Stealth 10SFS Thin,I7G10,144.0,RTX 2070,32.0,1024.0,0.0,16.0,fhd,386000
+msi,msi GE66 Raider 10SF,I7G10,144.0,RTX 2070,16.0,1024.0,0.0,16.0,fhd,306000
+msi,msi GE76 Raider 10UG,I7G10,144.0,RTX 3070,16.0,2048.0,0.0,16.0,fhd,320000
+msi,msi GE76 Raider 10UH,I7G10,144.0,RTX 3070,32.0,2048.0,0.0,16.0,fhd,350000
+msi,msi GP65 Leopard 10SDK,I7G10,144.0,GTX 1660 Ti,16.0,512.0,0.0,16.0,fhd,205000
+msi,msi GP66 Leopard 10UE,I7G10,144.0,RTX 3060,16.0,1024.0,0.0,16.0,fhd,259000
+msi,msi GP67 Leopard 10UE,I7G10,144.0,RTX 3060,16.0,1024.0,0.0,16.0,fhd,259000
+msi,msi GL75 Leopard 10SDR,I7G10,144.0,GTX 1660 Ti,16.0,512.0,0.0,16.0,fhd,189000
+msi,msi GL75 Leopard 10SFK,I7G10,144.0,RTX 2070,8.0,512.0,1024.0,16.0,fhd,250000
+msi,msi GF63 Thin 10SCXR,I7G10,144.0,GTX 1650,8.0,512.0,0.0,16.0,fhd,137000
+msi,msi GF65 Thin 10SDR,I5G10,120.0,GTX 1660 Ti,8.0,1024.0,0.0,16.0,fhd,145000
+msi,msi GF65 10SDR,I7G10,144.0,GTX 1660 Ti,8.0,1024.0,0.0,16.0,fhd,175000
+msi,msi GF65 10UE,I5G10,144.0,RTX 3060,16.0,512.0,0.0,16.0,fhd,198000
+msi,msi GF65 10UE,I7G10,144.0,RTX 3060,16.0,512.0,0.0,16.0,fhd,220000
+msi,msi Bravo 15  A4DDR,I7,144.0,Radeon RX,8.0,1024.0,0.0,16.0,fhd,155000
+msi,msi Creator 15 A10SF,I7G10,144.0,RTX 2070,32.0,512.0,0.0,16.0,4k,360000
+msi,msi Creator 15 A10SFS,I7G10,144.0,RTX 2070,32.0,512.0,0.0,16.0,4k,418000
+msi,msi Prestige 14 Evo,I5G11,144.0,Iris Xe,16.0,512.0,0.0,16.0,fhd,173000
+msi,msi Prestige 14 Evo,I7G11,144.0,Iris Xe,16.0,512.0,0.0,16.0,fhd,193000
+msi,msi Prestige 15 A11SC,I7G11,144.0,GTX 1650 Ti,16.0,512.0,0.0,16.0,fhd,241000
+msi,msi Modern 15 A10M,I5G10,144.0,Intel ,8.0,512.0,0.0,16.0,uhd,110000
+msi,msi Modern 14 B11SB,I5G11,144.0,MX450,8.0,512.0,0.0,14.0,fhd,135000
+msi,msi Modern 14 B11SB,I7G11,144.0,MX450,8.0,512.0,0.0,14.0,fhd,147000
+msi,msi Modern 15 A11SB,I5G11,144.0,MX450,8.0,512.0,0.0,16.0,fhd,137000
+msi,msi Modern 15 A11SB,I7G11,144.0,MX450,8.0,512.0,0.0,16.0,fhd,148000
+msi,msi Summit B15 A11M,I5G11,144.0,Iris Xe,8.0,512.0,0.0,16.0,fhd,138000
+msi,msi Summit B15 A11M,I7G11,144.0,Iris Xe,8.0,512.0,0.0,16.0,fhd,168000
+msi,msi Summit E15 A11SCS,I7G11,144.0,GTX 1650 Ti,16.0,1024.0,0.0,16.0,fhd,249000
+msi,msi Summit E15 A11SCS,I7G11,144.0,GTX 1650 Ti,16.0,1024.0,0.0,16.0,4k,259000
+microsoft,Microsoft Surface Pro 7,I3,144.0,Intel,4.0,128.0,0.0,12.0,fhd,117000
+microsoft,Microsoft Surface Pro 7,I5,144.0,Intel,8.0,128.0,0.0,12.0,fhd,142000
+microsoft,Microsoft Surface Pro 7,I5,144.0,Intel,8.0,256.0,0.0,12.0,fhd,188000
+microsoft,Microsoft Surface Pro 7,I7,144.0,Intel,16.0,256.0,0.0,12.0,fhd,228000
+microsoft,Microsoft Surface Laptop 3,I5,144.0,Intel,8.0,128.0,0.0,14.0,fhd,159000
+microsoft,Microsoft Surface Laptop 3,ryzen3,144.0,Radeon Vega 9,8.0,128.0,0.0,15.0,fhd,187000
+razer,Razer Blade Stealth,I7G11,120.0,GTX 1650 Ti,16.0,512.0,0.0,16.0,fhd,289000
+razer,Razer Blade 15,I7G10,144.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,279000
+razer,Razer Blade 15,I7G10,144.0,RTX 2070,16.0,512.0,0.0,16.0,fhd,310000
+ripple,Pandora,I7G11,144.0,Iris Xe,8.0,256.0,0.0,16.0,fhd,75000
+ripple,Artifact,I5G10,144.0,GTX 1650 Ti,8.0,256.0,0.0,16.0,fhd,120000
+ripple,Artifact Pro,I7,144.0,RTX 2060,8.0,256.0,0.0,16.0,fhd,175000
+ripple,Artifact Pro,I7,144.0,RTX 3060,16.0,256.0,0.0,16.0,fhd,200000
+ripple,Raze,I5G11,144.0,RTX 3050,8.0,256.0,0.0,16.0,fhd,150000
+ripple,Raze Pro,I7G11,144.0,RTX 3050,8.0,256.0,0.0,16.0,fhd,200000
+ripple,Genos,ryzen3,144.0,RTX 2060,8.0,256.0,0.0,16.0,fhd,185000
+ripple,Genos Pro,ryzen3,144.0,RTX 2070,8.0,256.0,0.0,16.0,fhd,225000
+hp,15CS3079 Pavilion ,I5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,86000
+asus ,TUF FX 506LI GAMING LAPTOP,I5,144.0,GTX 1650 TI 4 ,8.0,256.0,0.0,16.0,fhd,115000
+hp ,PAVILION POWER 15 GAMING,I5G10,144.0,GTX1650 4 ,8.0,256.0,0.0,16.0,fhd,112000
+hp ,24-DF0309 ,I3G10,144.0,Intel,12.0,256.0,0.0,24.0,fhd,88000
+hp ,15-GW0010 ,ryzen3,144.0,Intel,4.0,128.0,1024.0,16.0,fhd,63500
+lenovo , V14 ,ryzen5,144.0,AMD Radeon,8.0,0.0,1024.0,14.0,fhd,78500
+hp ,Hp-14,I5G10,144.0,Intel,8.0,256.0,0.0,14.0,fhd,84000
+hp ,Hp-14,ryzen,144.0,Radeon Vega 3,4.0,0.0,1024.0,14.0,fhd,56000
+hp ,Pavilion 14-CE3065 ,I5G10,144.0,Intel,8.0,256.0,0.0,14.0,fhd,85000
+lenovo ,Legion 5 15IMH05H ,I7G10,60.0,NVIDIA GTX 1660 Ti,8.0,512.0,0.0,14.0,hd,155000
+dell,Inspiron 5391 ,I7G10,60.0,Nvidia MX 250,8.0,512.0,0.0,13.0,hd,116000
+lenovo ,Yoga 7 15ITL5,I5G11,144.0,Intel,8.0,256.0,0.0,16.0,touch,107000
+hp ,Hp-15-DY1076 ,I5G10,60.0,Intel,8.0,256.0,0.0,16.0,hd,80000
+hp ,Hp-255,ryzen5,144.0,Intel,8.0,0.0,1024.0,16.0,fhd,74000
+hp, 15-da2180nia ,I5G10,60.0,Intel,4.0,0.0,1024.0,16.0,hd,76000
+hp ,Hp- 14,I5G10,144.0,Intel,8.0,256.0,0.0,14.0,fhd,84000
+hp ,Hp-15  ,I5G11,60.0,Intel,8.0,256.0,0.0,16.0,hd,86000
+hp ,Hp-14 ,I3G10,60.0,Intel,8.0,256.0,0.0,14.0,hd,65000
+dell, Vostro 3591 ,I7G10,144.0,Nvidia MX230 2,8.0,512.0,0.0,16.0,fhd,115000
+dell, Vostro 3401,I3G10,60.0,Integrated Graphics,4.0,0.0,1024.0,14.0,hd,57500
+lenovo ,Ideapad Slim 3i,I3G10,144.0,Intel,8.0,256.0,0.0,16.0,fhd,63000
+lenovo ,ThinkBook 14-IIL 20SL0016US,I5G10,60.0,AMD Radeon TM 630 Graphic,8.0,0.0,1024.0,14.0,hd,95000
+lenovo ,IdeaPad S540,I5G10,144.0,Intel,8.0,256.0,0.0,13.0,qhd,95000
+lenovo, IdeaPad 130,I3G8,144.0,Intel,4.0,0.0,1024.0,16.0,fhd,56000
+apple ,MacBook Air ,I3,144.0,Intel,8.0,256.0,0.0,13.0,retina,138000
+apple, MacBook Air ,I5,144.0,Intel,8.0,512.0,0.0,13.0,retina,195000
+apple, MacBook Air,m1,144.0,Intel,8.0,512.0,0.0,13.0,fhd,205000
+dell,Inspiron 7490-7842SLV,I7G10,144.0,Intel,8.0,512.0,0.0,14.0,fhd,115000
+acer ,Aspire 5,I5G10,60.0,Intel,8.0,512.0,0.0,16.0,hd,85000
+acer,Swift 3,ryzen5,144.0,Intel,8.0,256.0,0.0,14.0,fhd,88000
+acer,Swift 3 ,ryzen5,144.0,Intel,8.0,512.0,0.0,14.0,fhd,96000
+acer ,Nitro 5 ,ryzen5,144.0,NVIDIA GeForce GTX 1650 ,8.0,256.0,0.0,16.0,fhd,108000
+acer ,Nitro 5,I5G10,144.0,GTX 1650 Graphics,8.0,256.0,0.0,16.0,fhd,112000
+hp ,Envy 13 ,I5G11,144.0,Intel,8.0,256.0,0.0,13.0,fhd,116000
+lenovo ,Yoga7 ,I7G11,144.0,Intel,12.0,512.0,0.0,14.0,fhd_touch,132000
+lenovo ,Flex 5 ,I7,144.0,Intel,8.0,512.0,0.0,14.0,fhd_touch,115000
+lenovo ,Flex 5 ,ryzen3,144.0,Intel,8.0,256.0,0.0,14.0,fhd_touch,74000
+lenovo ,Legion 5 15IMH05H ,I7G10,60.0,NVIDIA GTX 1650 Ti,8.0,512.0,0.0,16.0,hd,145000
+lenovo , Ideapad Slim 3i,I3G10,60.0,Intel,8.0,256.0,0.0,16.0,hd,64000
+lenovo ,Yoga C740,I7G10,144.0,Intel,16.0,256.0,0.0,16.0,fhd_touch,165000
+lenovo ,IdeaPad Flex 5,I5G10,144.0,Intel,16.0,512.0,0.0,14.0,fhd_touch,100000
+lenovo ,IdeaPad 3 ,I5G10,144.0,Intel,8.0,512.0,0.0,14.0,fhd,82000
+lenovo ,Legion 5 15IMH05H ,I7G10,60.0,NVIDIA RTX 2060,16.0,512.0,0.0,16.0,hd,180000
+lenovo , Yoga 7i ,I7G11,144.0,Intel,12.0,512.0,0.0,14.0,fhd_touch,132000
+lenovo ,Flex 5 14IIL05 ,I5G10,144.0,Intel,8.0,512.0,0.0,14.0,fhd,92000
+lenovo ,V14 ,ryzen5,144.0,AMD Radeon,8.0,0.0,1024.0,14.0,fhd,78500
+lenovo, V14 ,celeron,60.0,Intel hd graphic,4.0,0.0,1024.0,14.0,hd,45000
+dell,XPS 13 7390 ,I7G10,144.0,Intel uhd Graphics,16.0,512.0,0.0,13.0,fhd_touch,190000
+dell,Inspiron 7405,ryzen5,60.0,Intel,8.0,256.0,0.0,14.0,hd,109500
+dell,Inspiron 7306,I7G11,144.0,Iris Xe Graphics ,16.0,512.0,0.0,13.0,uhd,166000
+dell,G5 5500  ,I7G10,144.0,NVIDIA GTX 1650Ti 4,8.0,256.0,0.0,16.0,fhd,150000
+asus ,Zenbook 14 ,ryzen,144.0,NVIDIA GEFORCE MX350,8.0,256.0,0.0,14.0,fhd,95000
+asus ,VivoBook 15 F515,I3G10,144.0,Intel,4.0,128.0,0.0,16.0,fhd,60000
+asus ,E410MA ,celeron,60.0,Intel,4.0,256.0,0.0,14.0,hd,48000
+asus ,TUF TUF506IU-ES74 ,I7,144.0,GeForce GTX 1660 Ti  6,16.0,512.0,0.0,16.0,hd,155000
+asus, Vivobook Flip 14,pentium,60.0,Intel,4.0,128.0,0.0,14.0,hd,57500
+asus ,VivoBook Flip 14 ,ryzen5,144.0,Intel,8.0,512.0,0.0,14.0,fhd_touch,108000
+asus ,Vivobook Flip TP412FA-DS51T-CA ,I5G10,144.0,Intel,8.0,512.0,0.0,14.0,fhd,112000
+asus ,VivoBook 512JA ,I5G10,144.0,Intel,8.0,256.0,0.0,16.0,fhd_touch,86000
+asus , ROG Zephyrus G14,ryzen9,144.0,NVIDIA GeForce RTX 2060,16.0,1.0,0.0,16.0,fhd,200000
+asus ,TUF FX 506LI ,I5,144.0,GTX 1650 TI 4 GRAPHIC,8.0,256.0,0.0,16.0,fhd,115000
+hp , Hp-14,ryzen3,60.0,Radeon Vega 3 ,4.0,0.0,1024.0,14.0,hd,59000
+hp ,15-DY1045 ,I5G10,144.0,Intel,8.0,256.0,0.0,16.0,fhd,85000
+hp ,Envy x360 ,I7G11,144.0,Intel,8.0,512.0,0.0,13.0,fhd_touch,138000
+hp, OMEN 15 ,I7G10,144.0,NVIDIA GTX 1660 Ti,8.0,256.0,1024.0,16.0,fhd,160000
+hp ,15CS3079NR Pavilion ,I5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,89000
+hp ,Hp-14,I3G11,144.0,Intel,8.0,256.0,0.0,14.0,fhd_touch,75000
+hp ,Pavilion x360,I5G10,144.0,Intel,8.0,256.0,0.0,14.0,fhd,95000
+hp, Pavilion x360 14M,I3G10,144.0,Intel,8.0,128.0,0.0,14.0,touch,74000
+hp ,15-DY2056 ,I5G11,60.0,Intel,12.0,256.0,0.0,16.0,hd,94500
+hp ,Hp-14,ryzen3,60.0,Intel,4.0,0.0,1024.0,14.0,hd,56000
+hp ,Pavilion 14 DV0010,I5G11,144.0,Intel,8.0,256.0,0.0,14.0,fhd,92000
+hp ,Hp-14 (2021),I3G11,60.0,Intel,8.0,256.0,0.0,14.0,hd,75000
+hp ,Hp-14,I5G10,60.0,Intel,8.0,256.0,0.0,14.0,hd,84000
+hp ,Hp-15-GW0010 ,ryzen3,144.0,Intel,4.0,128.0,1024.0,16.0,fhd,63500
+hp ,24-DF0309 ,I3G10,144.0,Intel,12.0,256.0,0.0,24.0,fhd,88000
+hp ,PAVILION POWER 15 GAMING,I5G10,144.0,GTX1650 4 ,8.0,256.0,0.0,16.0,fhd,112000
+hp ,15CS3079 Pavilion,I5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,86000
+asus,TUF Dash FX516PM,I7,144.0,Intel,16.0,512.0,0.0,16.0,fhd,209990
+acer,A515,I5,144.0,Intel,8.0,0.0,1024.0,16.0,fhd,86990
+acer,A515,ryzen3,144.0,Intel,4.0,128.0,0.0,16.0,fhd,59990
+acer,Predator,I7,144.0,Intel,16.0,512.0,0.0,16.0,fhd,182990
+acer,SF314-57G,I5,144.0,Intel,8.0,256.0,0.0,14.0,fhd,95990
+acer,SF314-57G,I7,144.0,Intel,8.0,512.0,0.0,14.0,fhd,115990
+acer,SF714-52T,I7,144.0,Intel,16.0,512.0,0.0,14.0,fhd,142990
+apple,MacBook Air,I3,144.0,Intel,8.0,256.0,0.0,13.0,qhd,139990
+apple,MacBook Air,I7G10,144.0,Intel,8.0,512.0,0.0,13.0,qhd,189990
+apple,MacBook Pro,I5,144.0,Intel,8.0,256.0,0.0,13.0,qhd,189990
+asus,FA506 ,I7,144.0,Intel,8.0,512.0,0.0,16.0,fhd,157990
+asus,ROG ZEPHYRUS GA401QM,ryzen9,144.0,Intel,16.0,1024.0,0.0,14.0,fhd,274990
+asus,Strix G512LI,I7,144.0,Intel,8.0,512.0,0.0,16.0,fhd,144990
+asus,TP412UA,I7,144.0,Intel,8.0,256.0,0.0,14.0,fhd,106990
+asus,VivoBook Flip 14 TP412FA,I3,144.0,Intel,4.0,128.0,0.0,14.0,fhd,67990
+asus,VivoBook R564JA,I5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,84990
+asus,ZenBook,ryzen5,144.0,Intel,8.0,256.0,0.0,14.0,fhd,99990
+dell,3501,I5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,94990
+dell,3501,I5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,82990
+dell,5505,I7,144.0,Intel,8.0,256.0,0.0,16.0,fhd,109990
+dell,G5-15,I7,144.0,Intel,8.0,256.0,0.0,16.0,fhd,135990
+dell,In 5400,I3,60.0,Intel uhd,4.0,128.0,0.0,14.0,hd,74990
+dell,In 5402,I5,144.0,Intel,8.0,512.0,0.0,14.0,fhd,108990
+dell,In 5406,I5,60.0,Intel,8.0,256.0,0.0,14.0,hd,112990
+dell,In 5406,I7,144.0,Intel,8.0,512.0,0.0,14.0,fhd,123990
+dell,In 5502,I7,144.0,Intel,8.0,256.0,0.0,16.0,fhd,119990
+dell,In 7490,I7,144.0,Intel,8.0,512.0,0.0,14.0,fhd,114990
+dell,In 7506,I5,144.0,Intel,12.0,512.0,0.0,16.0,fhd,119990
+dell,Vostro 3400,I5,144.0,Intel,4.0,0.0,1024.0,14.0,fhd,78990
+dell,Vostro 3400,I5,144.0,Intel,8.0,256.0,0.0,14.0,fhd,82990
+dell,Vostro 3400,I7,144.0,Intel,8.0,512.0,0.0,14.0,fhd,115990
+dell,Vostro 3401,I3,60.0,Intel,4.0,128.0,1024.0,14.0,hd,62990
+dell,Vostro 3401,I3,60.0,Intel,4.0,0.0,1024.0,14.0,hd,58990
+dell,Vostro 3500,I5,144.0,Intel,4.0,0.0,1024.0,16.0,fhd,78990
+dell,Vostro 3500,I7,144.0,Intel,8.0,512.0,0.0,16.0,fhd,115990
+dell,Vostro 3501,I3,60.0,Intel,4.0,0.0,1024.0,16.0,hd,58990
+hp,14-cf2224nia,I5,60.0,Intel,4.0,0.0,1024.0,14.0,hd,82990
+hp,14-cf2224nia,I5,60.0,Intel,8.0,128.0,1024.0,14.0,hd,89990
+hp,14-dq1043,I3,144.0,Intel,8.0,256.0,0.0,14.0,fhd,64990
+hp,14-dq1059wm,I5,60.0,Intel,8.0,256.0,0.0,14.0,hd,78990
+hp,15-DW3048NE,I3,60.0,Intel,8.0,256.0,0.0,16.0,hd,64990
+hp,15-dy1071wm,I7,60.0,Intel,8.0,256.0,0.0,16.0,hd,99990
+hp,15-dy2021nr,I5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,84990
+hp,ENVY 13-ba1000,I5,144.0,Intel,8.0,256.0,0.0,13.0,fhd,114990
+hp,ENVY-13m-bd0023dx,I7,144.0,Intel,8.0,512.0,0.0,13.0,fhd_touch,137990
+hp,OMEN-15,I7,144.0,Intel,16.0,512.0,0.0,16.0,fhd,181990
+hp,Pav 15-eh0050wm,ryzen5,144.0,Intel,8.0,512.0,0.0,16.0,fhd,91990
+hp,Pav Gaming 15-ec1073dx,ryzen5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,102990
+hp,Pav Gaming-15-ec0013dx,ryzen5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,89990
+hp,14-dk1025wm,ryzen3,60.0,Intel,4.0,0.0,1024.0,14.0,hd,58990
+hp,15-dw3047nr,I7,144.0,Intel,8.0,256.0,0.0,16.0,fhd,106990
+hp,OMEN-15-dh1019nr,I7,144.0,Intel,32.0,512.0,0.0,16.0,fhd,259990
+lenovo,LEGION 5,I7,144.0,Intel,8.0,512.0,0.0,16.0,fhd,156990
+lenovo,LEGION 5,ryzen5,144.0,Intel,8.0,256.0,1024.0,16.0,fhd,124990
+lenovo,15IIL05,I7,144.0,Intel,12.0,512.0,0.0,16.0,fhd,94990
+lenovo,E41-45,I7G10,60.0,Intel,4.0,0.0,1024.0,14.0,hd,41990
+lenovo,Flex14IML,I7,144.0,Intel,16.0,512.0,0.0,14.0,fhd,124990
+lenovo,IdeaPad 3,I5,144.0,Intel,8.0,512.0,0.0,14.0,fhd,79990
+lenovo,IdeaPad 3,I7,60.0,Intel,8.0,0.0,1024.0,14.0,hd,99990
+lenovo,S540,I7,144.0,Intel,16.0,512.0,0.0,13.0,qhd,129990
+lenovo,S540,I7,144.0,Intel,8.0,256.0,0.0,13.0,qhd,119990
+lenovo,slim 7 14IIL05,I7,144.0,Intel,16.0,512.0,0.0,14.0,fhd,134990
+lenovo,V130 Cel,celeron,60.0,Intel,4.0,0.0,1024.0,16.0,hd,46990
+lenovo,V130 Cel,celeron,60.0,Intel,4.0,512.0,0.0,16.0,hd,44990
+lenovo,Yoga 7,I7,144.0,Intel,12.0,512.0,0.0,14.0,fhd,134990
+msi,GL65-9SDK,I7,120.0,Intel,16.0,512.0,0.0,16.0,fhd,164990
+msi,GS66 Stealth,I7,120.0,Intel,16.0,512.0,0.0,16.0,fhd,181990
+acer,NITRO AN515,I5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,117990
+acer,NITRO AN515,ryzen5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,107990
+acer,NITRO AN515,I7,144.0,Intel,8.0,0.0,1024.0,16.0,fhd,134990
+acer,ASPIRE 7 ,I7G8,60.0,GTX 1050Ti 4,16.0,256.0,1024.0,16.0,hd,126800
+acer,Nitro 5 ,I5G10,60.0,GTX 1050 4,8.0,256.0,0.0,16.0,hd,116800
+acer,Nitro 5 ,I7G9,144.0,RTX 2060,16.0,256.0,0.0,16.0,fhd,160800
+acer,Nitro 5 ,I5G9,60.0,GTX 1650 4,8.0,512.0,0.0,16.0,hd,108800
+acer, Predator Helios 300 ,I7G10,144.0,RTX 2060 6,16.0,512.0,0.0,16.0,fhd,180800
+acer, Predator Helios 300 2019 ,I7G9,144.0,GTX 1660Ti 6,16.0,256.0,0.0,16.0,fhd,150800
+acer, Predator Triton 300 Gaming Laptop,I7G10,144.0,NVIDIA RTX 2070,16.0,512.0,0.0,16.0,fhd,214800
+acer, Predator Triton 500 ,I7G9,144.0,RTX 2060 6,16.0,512.0,0.0,16.0,fhd,196800
+acer, Swift 7 ,I7,144.0,Intel,8.0,51.0,0.0,13.0,fhd,120800
+alienware, AREA-51M ,I7G9,144.0,RTX 2070 8,32.0,256.0,1024.0,17.0,fhd,432800
+apple, Macbook Air  2019 ,I5,144.0,Intel,8.0,128.0,0.0,13.0,retina,146800
+apple, Macbook Air  2019,I5,144.0,Intel,8.0,256.0,0.0,13.0,retina,174800
+apple, MacBook Air M1 chip with 8-core CPU,I7G10,144.0,Intel,8.0,0.0,512.0,13.0,retina,194800
+apple, MacBook Air M1 Chip with 8-core CPU,I7G10,144.0,Intel,8.0,256.0,0.0,13.0,retina,146800
+apple, MacBook Pro 16,I7,144.0,AMD Radeon Pro 5300M 4,16.0,0.0,512.0,13.0,fhd,320800
+apple, MacBook Pro 16,I9,144.0,AMD Radeon Pro 5500M 4,16.0,1024.0,0.0,13.0,fhd,384800
+asus, ROG ,I7G10,144.0,GTX 1650 4,8.0,512.0,0.0,16.0,fhd,130800
+asus, ROG Strix G15 Gaming Laptop,I7G10,240.0,RTX 2060 6,16.0,512.0,0.0,16.0,ips,196800
+asus, ROG Strix G15 ,I7G10,144.0,GTX 1650Ti 4,8.0,512.0,0.0,16.0,fhd,148800
+asus, ROG Strix SCAR ,I7G8,144.0,GTX 1070 8,16.0,512.0,0.0,16.0,fhd,172800
+asus, ROG Strix Scar II ,I7G8,144.0,RTX 2070 8,16.0,512.0,0.0,16.0,fhd,236800
+asus, ROG Zephyrus G ,ryzen3,120.0,GTX 1660Ti 6,16.0,512.0,0.0,16.0,fhd,156800
+asus, ROG Zephyrus G14 ,ryzen9,120.0,RTX 2060 6,16.0,1024.0,0.0,14.0,fhd,196800
+asus, ROG Zephyrus ,I7,144.0,GTX 1650 4,8.0,512.0,0.0,16.0,fhd,168800
+asus, ROG Zephyrus G15,I7,144.0,GTX 1660Ti 6G,16.0,1024.0,0.0,16.0,fhd,179800
+asus, ROG Zephyrus M15 ,I7G10,240.0,RTX 2070 Max-Q 8 ,16.0,1024.0,0.0,16.0,fhd,228800
+asus, ROG Zephyrus S Ultra Slim,I7G8,144.0,GTX 1070 8,16.0,512.0,0.0,16.0,fhd,205000
+asus, TUF Dash F15 ,I7G11,144.0,RTX 3060 6,16.0,512.0,0.0,16.0,fhd,196800
+asus, TUF Gaming A15 Gaming Laptop,ryzen5,192.0,GTX 1650ti 4,8.0,512.0,0.0,16.0,ips,130800
+asus, TUF Gaming A15,I7,144.0,GTX 1660 Ti 6,16.0,512.0,1024.0,16.0,fhd,164800
+asus, TUF i5 ,I5G10,144.0,GTX 1650 Ti,8.0,256.0,0.0,16.0,fhd,110800
+asus, VivoBook 15 ,I7G10,144.0,RX Vega 10 Graphics,8.0,512.0,0.0,16.0,fhd,102800
+asus, ZenBook 15 ,I7G8,144.0,GTX 1050 Max-Q 2,16.0,512.0,0.0,16.0,fhd,140800
+asus, ZENBOOK FLIP,I7G8,144.0,Intel,16.0,512.0,0.0,14.0,fhd,134800
+bigbyte, Dominant BBDMT30 ,I7G10,144.0,RTX 3060 6,16.0,1024.0,0.0,16.0,ips,199800
+bigbyte, Dominant powerful lightweight Laptop,I7G10,144.0,RTX 3060 6,32.0,1024.0,0.0,16.0,fhd,210800
+bigbyte, RT20601T ,I7G10,144.0,RTX 2060 6,16.0,1024.0,0.0,16.0,fhd,168800
+bigbyte, Workstation Laptop ,I7G10,144.0,16 MB Cache RTX 3060 6,64.0,1024.0,0.0,16.0,fhd,238800
+bigbyte, Workstation Laptop ,I7G10,144.0,RTX 3060 6,64.0,2048.0,0.0,16.0,fhd,258800
+dell, alienware 15 R4 ,I7G8,60.0,GTX 1060 6 GDDR5,16.0,256.0,1024.0,16.0,fhd,160800
+dell, alienware 17 R5,I9,120.0,GTX 1070 8 DDR5 OC,16.0,256.0,1024.0,17.0,hd,270800
+dell, alienware 17R5,I7G8,60.0,GTX 1070 8,16.0,256.0,1024.0,17.0,fhd,225800
+dell, alienware M17 ,I7G9,144.0,RTX 2070 8,16.0,512.0,1024.0,17.0,4k,318800
+dell, G3 15 3590,I5G9,60.0,GTX 1660 Ti 6,8.0,512.0,0.0,16.0,fhd,120800
+dell, G5 15 SE Gaming Laptop ,I7,144.0,AMD RX 5600M 6,16.0,512.0,0.0,16.0,fhd,158800
+dell, G5 15 SE Gaming Laptop ,I7,144.0,AMD RX 5600M 6,8.0,512.0,0.0,16.0,fhd,152800
+dell, G7 15 7590 ,I7G8,60.0,RTX 2060 6 ,16.0,128.0,1024.0,16.0,fhd,180800
+dell, G7 17 7700 Gaming Laptop ,I7G10,144.0,RTX 2070 SUPER 8,32.0,1024.0,0.0,17.0,fhd,280800
+dell, Inspiron 15 5575 ,I7,144.0,AMD RX Vega 10,16.0,512.0,0.0,16.0,fhd,114800
+dell, inspiron 3593 ,I5G10,144.0,Intel,12.0,512.0,0.0,16.0,touch,88800
+dell, inspiron 7370 ,I5G8,144.0,Intel,8.0,256.0,0.0,13.0,fhd,94800
+dell, Inspiron 7380,I7G10,144.0,Intel,8.0,8.0,256.0,13.0,fhd,114800
+dell, Inspiron 7490- ,I7G10,192.0,Intel Uhd Graphics,8.0,512.0,0.0,14.0,ips,128800
+dell, Inspiron 7586 ,I5G8,144.0,Intel,8.0,256.0,0.0,16.0,touch,96800
+dell, Precision 5540 ,I7G8,144.0,T1000 4 Qudro,32.0,512.0,0.0,16.0,4k_touch,238800
+dell, Precision 7550 Workstation ,I5G10,144.0,NVIDIA Quadro RTX 4000 w/8 GDDR6,64.0,1024.0,0.0,16.0,fhd,298800
+dell, XPS 13 7390 ,I5G10,144.0,Intel,8.0,256.0,0.0,13.0,fhd,144800
+dell, XPS 13 7390,I7G10,144.0,Intel,8.0,16.0,512.0,13.0,fhd,210800
+dell, XPS 13 9300 ,I7G10,144.0,Intel,16.0,512.0,0.0,13.0,4k_touch,210800
+dell, XPS 13 9360 ,I7G8,144.0,Intel,16.0,512.0,0.0,13.0,touch,174800
+dell, XPS 13 9365,I5G8,144.0,Intel,8.0,256.0,0.0,13.0,touch,134800
+dell, XPS 13 9365,I7G8,144.0,Intel,8.0,512.0,0.0,13.0,touch,158800
+dell, XPS 13 9380 ,I7G8,144.0,Intel,16.0,512.0,0.0,13.0,fhd,170800
+dell, XPS 13 9380,I5G8,144.0,Intel,8.0,256.0,0.0,13.0,fhd,134800
+dell, XPS 15 7590 ,I7G9,144.0,GTX 1650,16.0,512.0,0.0,16.0,fhd,210800
+dell, XPS 15 7590 ,I7G9,144.0,GTX 1650 4,16.0,512.0,0.0,16.0,fhd,230800
+dell, XPS 15 9500 ,I5G10,144.0, Intel hd Graphics ,8.0,512.0,0.0,15.0,fhd,174800
+dell, XPS 15 9500 ,I7G10,144.0, GTX 1650 Ti 4 GDDR6,16.0,512.0,0.0,16.0,fhd,234800
+dell, XPS 15 9500 ,I7G10,144.0, GTX 1650 Ti 4 ,16.0,512.0,0.0,16.0,fhd,258800
+dell, XPS 15 9500 ,I7G10,144.0, GTX 1650 Ti 4 ,16.0,512.0,0.0,16.0,fhd,268800
+dell, XPS 15 9500 ,I7G10,144.0, GTX 1650 Ti 4 GDDR6,32.0,512.0,0.0,16.0,fhd,295800
+dell, XPS 15 9575,I7G8,144.0, RX Vega M 4,16.0,1024.0,0.0,16.0,4k_touch,290800
+dell, XPS 9570 ,I7G8,144.0, GTX 1050Ti 4,16.0,512.0,0.0,16.0,fhd,196800
+dell, XPS 9575 ,I5G8,144.0,RX VegaM 4,8.0,256.0,0.0,16.0,touch,154800
+dreammachines, RX2070-17NA32 Laptop,I9,144.0, RTX 2070 8,32.0,1024.0,0.0,17.0,fhd,378800
+dreammachines, G1650 ,I5G10,144.0, GTX 1650 4,16.0,1024.0,0.0,16.0,fhd,130800
+dreammachines, G1650 ,I5G10,144.0, GTX 1650 4,16.0,1024.0,0.0,16.0,fhd,120800
+dreammachines, G1650,I7G10,144.0, GTX 1650 4,16.0,1024.0,0.0,16.0,fhd,149800
+dreammachines, G1650 ,I7G10,144.0, GTX 1650 4,16.0,1024.0,0.0,16.0,fhd,140800
+dreammachines, RG2060 ,I7G10,144.0, RTX 2060 6,16.0,1024.0,0.0,16.0,fhd,170800
+dreammachines, RT2070-15NA53 Laptop,ryzen3,144.0, RTX 2070 8,16.0,1024.0,0.0,16.0,fhd,190800
+dreammachines, RT2070-15NA54 Laptop ,ryzen3,144.0, RTX 2070 8,16.0,1024.0,0.0,16.0,fhd,216800
+dreammachines, T1660Ti Laptop ,ryzen3,144.0, GTX 1660Ti 6,16.0,1024.0,0.0,16.0,fhd,190800
+hp, Envy Core 13 10th Gen i7 10510U,I7G10,144.0, MX250 2  Graphics,16.0,512.0,0.0,13.0,touch,170800
+hp, OMEN 15 GAMING AMD Ryzen 7 4800H,I7G10,144.0, GTX 1660Ti 6,16.0,1024.0,0.0,16.0,fhd,176800
+hp, OMEN 15,I7G9,144.0, GTX 1660 Ti,16.0,256.0,0.0,16.0,fhd,150800
+hp, OMEN 17 8th gen i7-8750H,I7G10,120.0, GTX 1070 8,16.0,256.0,1024.0,17.0,fhd,170800
+hp, Pavilion 14 Laptop,I5G11,192.0,Intel,8.0,256.0,0.0,14.0,ips,88800
+hp, Pavilion 15 GAMING ,I7G10,144.0, NVIDIA GTX 1650 4,8.0,256.0,0.0,6.0,fhd,106800
+hp, Pavilion 15 Gaming Laptop ,ryzen5,144.0, NVIDIA GTX 1650ti 4,16.0,512.0,0.0,16.0,fhd,134800
+hp, Pavilion ,I7G10,144.0, NVIDIA GeForce GTX 1650Ti ,8.0,512.0,0.0,16.0,fhd,146800
+hp, Pavilion Gaming Laptop ,I5G10,144.0, GTX 1660Ti 6,8.0,512.0,0.0,16.0,fhd,134800
+hp, ProBook 430G5,I5G8,144.0,Intel,8.0,256.0,0.0,13.0,fhd,84800
+hp, ProBook 440 G5,I5G8,144.0,Intel,8.0,0.0,500.0,14.0,fhd,82800
+hp, Spectre x360 2-in-1 ,I7G10,144.0,Intel,8.0,512.0,0.0,13.0,touch,168800
+hp, ZBook 15 G4 ,I7,144.0, Quadro M620 2,32.0,256.0,1024.0,16.0,fhd,230800
+hp, ZBook 15u G5,I7G8,144.0, Radeon Pro WX 3100 2,16.0,512.0,0.0,16.0,fhd,230800
+lenevo, Ideapad 3,ryzen5,144.0, ,8.0,512.0,0.0,16.0,fhd,79800
+lenevo, IdeaPad 3 ,I5G10,144.0, Intel Uhd Graphics,8.0,512.0,0.0,14.0,fhd,86800
+lenevo, IdeaPad 5 ,I5G10,144.0,Intel,8.0,512.0,0.0,16.0,fhd,88800
+lenevo, Ideapad 730S ,I5G8,192.0,Intel,8.0,256.0,0.0,13.0,ips,82800
+lenevo, IdeaPad L340 ,I5G9,60.0, GTX 1650 4,8.0,512.0,0.0,16.0,fhd,108800
+lenevo, IdeaPad Slim 5i ,I5G11,192.0,Intel,8.0,512.0,0.0,16.0,ips,90800
+lenevo, Legion 5 ,ryzen5,120.0, RTX 2060 6,8.0,512.0,0.0,16.0,fhd,154800
+lenevo, Legion 5,ryzen5,120.0, RTX 2060 6,16.0,512.0,0.0,16.0,fhd,160800
+lenevo, Legion 5,I7,144.0, RTX 2060 6,16.0,512.0,0.0,16.0,fhd,190800
+lenevo, LEGION 5 ,I7,144.0, GTX 1660Ti 6 ,16.0,512.0,0.0,16.0,fhd,170800
+lenevo, LEGION 5i ,I7G10,144.0, RTX 2060,16.0,256.0,0.0,16.0,fhd,184800
+lenevo, LEGION 5i,I7G10,240.0, RTX 2060,16.0,512.0,0.0,16.0,fhd,196800
+lenevo, LEGION 5i ,I7G10,120.0, GTX 1650Ti ,8.0,512.0,0.0,16.0,fhd,142800
+lenevo, LEGION 5i ,I7G10,120.0, GTX 1660Ti 6,8.0,512.0,0.0,16.0,fhd,154800
+lenevo, Legion 7i Gaming Laptop,I7G10,144.0, RTX 2070 Super Max-Q 8,16.0,1024.0,0.0,16.0,fhd,242800
+lenevo, Legion Y540 ,I7G9,144.0, GTX 1660Ti 6,16.0,512.0,0.0,16.0,fhd,156800
+lenevo, Legion Y540 ,I7G9,60.0,Intel,16.0,512.0,1024.0,16.0,fhd,140800
+lenevo, Legion Y730 ,I5G8,144.0, GTX 1050Ti 4,8.0,128.0,1024.0,16.0,fhd,110800
+lenevo, Legion Y740,I7G8,144.0, RTX 2070,16.0,256.0,1024.0,15.0,fhd,230800
+lenevo, Legion Y740,I7G9,144.0, RTX 2060,16.0,1024.0,0.0,15.0,fhd,215800
+lenevo, kPad 13 L390 ,I5G8,144.0,Intel,8.0,256.0,0.0,13.0,touch,116800
+lenevo, kpad E14,I5G10,192.0,Intel,8.0,0.0,1024.0,14.0,ips,108800
+lenevo, kpad E14 ,I7G10,192.0,Intel,8.0,256.0,0.0,14.0,ips,138800
+lenevo, kPad X1 Carbon,I7G8,144.0,Intel,16.0,512.0,0.0,14.0,fhd,205800
+lenevo, kPad X1 Carbon,I5G10,144.0,Intel,8.0,256.0,0.0,14.0,fhd,172800
+lenevo, kPad X1 Carbon,I7G10,144.0,Intel,16.0,1024.0,0.0,14.0,fhd,262800
+lenevo, kPad X1 Extreme ,I7G8,144.0, GTX 1050Ti 4,16.0,512.0,0.0,16.0,fhd,240800
+lenevo, kPad X395 ,ryzen3,144.0, Vega 10 Graphics,16.0,512.0,0.0,13.0,touch,148800
+lenevo, Yoga 920,I7G8,144.0,Intel,16.0,1024.0,0.0,13.0,4k_touch,178800
+lenevo, Yoga 920 ,I7G8,144.0,Intel,8.0,256.0,0.0,13.0,touch,128800
+lenevo, Yoga Duet 7i 2-in-1 ,I7G10,144.0,Intel,8.0,512.0,0.0,13.0,touch,154800
+apple,Macbook Pro 13 2020 ,I5G10,144.0,Intel,16.0,512.0,0.0,13.0,retina,262800
+apple,Macbook Pro 13  ,I5G8,144.0,Intel,8.0,256.0,0.0,13.0,retina,199800
+apple,Macbook Pro 2020 ,I5G8,144.0,Intel,8.0,512.0,0.0,13.0,retina,228800
+microsoft, Surface Book 2 2-IN-1,I7G8,144.0, GTX 1050 2,8.0,256.0,0.0,14.0,touch,258800
+microsoft, Surface Pro 6 ,I5G8,144.0,Intel,8.0,256.0,0.0,12.0,touch,168800
+microsoft, Surface Pro 6 ,I7G8,144.0,Intel,16.0,512.0,0.0,12.0,touch,248800
+microsoft, Surface Pro 7 ,I5G10,144.0,Intel,8.0,128.0,0.0,12.0,touch,154800
+microsoft, Surface Pro 7 ,I5G10,144.0,Intel,8.0,256.0,0.0,12.0,touch,178800
+microsoft, Surface Pro 7 ,I7G10,144.0,Intel,16.0,256.0,0.0,12.0,touch,262800
+microsoft, Surface Pro ,I5G7,144.0,Intel,8.0,256.0,0.0,12.0,touch,152800
+msi, Alpha 15,ryzen3,144.0, Radeon RX5500 4,16.0,512.0,0.0,16.0,fhd,140800
+msi, GE63 Raider ,I7G8,144.0, RTX 2070 8 ,16.0,512.0,1024.0,16.0,fhd,205800
+msi, GE63 Raider ,I7G8,120.0, GTX 1060 6,16.0,256.0,1024.0,16.0,fhd,154800
+msi, GE63 Raider ,I7G9,144.0, RTX 2060 6,16.0,1024.0,0.0,16.0,fhd,196800
+msi, GF63 ,I5G9,60.0, GTX 1650 4,8.0,512.0,0.0,16.0,fhd,102800
+msi, GF63 ,I7G10,120.0, GTX 1660Ti 6,8.0,512.0,0.0,16.0,fhd,158800
+msi, GL63 ,I7G9,144.0, GTX 1660Ti 6,16.0,512.0,0.0,16.0,fhd,154800
+msi, GL63 ,I7G9,144.0, RTX 2060 6,16.0,512.0,0.0,16.0,fhd,184800
+msi, GL63 ,I5G8,60.0, GTX 1050 2,8.0,128.0,1024.0,16.0,fhd,84800
+msi, P65 Creator,I7G8,144.0, GTX 1050TI 4,16.0,256.0,0.0,16.0,fhd,148800
+msi, P65 Creator ,I7G8,144.0,GTX 1060 6,16.0,512.0,0.0,16.0,fhd,154800
+msi, PS42 Modern,I7G8,144.0, GTX 1050 2,16.0,256.0,0.0,14.0,fhd,148800
+msi, GS65-Stealth ,I7G9,144.0, GTX 1660Ti 6,16.0,512.0,0.0,16.0,fhd,165800
+msi, GS65-Stealth,I7G9,240.0, RTX 2060 6,32.0,512.0,0.0,16.0,fhd,205800
+razer, Blade 15 ,I7G9,144.0, GTX 1660 Ti 6,16.0,256.0,0.0,16.0,fhd,192800
+razer, Blade 15 GAMING ,I7G10,144.0, RTX 2060 6,16.0,512.0,0.0,16.0,fhd,248800
+samsung, Odyssey ,I7,144.0, GTX 1060 6,16.0,128.0,1024.0,16.0,fhd,120800
+acer,Aspire A515-51G-731M,I7,144.0,NVIDIA GeForce 940MX,12.0,256.0,0.0,16.0,fhd,90000
+acer,ASPIRE E5-575-33BM,I3,144.0,Intel,4.0,0.0,0.0,16.0,fhd,48000
+acer,Aspire V 15 Nitro 7-593G-76SS,I7,144.0,NVIDIA GTX1060,16.0,0.0,1024.0,16.0,fhd,135000
+acer,Predator G9-593-73N6,I7,144.0,NVIDIA GTX1060,16.0,256.0,1024.0,16.0,fhd,170000
+acer,Predator Helios 300,I7,144.0,NVIDIA GTX1060,16.0,512.0,0.0,16.0,fhd,145000
+acer,Predator Triton 500,I7G10,60.0,Intel,16.0,0.0,0.0,16.0,hd,186800
+acer,R5,I5G7,144.0,NVIDIA 940MX ,8.0,0.0,0.0,16.0,fhd,77000
+acer,R5-571TG-78G8,I7G10,144.0,NVIDIA GeForce 940MX,12.0,0.0,1024.0,16.0,fhd,90000
+alienware,AREA-51M,I7G10,144.0,RTX 2070,8.0,0.0,0.0,17.0,fhd,432800
+apple, Mac Mini ,I3,144.0,Intel,8.0,256.0,0.0,13.0,fhd,158000
+apple, MacBook Air,I5,60.0,Intel,8.0,128.0,0.0,13.0,hd,115000
+apple, MacBook Air,I5,60.0,Intel,8.0,256.0,0.0,13.0,hd,138000
+apple, MacBook Pro,I5,144.0,Intel,8.0,256.0,0.0,13.0,fhd,212000
+apple, MacBook Pro,I5,144.0,Intel,8.0,512.0,0.0,13.0,fhd,245000
+apple, MacBook Pro,I5,144.0,Intel,8.0,128.0,0.0,13.0,fhd,158000
+apple, MacBook Pro,I5,144.0,Intel,8.0,256.0,0.0,13.0,fhd,185000
+asus, ROG G531GT-BI7N6,I7G9,144.0,GTX 1650 ,8.0,512.0,0.0,13.0,fhd,140000
+asus, ROG G752VS-US74K,I7,144.0,NVIDIA GeForce GTX 1070,8.0,512.0,1024.0,17.0,fhd,280000
+asus, ROG GL502VS-DS71,I7,144.0,NVIDIA GTX1070,16.0,128.0,1024.0,16.0,fhd,195000
+asus, ROG GL503VD-DB74,I7,144.0,GTX1050,6.0,256.0,1024.0,16.0,fhd,140000
+asus, ROG GL503VM-DB74,I7,144.0,GTX1060,16.0,256.0,1024.0,16.0,fhd,170000
+asus, ROG GL504GM-ES152T Hero 2,I7G8,144.0,GTX 1060,16.0,512.0,0.0,16.0,fhd,175000
+asus, ROG GL553VE-FY169,I7,144.0,NVIDIA GTX1050,16.0,0.0,1024.0,16.0,fhd,128000
+asus, ROG GL753VE-IS74,I7,144.0,NVIDIA GTX1050Ti,16.0,128.0,1024.0,16.0,fhd,135000
+asus, ROG ZEPHYRUS S GX531GS-AH76,I7G8,144.0,GTX 1070,16.0,0.0,0.0,16.0,fhd,210000
+asus, TUF  fhd -Type,I7G10,144.0,AMD Ryzen 7 3550H,8.0,0.0,1024.0,16.0,fhd,110000
+asus, TUF AMD Ryzen 7 R7-3750H,I7G10,144.0,GeForce GTX 1660 Ti,16.0,256.0,1024.0,16.0,fhd,149999
+asus, VivoBook S15 S510UN-MS52,I5G8,144.0,Intel,8.0,256.0,0.0,16.0,fhd,89000
+asus, ZenBook UX430UN-IH74,I7G8,144.0,NVIDIA GeForce MX150,16.0,512.0,0.0,14.0,fhd,140000
+dell, 3580 Latitude Laptop,I5G7,144.0,Intel,4.0,0.0,1024.0,15.0,fhd,66500
+dell, alienware 15R4,I7G8,144.0,Intel,16.0,256.0,1024.0,15.0,fhd,190800
+dell, alienware M17-7219SLV,I7G8,144.0,Intel,16.0,512.0,0.0,15.0,fhd,290000
+dell, G3 3579 Core ,I7G8,144.0,Intel,16.0,256.0,1024.0,16.0,fhd,160000
+dell, G3 3590,I5G9,60.0,Intel,8.0,0.0,0.0,16.0,hd,124800
+dell, G5,I7G9,144.0,Intel,8.0,0.0,0.0,16.0,fhd,164800
+dell, Inspiron 14 7460,I7,144.0,Intel,8.0,0.0,0.0,14.0,fhd,79990
+dell, Inspiron 15 3552,pentium,144.0,Intel,4.0,0.0,500.0,15.0,fhd,34000
+dell, Inspiron 3573 Intel,pentium,144.0,Intel,4.0,0.0,500.0,16.0,fhd,29999
+dell, Inspiron 3580,I7G8,144.0,Intel,8.0,0.0,1024.0,16.0,fhd,78898
+dell, Inspiron 3581,I3,144.0,Intel,4.0,0.0,1024.0,16.0,fhd,42995
+dell, Inspiron 5565,I7G10,144.0,Intel,8.0,0.0,1024.0,16.0,fhd,65000
+dell, Inspiron 5570 ,I7G10,144.0,Intel,8.0,0.0,1024.0,16.0,fhd,98500
+dell, Inspiron 5570 Laptop,I5G8,60.0,Intel,4.0,0.0,1024.0,16.0,hd,65500
+dell, Inspiron 7370,I5G8,144.0,Intel,8.0,256.0,0.0,13.0,fhd,85000
+dell, Inspiron 7567,I7,144.0,NVIDIA GTX1050Ti,16.0,128.0,1024.0,16.0,fhd,127000
+dell, Inspiron 7567,I5G7,144.0,NVIDIA GTX1050Ti,8.0,256.0,0.0,16.0,fhd,100000
+dell, Inspiron 7570,I7G10,144.0,NVIDIA 940MX,16.0,512.0,0.0,16.0,fhd,135000
+dell, Inspiron 7573-7019BLK ,I7G8,144.0,Nvidia MX130 ,16.0,256.0,0.0,15.0,fhd,135000
+dell, Inspiron 7577,I7,144.0,NVIDIA GTX1060,16.0,128.0,1024.0,16.0,fhd,146000
+dell, Latitude 3480 Laptop,I3G6,144.0,Intel,4.0,0.0,1024.0,15.0,fhd,42951
+hp, 15-DA0326TU,I3G7,144.0,Intel,4.0,0.0,1024.0,14.0,fhd,45600
+hp, Envy,I7G8,144.0,Intel,8.0,360.0,0.0,13.0,fhd,115000
+hp, ENVY 15T x360,I5G8,144.0,Intel,8.0,0.0,0.0,16.0,fhd,80000
+hp, OMEN 15-DC0020CA,I7G8,144.0,Intel,16.0,128.0,1024.0,14.0,fhd,155000
+hp, Pavilion - 14-bf116tx,I5G8,144.0,NVIDIA GeForce 940MX ,8.0,0.0,1024.0,14.0,fhd,77000
+hp, Pavilion 15 CK063TX,I5G8,144.0,NVIDIA MX150,8.0,0.0,1024.0,16.0,fhd,76000
+hp, Pavilion 15 Power,I5G7,144.0,NVIDIA GTX1050,8.0,0.0,1024.0,16.0,fhd,88000
+hp, Pavilion 15-Ck013ca,I7G8,144.0,NIVIDIA GeForce MX150,12.0,256.0,1024.0,16.0,fhd,95000
+hp, Pavilion 15-CK075,I5G8,60.0,Intel,8.0,0.0,0.0,16.0,hd,75000
+hp, ProBook 440 G4,I5G7,144.0,Intel,8.0,0.0,500.0,14.0,fhd,65000
+hp, Spectre 15-BL112 x360,I7G10,144.0,NVIDIA MX150,16.0,512.0,0.0,16.0,fhd,185000
+hp, Spectre x360 8th gen hp,I7G10,144.0,Intel,16.0,512.0,0.0,13.0,fhd,175000
+lenevo, Ideapad 330 81DC00TGIN,I3G6,60.0,Intel,4.0,0.0,1024.0,16.0,hd,39975
+lenevo, LEGION Y730,I7G8,144.0,GTX 1050 Ti,16.0,128.0,1024.0,15.0,fhd,110800
+lenevo, V110 80THA00TIH Laptop,I5G7,144.0,Intel,4.0,500.0,0.0,16.0,fhd,53500
+lenovo,Y720 Legion,I7,144.0,NVIDIA GTX1060,16.0,256.0,0.0,14.0,fhd,159000
+lenovo,Yoga 720-13IKB,I5G7,144.0,Intel,4.0,128.0,0.0,13.0,fhd,75000
+lenovo,Yoga 720-15IKB,I7,144.0,NVIDIA GTX1050,8.0,512.0,0.0,16.0,fhd,145000
+lenovo,Yoga 910,I7,144.0,Intel,8.0,256.0,0.0,14.0,fhd,115000
+macbook,Pro,I7G10,144.0,Intel,8.0,512.0,0.0,16.0,fhd,330000
+microsoft surface,Book SX300001,I5G6,144.0,NVIDIA GeForce Graphics,8.0,256.0,0.0,14.0,fhd,170000
+microsoft surface,Pro 4,I7,144.0,Intel,16.0,256.0,0.0,12.0,fhd,195000
+msi,GL63,I7G9,144.0,NVIDIA GeForce RTX 2060,6.0,0.0,0.0,16.0,fhd,178800
+msi,GS43VR 7RE PHANTOM Pro,I7,144.0,NVIDIA GTX 1060,16.0,128.0,1024.0,14.0,fhd,175000
+msi,GS63VR STEALTH Pro,I7,144.0,NVIDIA GTX 1060,16.0,256.0,1024.0,16.0,fhd,175000
+razer blade,Core,I7,144.0,NVIDIA GTX1060,16.0,512.0,0.0,14.0,fhd,230000
+razer blade,Pro,I7,144.0,NVIDIA GTX1060,16.0,256.0,2048.0,17.0,qhd,280000
+razer blade,Stealth,I7,144.0,Intel,16.0,512.0,0.0,13.0,fhd,145000
+samsung,Notebook Odyssey,I7,144.0,Intel,8.0,0.0,1024.0,16.0,fhd,132800
+acer,Aspire 5,I3G10,60.0,Intel,4.0,0.0,1024.0,16.0,hd,60000
+acer,Aspire 5,I3G10,144.0,Intel,4.0,256.0,0.0,14.0,fhd,61000
+acer,Swift 3 SF314-57-56QV,I5G10,144.0,Intel,4.0,256.0,0.0,14.0,fhd,80000
+acer,Aspire 5,I5G10,144.0,Intel,8.0,512.0,0.0,16.0,fhd,86000
+acer,Swift 3 SF314-57G-53QQ,I5G10,144.0,NVIDIA MX350,4.0,256.0,0.0,14.0,fhd,89000
+acer,Swift 3 SF314-57G-560R,I5G10,144.0,NVIDIA MX350,4.0,512.0,0.0,14.0,fhd,93000
+acer,Swift 3,ryzen5,144.0,AMD VEGA 8,8.0,256.0,0.0,14.0,fhd,95000
+acer,Swift 3 SF314-57G-57ZV,I5G10,144.0,NVIDIA MX350,8.0,256.0,0.0,14.0,fhd,97000
+acer,Nitro 5,I5G9,144.0,GTX 1650,8.0,128.0,1024.0,16.0,fhd,107000
+acer,Nitro 5,I5G10,144.0,GTX 1650,8.0,256.0,0.0,16.0,fhd,112000
+acer,Swift 3 SF314-57G-74RA,I7G10,144.0,NVIDIA MX350,8.0,256.0,0.0,14.0,fhd,115000
+acer,Nitro 5,I5G10,144.0,GTX 1650ti,8.0,256.0,0.0,16.0,fhd_touch,118000
+acer,Spin 3,I7G10,144.0,Intel,8.0,512.0,0.0,14.0,fhd,120000
+acer,Nitro 5,ryzen5,144.0,GTX 1650Ti,8.0,256.0,0.0,16.0,fhd_touch,123000
+acer,Nitro 5,I5G8,144.0,GTX 1050,8.0,0.0,1024.0,16.0,fhd,125000
+acer,Nitro 5,ryzen5,144.0,GTX 1650ti,8.0,512.0,0.0,16.0,fhd,125000
+acer,Nitro 5,I5G10,144.0,GTX 1650ti,8.0,512.0,0.0,16.0,fhd,129000
+acer,Nitro 5,I7,144.0,GTX 1650ti,8.0,0.0,1024.0,16.0,fhd_touch,137000
+acer,Nitro Spin 5,I7G8,144.0,GTX 1050,8.0,0.0,1024.0,16.0,fhd,143000
+acer,Nitro 5,I7,144.0,GTX 1650ti,8.0,512.0,0.0,16.0,fhd,144000
+acer,Nitro 5,I7G10,144.0,GTX 1650ti,8.0,256.0,0.0,16.0,fhd,145000
+acer,Nitro 5,I5G10,144.0,RTX 2060,8.0,0.0,1024.0,16.0,fhd,148000
+acer,Predator Helios  300,I5G10,144.0,GTX 1660Ti,8.0,512.0,0.0,16.0,fhd,149000
+acer,Nitro 5,I7G10,144.0,GTX 1650ti,8.0,512.0,0.0,16.0,fhd_touch,155000
+acer,Nitro Spin 5,I7G8,144.0,GTX 1050,16.0,256.0,1024.0,16.0,fhd,158000
+acer,Nitro 5,I7G9,144.0,RTX 2060,16.0,256.0,0.0,16.0,fhd,165000
+acer,Predator Helios 300,I7G10,144.0,GTX 1660Ti,16.0,512.0,0.0,16.0,fhd,169000
+acer,Predator Helios 300,I7G10,144.0,GTX 1660Ti,16.0,1024.0,0.0,16.0,fhd,190000
+acer,Predator Helios 300,I7G10,120.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,195000
+acer,Predator Triton 300,I7G10,144.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,205000
+acer,Predator Triton 300,I7G10,144.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,215000
+acer,Predator Helios 300,I7G10,240.0,RTX 2070,16.0,512.0,0.0,16.0,fhd,235000
+acer,Predator Triton 300,I7G10,144.0,RTX 2070,16.0,512.0,0.0,16.0,fhd,235000
+acer,Predator Triton 500,I7G10,144.0,RTX 2070,16.0,512.0,0.0,16.0,fhd,265000
+asus,VivoBook 15 X515MA,celeron,144.0,Intel,4.0,256.0,0.0,16.0,fhd,48000
+asus,VivoBook E410MA,celeron,144.0,Intel,4.0,256.0,0.0,14.0,fhd_touch,48000
+asus,VivoBook Flip 14 TP401MA,celeron,144.0,Intel,4.0,128.0,0.0,14.0,fhd,57700
+asus,VivoBook 14 X415JA,I3G10,144.0,Intel,4.0,256.0,0.0,14.0,fhd,63000
+asus,VivoBook 14 X413EA,I3G11,144.0,Intel,4.0,256.0,0.0,14.0,fhd,67000
+asus,VIVOBOOK X409JA,I5G10,144.0,Intel,4.0,256.0,0.0,14.0,fhd_touch,75000
+asus,VivoBook Flip 14 TP412FA,I3G10,144.0,Intel,4.0,256.0,0.0,14.0,fhd,83000
+asus,VivoBook 14 X415JA,I5G10,144.0,Intel,8.0,256.0,0.0,14.0,fhd,83000
+asus,VivoBook 15 M513IA,ryzen5,144.0,Intel,8.0,256.0,0.0,16.0,fhd,87000
+asus,VIVOBOOK X509JP,I5G10,144.0,NVIDIA MX330,4.0,0.0,1024.0,16.0,fhd,87000
+asus,VivoBook 15 X515JA,I5G10,144.0,Intel,8.0,512.0,0.0,16.0,fhd,88000
+asus,VIVOBOOK X515EA,I5G11,144.0,Intel,8.0,256.0,0.0,16.0,fhd,90000
+asus,VivoBook 14 X413EA,I5G11,144.0,Intel,8.0,256.0,0.0,14.0,fhd,95000
+asus,VivoBook 15 K513EA,I5G11,144.0,Intel,8.0,512.0,0.0,16.0,fhd,102000
+asus,VIVOBOOK K403FA,I5G10,144.0,Intel,8.0,512.0,0.0,14.0,fhd_touch,106000
+asus,VivoBook Flip TM420IA,I7G10,144.0,Intel,8.0,512.0,0.0,14.0,fhd,108000
+asus,VIVOBOOK X415JA,I7G10,144.0,Intel,8.0,256.0,0.0,14.0,fhd,115000
+asus,VIVOBOOK S15 S533FL,I5G10,144.0,Intel,8.0,512.0,0.0,16.0,fhd_touch,116000
+asus,VivoBook Flip 14 TM420UA,ryzen5,144.0,Intel,8.0,512.0,0.0,14.0,fhd,116000
+asus,VivoBook S14 S431,I7G10,144.0,NVIDIA MX250,8.0,256.0,0.0,14.0,fhd_touch,120000
+asus,VivoBook Flip 14 TP470EA,I5G11,144.0,1135G7,8.0,512.0,0.0,14.0,fhd,120000
+asus,VivoBook 15 X515JP,I7G10,144.0,NVIDIA MX330,8.0,512.0,0.0,16.0,fhd,122000
+asus,TUF F15 Gaming Laptop,I5G10,144.0,GTX 1650,8.0,512.0,0.0,16.0,fhd,122000
+asus,ZenBook 13 UX325JA,I5,144.0,Intel,8.0,512.0,0.0,13.0,fhd,125000
+asus,ZenBook 14 UX425JA,I5,144.0,Intel,8.0,512.0,0.0,14.0,fhd,125000
+asus,VivoBook 15 X515EP,I7G11,144.0,NVIDIA MX330,8.0,512.0,0.0,16.0,fhd,126000
+asus,ZenBook 13 UX325EA,I5,144.0,Intel,8.0,512.0,0.0,13.0,fhd,127000
+asus,ZenBook 14 UX425EA,I5,144.0,Intel,8.0,512.0,0.0,14.0,fhd,127000
+asus,VIVOBOOK K403FA,I7G10,144.0,Intel,16.0,512.0,0.0,14.0,fhd,131000
+asus,TUF F15 Gaming Laptop,I5G10,144.0,GTX 1650Ti,16.0,512.0,0.0,16.0,fhd_touch,132000
+asus,S ZenBook UX463FA,I5G10,144.0,Intel,8.0,512.0,0.0,14.0,fhd,134000
+asus,TUF A15 Gaming Laptop,ryzen5,144.0,GTX 1650Ti,8.0,512.0,0.0,16.0,fhd,135000
+asus,VivoBook 15 K513EQ,I7G11,144.0,NVIDIA MX350,8.0,512.0,0.0,16.0,fhd,135000
+asus,ROG Strix G531GT,I5G9,144.0,GTX 1650,8.0,512.0,0.0,16.0,fhd_touch,137000
+asus,VivoBook Flip 14 TP470EA,I7G11,144.0,1135G7,8.0,512.0,0.0,14.0,fhd,138000
+asus,VivoBook S15 S533EA,I7G11,144.0,Intel,16.0,512.0,0.0,16.0,fhd,141000
+asus,VivoBook S15 S533JQ,I7G10,144.0,Nvidia MX350,16.0,512.0,0.0,16.0,fhd,141000
+asus,ZenBook 14 UX434FQ,I5G10,144.0,NVIDIA MX350,8.0,512.0,0.0,14.0,fhd,142000
+asus,ROG Strix G15 G512LI,I5G10,144.0,GTX 1650TI,16.0,512.0,0.0,16.0,fhd_touch,143000
+asus,ZenBook Flip 13 UX363EA,I5G11,144.0,Intel,16.0,512.0,0.0,13.0,fhd,146000
+asus,TUF F15 Gaming Laptop,I7G10,144.0,8 Core GTX 1650,8.0,512.0,0.0,16.0,fhd,148000
+asus,ZenBook 13 UX325JA,I7G10,144.0,Intel,16.0,512.0,0.0,13.0,fhd,148000
+asus,TUF A15 FA506II Gaming Laptop,I7,144.0,GTX 1650Ti,16.0,512.0,0.0,16.0,fhd_touch,152000
+asus,ZenBook 14 UX435EG,I5G11,144.0,Intel,8.0,512.0,0.0,14.0,fhd,153000
+asus,ZenBook 13 UX325EA,I7G10,144.0,Intel,16.0,512.0,0.0,13.0,fhd,154000
+asus,ZenBook 14 UX425EA,I7G10,144.0,Intel,16.0,512.0,0.0,13.0,fhd,154000
+asus,TUF A15 FA506IU Gaming Laptop,I7,144.0,GTX 1660Ti,16.0,512.0,0.0,16.0,fhd,161000
+asus,TUF A17 FA706IU Gaming Laptop,I7,120.0,GTX 1660Ti,8.0,512.0,0.0,17.0,hd,167000
+dell,Vostro 3501,I3G10,60.0,Intel,4.0,0.0,1024.0,16.0,hd,59000
+dell,Vostro 3401,I3G10,60.0,Intel,4.0,0.0,1024.0,14.0,hd,59000
+dell,Vostro 3401,I3G10,60.0,Intel,8.0,0.0,1024.0,14.0,hd,62000
+dell,Latitude 3410,I3G10,144.0,Intel,4.0,0.0,1024.0,14.0,fhd,65500
+dell,Vostro 3400,I5G11,144.0,Intel,4.0,0.0,1024.0,14.0,fhd,79000
+dell,Vostro 3500,I5G11,144.0,Intel,4.0,0.0,1024.0,16.0,fhd,79000
+dell,Inspirion 3501,I5G11,144.0,Nvidia MX330 2GB,8.0,256.0,0.0,16.0,fhd,94000
+dell,Inspiron 5391,I5G10,144.0,Intel,8.0,256.0,0.0,13.0,fhd,103000
+dell,G3 G3590,I5G9,144.0,GTX 1650,8.0,512.0,0.0,16.0,fhd,108000
+dell,Vostro 3500,I7G11,144.0,Nvidia MX330,8.0,512.0,0.0,16.0,fhd_touch,112000
+dell,Inspiron 7490,I5G10,144.0,Intel,8.0,256.0,0.0,14.0,fhd,118000
+dell,Inspiron 7391,I5G10,144.0,Intel,8.0,256.0,0.0,13.0,fhd_touch,118000
+dell,Inspiron 7300 2-in-1,I5G10,144.0,Intel,8.0,512.0,0.0,13.0,fhd,119000
+dell,Inspiron 7490,I7G10,144.0,Intel,8.0,512.0,0.0,14.0,fhd_touch,120000
+dell,Inspiron 5400 2-in-1,I7G10,120.0,Intel,8.0,512.0,0.0,14.0,fhd,121000
+dell,G3 G3500 i5,I7G10,144.0,NVIDIA GTX 1650TI,8.0,512.0,0.0,16.0,fhd,125000
+dell,Inspiron 7490,I5G10,144.0,NVIDIA MX250,8.0,512.0,0.0,14.0,fhd,125000
+dell,G3 G3500,I5G10,144.0,NVIDIA GTX 1660TI,16.0,512.0,0.0,16.0,fhd_touch,135000
+dell,Inspiron 7405 2-in-1,I7,144.0,Intel,16.0,512.0,0.0,14.0,fhd,135000
+dell,XPS 13 7390,I5G10,144.0,Intel,8.0,256.0,0.0,13.0,fhd,140000
+dell,Inspiron 7391,I7G10,144.0,NVIDIA MX250,8.0,512.0,0.0,13.0,fhd,148000
+dell,Inspiron 7591,I7G9,144.0,GTX 1650 Graphics Card,16.0,512.0,0.0,16.0,fhd,155000
+dell,G3 G3590,I7G9,144.0,NVIDIA GTX 1660Ti,16.0,256.0,1024.0,16.0,fhd,156000
+dell,Inspiron 7490,I7G10,144.0,NVIDIA MX250 Graphics,16.0,512.0,0.0,14.0,fhd,156000
+dell,G5 15 SE 2020 Gaming Laptop,I7,144.0,AMD RX 5600M 6144MB,8.0,512.0,0.0,16.0,4k_touch,158000
+dell,Inspiron 7391 2-in-1,I7G10,144.0,Intel,16.0,512.0,0.0,13.0,fhd,160000
+dell,Vostro 7500,I7G10,144.0,GTX 1650ti Graphics Card,16.0,1024.0,0.0,16.0,fhd,175000
+dell,XPS 13 7390,I7G10,144.0,Intel,16.0,512.0,0.0,13.0,fhd,185000
+dell,XPS 15 7590,I7G9,144.0,GTX 1650,16.0,256.0,0.0,16.0,4k_touch,195000
+dell,XPS 13 7390,I7G10,144.0,Intel,16.0,512.0,0.0,13.0,fhd_touch,200000
+dell,XPS 13 7390 2-in-1,I7G10,300.0,Intel,16.0,512.0,0.0,13.0,fhd,200000
+dell,Alienware M15 R3,I7G10,144.0,RTX 2070 SUPER,16.0,512.0,0.0,16.0,fhd_touch,310000
+hp,ProBook 11 G3 EE x360 2-in-1,celeron,60.0,Intel,4.0,128.0,0.0,12.0,hd,47000
+hp,Notebook 14-CF3065TU,I3G10,60.0,Intel,4.0,0.0,1024.0,14.0,hd,59000
+hp,Notebook 14-DK1025WM,ryzen3,60.0,Intel,8.0,256.0,0.0,14.0,hd,60000
+hp,Pavilion X360,I3G10,60.0,Intel,8.0,128.0,0.0,14.0,hd,72000
+hp,Notebook 14-DQ1059,I5G10,60.0,Intel,8.0,256.0,0.0,14.0,hd,79000
+hp,Laptop 15-dy2045nr,I5G11,144.0,Intel,8.0,256.0,0.0,16.0,fhd,88000
+hp,Notebook 14-CE3056TX,I5G10,144.0,NVIDIA MX130,4.0,0.0,1024.0,14.0,fhd,89000
+hp,Pavilion 15-EH0090,ryzen5,60.0,AMD VEGA 8,8.0,512.0,0.0,16.0,hd,97000
+hp,Laptop 15s-du2045TX,I7G10,144.0,NVIDIA MX330 2GB,8.0,0.0,1024.0,16.0,fhd,105000
+hp,Pavilion Power 15 2020,ryzen5,144.0,GTX 1650,8.0,256.0,0.0,16.0,fhd_touch,108000
+hp,Pavilion 15-EF1013,I7,144.0,AMD Vega 8,8.0,512.0,0.0,16.0,fhd_touch,112000
+hp,Pavilion X360 2020,I5G11,144.0,Intel,8.0,512.0,0.0,14.0,fhd,115000
+hp,Envy 13 2021,I5G11,144.0,Intel,8.0,256.0,0.0,13.0,fhd_touch,120000
+hp,Envy x360 13M,I7G11,144.0,Intel,8.0,512.0,0.0,13.0,fhd_touch,140000
+hp,Spectre 13 x360,I5G10,144.0,Intel,8.0,256.0,0.0,13.0,4k_touch,142000
+hp,Envy 13 2020,I7G10,144.0,Intel,8.0,512.0,0.0,13.0,fhd,148000
+hp,Omen 15 2020,I7,144.0,GTX 1660Ti,8.0,512.0,0.0,16.0,fhd,160000
+hp,Omen 15 2020,I7,144.0,GTX 1660Ti,16.0,1024.0,0.0,16.0,fhd_touch,175000
+hp,Spectre 13,I7G10,144.0,Intel,8.0,512.0,0.0,13.0,4k,185000
+hp,Spectre 15 x360,I7G10,144.0,MX 250,16.0,512.0,0.0,16.0,fhd,225000
+msi,Modern 14 A10RB,I5G10,144.0,MX250,8.0,512.0,0.0,16.0,fhd,122000
+msi,Modern 15 A10RAS,I5G10,144.0,MX330,8.0,512.0,0.0,16.0,fhd,122000
+msi,GF63 9SCSR,I5G9,144.0,GTX 1650Ti,8.0,512.0,0.0,16.0,fhd,135000
+msi,Modern 14 A10RB,I7G10,144.0,MX250,8.0,512.0,0.0,16.0,fhd,135000
+msi,Modern 15 A10RAS,I7G10,144.0,MX330,8.0,512.0,0.0,16.0,fhd,135000
+msi,GL65 9SCK,I5G9,144.0,GTX 1650,8.0,512.0,0.0,16.0,fhd,145000
+msi,GF75 9SC,I7G9,144.0,GTX 1650,8.0,128.0,1024.0,17.0,fhd,148000
+msi,GF63 Thin 10SCXR,I7G10,120.0,GTX 1650,8.0,512.0,0.0,16.0,fhd,152000
+msi,GL65 9SCK,I7G9,144.0,GTX 1650,8.0,512.0,0.0,16.0,fhd,160000
+msi,GF63 Thin 10SCSR,I7G10,144.0,GTX 1650Ti,8.0,512.0,0.0,16.0,fhd,162000
+msi,GE 63VR Raider,I7G8,120.0,GTX 1060,16.0,256.0,1024.0,16.0,fhd,165000
+msi,GF65 10SDR,I5G10,120.0,GTX 1660Ti,8.0,512.0,0.0,16.0,fhd,168000
+msi,GF65 9SD,I7G9,144.0,GTX 1660Ti,16.0,512.0,0.0,16.0,fhd,170000
+msi,Prestige 14 A10RAS Rose Pink,I7G10,144.0,MX330,16.0,512.0,0.0,14.0,fhd,180000
+msi,GF65 10SDR,I7G10,120.0,GTX 1660Ti,8.0,512.0,0.0,16.0,fhd,183000
+msi,GL65 9SDK,I7G9,120.0,GTX 1660Ti,16.0,256.0,1024.0,16.0,fhd,185000
+msi,GF65 10SDR,I7G10,144.0,GTX 1660Ti,16.0,512.0,0.0,16.0,fhd,185000
+msi,Prestige 14 10SC,I7G10,144.0,GTX 1650,16.0,512.0,0.0,14.0,fhd,188000
+msi,GF65 10SER,I7G10,144.0,RTX 2060,16.0,512.0,0.0,16.0,fhd,195000
+msi,GL75 Leopard 10SDR,I7G10,144.0,GTX 1660Ti,16.0,512.0,0.0,16.0,fhd,205000
+msi,GP65 Leopard 10SDK,I7G10,120.0,GTX 1660Ti,16.0,512.0,0.0,16.0,fhd,205000
+msi,GL65 Leopard 10SDK,I7G10,144.0,GTX 1660Ti,16.0,256.0,1024.0,16.0,fhd,208000
+msi,GL65 Leopard 10SDK,I7G10,144.0,GTX 1660Ti,16.0,256.0,1024.0,16.0,fhd,215000
+msi,GL65 Leopard 10SEK,I7G10,144.0,RTX 2060,16.0,256.0,1024.0,16.0,fhd,227000
+msi,GS65 Stealth Thin 9SD,I7G9,144.0,GTX 1660Ti,16.0,512.0,0.0,16.0,fhd,230000
+msi,PS65 Creator 9SD,I7G9,144.0,GTX 1660Ti,32.0,1024.0,0.0,16.0,4k,240000
+msi,Prestige 15 A10SC,I7G10,144.0,GTX 1650,16.0,1024.0,0.0,16.0,fhd,240000
+msi,GP65 Leopard 10SFK,I7G10,240.0,RTX 2070,16.0,512.0,1024.0,16.0,fhd,255000
+msi,GE65 Raider 9SE,I7G9,144.0,RTX 2060,16.0,1024.0,0.0,16.0,fhd,260000
+msi,PS65 Creator 9SE,I7G9,144.0,RTX 2060,32.0,1024.0,0.0,16.0,fhd,260000
+msi,GP65 Leopard 10SFK,I7G10,144.0,RTX 2070,32.0,0.0,0.0,16.0,fhd,270000
+msi,GP65 Leopard 10SFK,I7G10,144.0,RTX 2070,32.0,512.0,1024.0,16.0,fhd,280000
+msi,GS65 Stealth,I7G9,144.0,GTX RTX 2070,16.0,1024.0,0.0,17.0,fhd,280000
+msi,GS66 Stealth 10SD Thin,I7G10,240.0,GTX 1660Ti,16.0,512.0,0.0,16.0,fhd,295000
+msi,GE66 Raider 10SF,I7G10,240.0,RTX 2070,16.0,1024.0,0.0,16.0,fhd,306000
+msi,GS65 Stealth Thin 9SF,I7G9,240.0,GTX 2070,16.0,1024.0,1024.0,16.0,fhd,310000
+msi,GS65 Raider 9SF,I7G9,144.0,GTX 2070,16.0,1024.0,0.0,16.0,fhd,310000
+msi,GE75 Raider,I7G9,240.0,RTX 2080,32.0,512.0,0.0,17.0,fhd,350000
+msi,GE66 Raider 10SFS,I7G10,240.0,RTX 2070 SUPER,16.0,2048.0,0.0,16.0,fhd,370000
+msi,GE66 Raider 10SFS,I9,300.0,RTX 2070 SUPER,16.0,1024.0,0.0,16.0,fhd,370000
+msi,GS66 Stealth 10SFS Thin,I7G10,144.0,RTX 2070,32.0,1024.0,0.0,16.0,4k,395000
+msi,Creator 15 A10SFS,I7G10,144.0,RTX 2070 SUPER MAX-Q,32.0,1024.0,0.0,16.0,4k,450000
